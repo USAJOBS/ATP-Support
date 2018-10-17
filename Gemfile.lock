@@ -252,11 +252,11 @@ PLATFORMS
 
 DEPENDENCIES
   bourbon
-  github-pages (~> 175)
+  github-pages
   html-proofer
   neat
   nokogiri (~> 1.8.2)
   rouge
 
 BUNDLED WITH
-   1.16.1
+   1.16.6
