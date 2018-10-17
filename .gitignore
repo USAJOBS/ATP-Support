@@ -6,3 +6,5 @@
 .htpasswd
 npm-debug.log
 node_modules
+.ruby-version
+.ruby-gemset
