@@ -53,9 +53,9 @@ Tells the job seeker how they can contact the agency. The **Learn more about thi
 Information provided via our API is displayed in the following manner:
 
 <div class="usajobs-recruitment-joa-playbook-details__example-img">
-<amp-img src="{{ site.baseurl }}/assets/images/job-announcement-playbook/agency-contact-info-v6.6.png"
-  srcset="{{ site.baseurl }}/assets/images/job-announcement-playbook/agency-contact-info-v6.6.png 768w,
-  {{ site.baseurl }}/assets/images/job-announcement-playbook/agency-contact-info-v6.6-SM.png 100w"
+<amp-img src="{{ '/assets/images/job-announcement-playbook/agency-contact-info-v6.6.png' | relative_url }}"
+  srcset="{{ '/assets/images/job-announcement-playbook/agency-contact-info-v6.6.png' | relative_url }} 768w,
+  {{ '/assets/images/job-announcement-playbook/agency-contact-info-v6.6-SM.png' | relative_url }} 100w"
   width="692"
   height="376"
   layout="responsive"

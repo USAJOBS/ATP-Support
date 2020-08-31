@@ -75,9 +75,9 @@ If you don't understand why a job announcement is being assigned a hiring path b
 This example shows all of the possible hiring paths. No single job would feature all of these.
 
 <div class="usajobs-recruitment-joa-playbook-details__example-img this-job-is-open-to">
-<amp-img src="{{ site.baseurl }}/assets/images/job-announcement-playbook/this-job-is-open-to-v7.1.png"
-  srcset="{{ site.baseurl }}/assets/images/job-announcement-playbook/this-job-is-open-to-v7.1.png 768w,
-  {{ site.baseurl }}/assets/images/job-announcement-playbook/this-job-is-open-to-v7.1-SM.png 100w"
+<amp-img src="{{ '/assets/images/job-announcement-playbook/this-job-is-open-to-v7.1.png' | relative_url }}"
+  srcset="{{ '/assets/images/job-announcement-playbook/this-job-is-open-to-v7.1.png' | relative_url }} 768w,
+  {{ '/assets/images/job-announcement-playbook/this-job-is-open-to-v7.1-SM.png' | relative_url }} 100w"
   width="320"
   height="1907"
   layout="responsive"

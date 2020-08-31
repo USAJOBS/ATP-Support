@@ -13,9 +13,9 @@ This section will:
 *	Automatically appear in the following format:
 
 <div class="usajobs-recruitment-joa-playbook-details__example-img">
-<amp-img src="{{ site.baseurl }}/assets/images/job-announcement-playbook/fair-and-transparent-v6.6.png"
-  srcset="{{ site.baseurl }}/assets/images/job-announcement-playbook/fair-and-transparent-v6.6.png 768w,
-  {{ site.baseurl }}/assets/images/job-announcement-playbook/fair-and-transparent-v6.6-SM.png 100w"
+<amp-img src="{{ '/assets/images/job-announcement-playbook/fair-and-transparent-v6.6.png' | relative_url }}"
+  srcset="{{ '/assets/images/job-announcement-playbook/fair-and-transparent-v6.6.png' | relative_url }} 768w,
+  {{ '/assets/images/job-announcement-playbook/fair-and-transparent-v6.6-SM.png' | relative_url }} 100w"
   width="377"
   height="357"
   layout="responsive"
