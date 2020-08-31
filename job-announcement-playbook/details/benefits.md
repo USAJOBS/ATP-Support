@@ -11,9 +11,9 @@ current-fields: ["Agency Benefits"]
 #### Example
 
 <div class="usajobs-recruitment-joa-playbook-details__example-img">
-<amp-img src="{{ site.baseurl }}/assets/images/job-announcement-playbook/benefits-v6.7.png"
-  srcset="{{ site.baseurl }}/assets/images/job-announcement-playbook/benefits-v6.7.png 768w,
-  {{ site.baseurl }}/assets/images/job-announcement-playbook/benefits-v6.7-SM.png 100w"
+<amp-img src="{{ '/assets/images/job-announcement-playbook/benefits-v6.7.png' | relative_url }}"
+  srcset="{{ '/assets/images/job-announcement-playbook/benefits-v6.7.png' | relative_url }} 768w,
+  {{ '/assets/images/job-announcement-playbook/benefits-v6.7-SM.png' | relative_url }} 100w"
   width="750"
   height="354"
   layout="responsive"
