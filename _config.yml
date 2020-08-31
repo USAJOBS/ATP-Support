@@ -10,7 +10,7 @@ title: Help for the USAJOBS Agency Talent Portal
 email: matthew.dingee@opm.gov
 description: Get help with strategic recruitment.
 logo: "/assets/images/logo-2x.png"
-url: "http://usajobs.github.io/ATP-Support/" # the base hostname & protocol for your site
+url: "http://usajobs.github.io" # the base hostname & protocol for your site
 
 exclude:
   - Gemfile
