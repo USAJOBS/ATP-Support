@@ -8,6 +8,3 @@ npm-debug.log
 node_modules
 .ruby-gemset
 .ruby-version
-
-# the build output of the site. We don't want to commit this to source control.
-_dist/
