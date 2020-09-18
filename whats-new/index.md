@@ -7,6 +7,16 @@ sidenav: what-is-new
 title: What's new with ATP
 ---
 
+## Changes made September 18, 2020
+
+### Site-wide enhancements
+
+- Sys Admin will be able to update Name, Email and Agency of a User
+- Bug fixes
+- Added a new category of Information Session to Event Type
+- Landing Page Content Updates
+- Update of Help Center icon to link to ATP Help Center
+
 ## Changes made September 4, 2020
 
 ### Site-wide enhancements
