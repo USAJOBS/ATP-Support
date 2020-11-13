@@ -7,6 +7,12 @@ sidenav: what-is-new
 title: What's new with ATP
 ---
 
+## Changes made November 16, 2020
+### Site-wide enhancements
+
+* Updated the entire site to meet the USWDS 2.0 Web Design standards.
+* Fixed several bugs.
+
 ## Changes made September 18, 2020
 
 ### Site-wide enhancements
