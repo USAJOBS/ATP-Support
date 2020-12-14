@@ -7,6 +7,16 @@ sidenav: what-is-new
 title: What's new with ATP
 ---
 
+## Changes made December 11, 2020
+### Site-wide enhancements
+
+* Updated the **Add to Campaign** experience.
+* Added the ability to save several candidates at one time to a campaign.
+* Updated the search results **Sort by** to default to **Sort by relevance**.
+* Updated the user interface and experience across the site.
+* Updated the Profile details page.
+* Fixed several bugs.
+
 ## Changes made November 16, 2020
 ### Site-wide enhancements
 
