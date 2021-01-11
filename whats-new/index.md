@@ -7,6 +7,19 @@ sidenav: what-is-new
 title: What's new with ATP
 ---
 
+## Changes made January 8, 2021
+### Site-wide enhancements
+
+* Upgraded Elasticsearch to 7.10.X.
+* Added new search filters including:
+  * Travel and relocation
+  * Series
+  * Work schedule
+  
+* Improved the Campaign experience.
+* Made several user interface and user experience updates.
+
+
 ## Changes made December 11, 2020
 ### Site-wide enhancements
 
