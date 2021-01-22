@@ -4,7 +4,7 @@ layout: article
 section: getting-started
 category: getting-started
 sidenav: getting-started-what-is-the-aup
-title: What is the AUP?
+title: What is the acceptable use policy (AUP)?
 ---
 
-The Acceptable Use Policy outlines the guidelines and regulations which an Agency Talent Portal account holder must comply with to use the ATP. Any violation of these policies can result in disciplinary action by your agency and/or revocation of your ATP account.
+The Acceptable Use Policy outlines the policies you must follow to use ATP. If you violate any of these policies, your agency can take disciplinary action or revoke your ATP account.
