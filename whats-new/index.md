@@ -7,6 +7,43 @@ sidenav: what-is-new
 title: What's new with ATP
 ---
 
+## Changes made January 22, 2021
+### Search enhancements
+
+* Added the ability to filter by **Grade** (GS Scale only).
+* Added the ability to filter by **Last Updated** (when a candidate edited/created/applied, etc) date.
+* Updated text for **Clear All filters**.
+* Removed the **Resume uploaded** date from the profile detail.
+* Implemented stop words to refine the **Search** results.
+* Added synonyms for state and territory abbreviations in **Search**.
+* Moved the job title on **Builder resumes**.
+* Updated the search tips on the **Search landing** page.
+* Indexed additional fields in the **Profile**.
+
+### Updates to Events
+
+* Added fields for online location options and event types to the **Events** logistics page.
+
+### Updates to Manage Users
+
+* Added ability to export agency users to an Excel spreadsheet.
+* Added ability for HelpDesk Users to edit profile fields.
+* Added cancel button to manage user tasks.
+* Updated the username sign in text to email.
+
+### Changes to the user experience and user interface
+
+* Updated the way **Events** display.
+* Replaced job seeker with acndidate.
+* Updated required and optional instructions for form fields.
+* Updated the padding around the mass save banner
+* Updated the wording on the **Search results** page.
+* Updated the **Forgot password** label for email sign in.
+* Updated the session expiration message.
+* Updated the **Series** tag.
+* Shortened the **Location** field on the card that displays for a candidate.
+* Moved all hiring path icons to one line in cards.
+
 ## Changes made January 8, 2021
 ### Site-wide enhancements
 
