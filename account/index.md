@@ -7,9 +7,13 @@ sidenav: account
 title: How to reset your password
 ---
 
-If you’ve forgotten your password or locked your account due to multiple incorrect password attempts, you can reset your password from the ATP Sign-In page. 
+If you forgot your password or your account is locked because of too many incorrect sign in attempts, you can reset your password from the **Sign in** page.
 
-1. Select 'Forgot your username or password'.
-2. Enter your federal email address into the text box.
-3. You will receive a 'Reset password' email.
-4. Click the link in the email to create a new password.
+1. Click **Use my Agency Talent Portal** account on the ATP sign in page.
+2. Click **Forgot your password** or need to reset it?
+3. Enter your federal email address in the text box.
+4. Go to your federal email inbox and look for the ATP reset password email.
+5. Click the link in the email to reset your password.
+
+You need to change your password every 90 days. If you sign in with a USA Staffing account or PIV/CAC card, you don’t need to update your password every 90 days.
+
