@@ -36,6 +36,11 @@
             How to reset your password
           </a>
         </li>
+          <li>
+          <a {% if page.sidenav == 'account-sign-in' %}class="usa-current"{% endif %} href="{{ '/account/sign-in' | relative_url }}">
+            How to sign in to ATP
+          </a>
+        </li>
         <li>
           <a {% if page.sidenav == 'account-locked' %}class="usa-current"{% endif %} href="{{ '/account/locked' | relative_url }}">
             How to unlock your account
