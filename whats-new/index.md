@@ -7,6 +7,21 @@ sidenav: what-is-new
 title: What's new with ATP
 ---
 
+## Changes made March 9, 2021
+### Search enhancements
+
+* Updated the **Series** filter to include parent and child series.
+* Added the ability to add multiple **Series** for a search. 
+* Separated **U.S. Citizen** from the **Hiring Path** filter and made its own filter. 
+
+### Other enhancements
+
+* Updated the look and feel for Location name. 
+* Updated the look and feel for Preferences.
+* Removed the Resume User role.
+* Upgraded old General Users to a new General User role.
+
+
 ## Changes made January 22, 2021
 ### Search enhancements
 
