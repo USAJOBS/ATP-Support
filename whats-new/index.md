@@ -21,6 +21,40 @@ title: What's new with ATP
 * Removed the Resume User role.
 * Upgraded old General Users to a new General User role.
 
+## Changes made February 19, 2021
+### Campaign enhancements
+
+* Added a drop-down menu in the individual candidate card to allow the user to move the candidate to another list when they are not able to use “drag and drop” functionality. 
+* Updated the look and feel of both active and archived campaign boards.
+* Updated the look and feel of the **List** menu – replaced Remove list with **Delete list**.
+
+### Other enhancements
+
+* Added a filter in **Search** for education level.
+* Updated the look and feel of the **Event** creation process.
+
+
+## Changes made February 5, 2021
+
+### Campaign enhancements
+
+* Redesigned the **Add list** feature to make it clear how to add a list to a campaign.
+* Added a pop-over menu to a campaign so users can add a job announcement to their campaign.
+* Added the ability to archive a campaign. 
+* Created a **List** tab within a campaign and moved all lists under this tab.
+
+### Search enhancements
+
+* Highlighted the search terms in a resume builder resume.
+* Added ability to search on state abbreviations (i.e. TX for Texas) when a user does not use the auto suggest (i.e. typed full state or copy and pasted) 
+* Removed continents from the search suggestion list.
+* Updated the instructions presented to the user when there are no search results.
+
+### Other enhancements
+
+* Added **My Account** to the drop down under the users name that will allow users to change their name and phone number.
+* Updated the “hint text” in **Events** so it is more clear which field being used and updated the content clarify how to format URLs.
+* Updated the modal styles for consistency.
 
 ## Changes made January 22, 2021
 ### Search enhancements
