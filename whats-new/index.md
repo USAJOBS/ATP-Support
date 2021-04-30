@@ -7,6 +7,25 @@ sidenav: what-is-new
 title: What's new with ATP
 ---
 
+## Changes made April 19. 2021
+
+### Candidate profile and Campaigns
+
+* Added tabs to the candidate profile: **Candidate** and **Campaigns**. The **Candidate** tab displays information about the candidate, including a resume. The **Campaign** tab includes a list of campaigns the candidate has been added to. 
+* Updated the navigation and UI within the candidate profile.
+* Added an **Activate** button to **Archived campaigns**, so a user can reactivate a campaign.
+* Updated the ability to rename a campaign using the new USDWS modal design.
+* Moved the **Export to excel** feature to the **Campaign** menu.
+* Updated the link label **View** to **Download** for resumes in Word. Changing the label makes it clear the user has to download the document before they can view it.
+
+### Other changes
+* Removed old ATP feature toggles (this is a change on the back end).
+* Updated the **Terms and Conditions** in both the right rail and the footer to comply with POAM.
+* Updated multiple modals to the new USDWS modal design.
+* Changed the display of the **Last updated date** and time to reflect the user local time zone.
+* Made changes to support future release of a messaging feature.
+
+
 ## Changes made March 9, 2021
 ### Search enhancements
 
