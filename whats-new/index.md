@@ -7,6 +7,17 @@ sidenav: what-is-new
 title: What's new with ATP
 ---
 
+## Changes made April 30, 2021
+### Sitewide enhancements
+
+* Added a **Join the ATP Listserve** call-out and link on the home page.
+* Updated the **candidate profile within search** to use a tab design and layout—this now matches what the user sees on a candidate profile within a campaign.
+* Updated the **Job announcement** modal and **Remove campaign** modal to use the U.S. Web Design Web System standards.
+
+### Bug fixes
+
+* Fixed a bug prohibiting the **We no longer support Internet Explorer** banner from displaying. The banner now displays when a user is using Internet Explorer to access ATP. 
+
 ## Changes made April 19. 2021
 
 ### Candidate profile and Campaigns
