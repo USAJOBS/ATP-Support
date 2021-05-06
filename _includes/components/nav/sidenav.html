@@ -10,20 +10,22 @@
           </a>
         </li>
         <li>
-          <a {% if page.sidenav == 'getting-started-what-not-to-do' %}class="usa-current"{% endif %} href="{{ '/getting-started/what-not-to-do' | relative_url }}">
-            How should I not use ATP?
+          <a {% if page.sidenav == 'getting-started-who-can-use-atp' %}class="usa-current"{% endif %} href="{{ '/getting-started/who-can-use-atp' | relative_url }}">
+            Who can use ATP?
           </a>
         </li>
         <li>
-          <a {% if page.sidenav == 'getting-started-what-is-the-aup' %}class="usa-current"{% endif %} href="{{ '/getting-started/what-is-the-aup' | relative_url }}">
-            What is the acceptable use policy (AUP)?
+          <a {% if page.sidenav == 'getting-started-why-use-atp' %}class="usa-current"{% endif %} href="{{ '/getting-started/why-use-atp' | relative_url }}">
+            Why use ATP?
           </a>
         </li>
         <li>
-          <a {% if page.sidenav == 'getting-started-how-to-invite' %}class="usa-current"{% endif %} href="{{ '/getting-started/how-to-invite' | relative_url }}">
-            How do I invite my coworkers to use ATP?
+          <a {% if page.sidenav == 'getting-started-atp-hiring-policies' %}class="usa-current"{% endif %} href="{{ '/getting-started/atp-hiring-policies' | relative_url }}">
+            How does ATP work with hiring policies?
           </a>
         </li>
+        
+        
       </ul>
     {% endif %}
     {% if page.section == 'account' %}
@@ -33,6 +35,16 @@
       <ul class="usa-sidenav-list">
         <li>
           <a {% if page.sidenav == 'account' %}class="usa-current"{% endif %} href="{{ '/account/' | relative_url }}">
+            How to get an ATP account
+          </a>
+        </li>
+        <li>
+          <a {% if page.sidenav == 'account-sign-into-atp' %}class="usa-current"{% endif %} href="{{ '/account/sign-into-atp' | relative_url }}">
+            How to sign into ATP
+          </a>
+        </li>
+        <li>
+          <a {% if page.sidenav == 'account-reset' %}class="usa-current"{% endif %} href="{{ '/account/reset' | relative_url }}">
             How to reset your password
           </a>
         </li>
@@ -41,6 +53,34 @@
             How to unlock your account
           </a>
         </li>
+        <li>
+          <a {% if page.sidenav == 'account-what-is-the-aup' %}class="usa-current"{% endif %} href="{{ '/account/what-is-the-aup' | relative_url }}">
+            What is the acceptable use policy (AUP)?
+          </a>
+        </li>
+      </ul>
+      {% endif %}
+      {% if page.section == 'agency-administrators' %}
+      <h3 class="usajobs-openopps-help-center-article-sidenav__title">
+        Agency administrators
+      </h3>
+      <ul class="usa-sidenav-list">
+        <li>
+          <a {% if page.sidenav == 'agency-administrators' %}class="usa-current"{% endif %} href="{{ '/agency-administrators/' | relative_url }}">
+            What is an agency administrator?
+          </a>
+        </li>
+        <li>
+          <a {% if page.sidenav == 'agency-administrators-how-agency-admin' %}class="usa-current"{% endif %} href="{{ '/agency-administrators/how-agency-admin' | relative_url }}">
+            How to become an agency administrator
+          </a>
+        </li>
+        <li>
+          <a {% if page.sidenav == 'agency-administrators-different-roles' %}class="usa-current"{% endif %} href="{{ '/agency-administrators/different-roles' | relative_url }}">
+            What are the different roles in ATP?
+          </a>
+        </li>
+      
       </ul>
     {% endif %}
     {% if page.section == 'campaigns' %}
@@ -55,12 +95,17 @@
         </li>
         <li>
           <a {% if page.sidenav == 'campaigns-setup' %}class="usa-current"{% endif %} href="{{ '/campaigns/setup' | relative_url }}">
-            How do I set up a campaign?
+            How to create a campaign
           </a>
         </li>
         <li>
           <a {% if page.sidenav == 'campaigns-save' %}class="usa-current"{% endif %} href="{{ '/campaigns/save' | relative_url }}">
-            How do I save job seekers to campaigns?
+            How to add a job seeker to a campaign
+          </a>
+        </li>
+        <li>
+          <a {% if page.sidenav == 'campaigns-share' %}class="usa-current"{% endif %} href="{{ '/campaigns/share' | relative_url }}">
+            How to share a campaign with another user
           </a>
         </li>
         <li>
@@ -70,14 +115,61 @@
         </li>
       </ul>
     {% endif %}
-    {% if page.section == 'talent-networks' %}
+    {% if page.section == 'events' %}
       <h3 class="usajobs-openopps-help-center-article-sidenav__title">
-        Talent networks
+        Events
       </h3>
       <ul class="usa-sidenav-list">   
         <li>
-          <a {% if page.sidenav == 'talent-networks' %}class="usa-current"{% endif %} href="{{ '/talent-networks' | relative_url }}">
-            Resume mining
+          <a {% if page.sidenav == 'events' %}class="usa-current"{% endif %} href="{{ '/events' | relative_url }}">
+            What are events?
+          </a>
+        </li>
+        <li>
+          <a {% if page.sidenav == 'events-create' %}class="usa-current"{% endif %} href="{{ '/events/create' | relative_url }}">
+            How to create an event
+          </a>
+        </li>
+        <li>
+          <a {% if page.sidenav == 'events-approves' %}class="usa-current"{% endif %} href="{{ '/events/approves' | relative_url }}">
+            Who approves events and what is the process?
+          </a>
+        </li>
+      </ul>
+    {% endif %}
+    {% if page.section == 'search-resumes' %}
+      <h3 class="usajobs-openopps-help-center-article-sidenav__title">
+        Search resumes
+      </h3>
+      <ul class="usa-sidenav-list">   
+        <li>
+          <a {% if page.sidenav == 'search-resumes' %}class="usa-current"{% endif %} href="{{ '/search-resumes' | relative_url }}">
+            How to search for resumes and job seekers
+          </a>
+        </li>
+        <!--<li>
+          <a {% if page.sidenav == 'search-resumes-advanced-search' %}class="usa-current"{% endif %} href="{{ '/search-resumes/advanced-search' | relative_url }}">
+            How to use advanced search
+          </a>
+        </li>-->
+        <li>
+          <a {% if page.sidenav == 'search-resumes-current-resumes' %}class="usa-current"{% endif %} href="{{ '/search-resumes/current-resumes' | relative_url }}">
+            How current are the resumes and profiles?
+          </a>
+        </li>
+        <!--<li>
+          <a {% if page.sidenav == 'search-resumes-searchable' %}class="usa-current"{% endif %} href="{{ '/search-resumes/searchable' | relative_url }}">
+            How long do resumes remain searchable?
+          </a>
+        </li>-->
+        <li>
+          <a {% if page.sidenav == 'search-resumes-export' %}class="usa-current"{% endif %} href="{{ '/search-resumes/export' | relative_url }}">
+            How to print or export my search results
+          </a>
+        </li>
+        <li>
+          <a {% if page.sidenav == 'search-resumes-verify-candidate' %}class="usa-current"{% endif %} href="{{ '/search-resumes/verify-candidate' | relative_url }}">
+            Is the candidate information verified or adjudicated?
           </a>
         </li>
       </ul>

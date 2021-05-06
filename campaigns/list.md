@@ -7,4 +7,4 @@ sidenav: campaigns-list
 title: What is a list?
 ---
 
-A list is found within a campaign, and it is a smaller collection of job seekers that can be organized in any way that makes sense to you. You can name lists any way you’d like, such as by date, job title, or different stages of a workflow.
+A list is a smaller collection of job seekers within a campaign. Lists can help you manage a large number of potential job seekers. You can name and organize lists by date, job title, or different stages of a workflow. For example, you can create a list of job seekers you want to invite to an event, or a list of job seekers who responded back to you. When you share a campaign with another user, you will also share the lists within that campaign.
