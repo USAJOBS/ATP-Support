@@ -18,7 +18,7 @@ title: What's new with ATP
 
 * Fixed a bug prohibiting the **We no longer support Internet Explorer** banner from displaying. The banner now displays when a user is using Internet Explorer to access ATP. 
 
-## Changes made April 19. 2021
+## Changes made April 19, 2021
 
 ### Candidate profile and Campaigns
 
