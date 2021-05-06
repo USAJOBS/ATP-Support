@@ -15,7 +15,7 @@ Before you create an event, make sure you get approval for the event from your a
 * Click **Events** in the top navigation or on the landing page.
 * Click **Create an event**.
 * Enter the event name.
-* Enter a description—be concise but offer enough detail so a job seeker knows who and what the event is for.  [See more tips for describing an event](link to URL).
+* Enter a description—be concise but offer enough detail so a job seeker knows who and what the event is for.  [See more tips for describing an event](index).
 * Click **Save & continue**.
 * Enter the **Posting start date**—this is the date you want the event to appear on USAJOBS.  For example, if your event will be on December 1, you may want to post the event a week earlier on November 24.
 * Enter the **Event start date**—this is the date of the event.
