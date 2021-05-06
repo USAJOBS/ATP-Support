@@ -22,6 +22,16 @@
         </a>
       </li>
       <li
+      class="usajobs-openopps-help-center-nav-secondary__container agency-administrators {% if page.section == 'agency-administrators' %}is-active{% endif %}"
+    >
+      <a
+        class="usajobs-openopps-help-center-nav-secondary__item"
+        href="{{ '/agency-administrators/' | relative_url }}"
+      >
+        Agency administrators
+      </a>
+    </li>
+      <li
         class="usajobs-openopps-help-center-nav-secondary__container campaigns {% if page.section == 'campaigns' %}is-active{% endif %}"
       >
         <a
@@ -32,15 +42,26 @@
         </a>
       </li>
       <li
-        class="usajobs-openopps-help-center-nav-secondary__container talent-networks {% if page.section == 'talent-networks' %}is-active{% endif %}"
+      class="usajobs-openopps-help-center-nav-secondary__container events {% if page.section == 'events' %}is-active{% endif %}"
+    >
+      <a
+        class="usajobs-openopps-help-center-nav-secondary__item"
+        href="{{ '/events/' | relative_url }}"
       >
-        <a
-          class="usajobs-openopps-help-center-nav-secondary__item"
-          href="{{ '/talent-networks/' | relative_url }}"
-        >
-          Talent networks
-        </a>
-      </li>
+        Events
+      </a>
+    </li>
+    <li
+    class="usajobs-openopps-help-center-nav-secondary__container search-resumes {% if page.section == 'search-resumes' %}is-active{% endif %}"
+  >
+    <a
+      class="usajobs-openopps-help-center-nav-secondary__item"
+      href="{{ '/search-resumes/' | relative_url }}"
+    >
+      Search resumes
+    </a>
+  </li>
+      
       <li
         class="usajobs-openopps-help-center-nav-secondary__container what-is-new {% if page.section == 'what-is-new' %}is-active{% endif %}"
       >

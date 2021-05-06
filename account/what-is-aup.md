@@ -1,9 +1,9 @@
 ---
-permalink: getting-started/what-is-the-aup
+permalink: account/what-is-the-aup
 layout: article
-section: getting-started
-category: getting-started
-sidenav: getting-started-what-is-the-aup
+section: account
+category: account
+sidenav: account-what-is-the-aup
 title: What is the acceptable use policy (AUP)?
 ---
 
