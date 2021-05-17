@@ -19,7 +19,7 @@ To export a list of job seekers, you must first add the job seekers to a campaig
 4. Click **Save**.
 5. Go to your **Campaigns** section.
 6. Click the Campaign name you want to export.
-7. Click **Export to Excel**.
+7. Click **the ellipsis in the upper right corner** and then click **Export to Excel**.
 
 ### Print or download a resume
 
