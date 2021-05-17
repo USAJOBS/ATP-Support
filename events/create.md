@@ -7,7 +7,7 @@ sidenav: events-create
 title: How to create an event
 ---
 
-Before you create an event, make sure you get approval for the event from your agencies HR department. 
+Before you create an event, make sure you get approval for the event from your agency's HR department. 
 
 ### To create an event:
 
@@ -31,4 +31,4 @@ Before you create an event, make sure you get approval for the event from your a
 
 ### Can I edit my event after it has already been approved?
 
-Yes. You can edit your event as long as it hasn’t been published to the USAJOBS website. If you you’re your event, you will have to submit it again for approval. 
+Yes. You can edit your event as long as it hasn’t been published to the USAJOBS website. If you edit a published event, you will have to submit it again for approval. 
