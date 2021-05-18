@@ -13,7 +13,7 @@ To create a campaign:
 2.	Go to **Campaigns** in the top navigation.
 3.	Click **Add a Campaign**.
 4.	Name your campaign. 
-5.	Search for jobs seekers to add to the campaign, or [create lists](../list/) to structure your campaign before you starting adding people.
+5.	Search for jobs seekers to add to the campaign, or [create lists](list) to structure your campaign before you starting adding people.
 
 You can create as many campaigns as you want.
 
