@@ -33,4 +33,4 @@ For example, we can’t post an event for a private company, such as the Miami B
 
 ### Where do events display?
 
-Approved events display on the USAJOBS’ events page and will display until the event is over.
+Approved events display on the [USAJOBS’ events page](https://www.usajobs.gov/Notification/Events){:target="_blank"} and will display until the event is over.

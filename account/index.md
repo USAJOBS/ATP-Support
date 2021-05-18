@@ -21,4 +21,4 @@ You can invite another user to ATP as long as they’re an HR specialist, or rec
 
 You must ask your agency administrator to invite a new user. If the agency administrator approves, they will send the new user an email inviting them to join ATP.
 
-If you don’t have an agency administrator or don’t know how it is, email [recruiter-help@usajobs.gov](mailto:recruiter-help@usajobs.gov) for help. 
+If you don’t have an agency administrator or don’t know who it is, email [recruiter-help@usajobs.gov](mailto:recruiter-help@usajobs.gov) for help. 

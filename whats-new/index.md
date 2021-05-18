@@ -7,10 +7,38 @@ sidenav: what-is-new
 title: What's new with ATP
 ---
 
+## Changes made May 14, 2021
+### Sitewide enhancements
+#### Events
+
+* Increased font size to 16px for the **Event description**.
+* Revised the validation text to be consistent and clear on the **Event description** and **Event logistics** page. 
+* Added text wrapping, so long descriptions and overflow text do not display beyond the given space.
+* Updated the look and feel of the event modals to meet USDWS standards.
+
+#### Campaigns
+
+* Updated the agency table and implemented new access restrictions for agencies.
+  * Department Administrators will now see all agencies under the department. Example: DoD will now see all children and grandchildren relationships (AF- 11th wing). Air Force will now see all elements under them.
+
+* Updated the look and feel of the candidate profile page within search and campaigns:
+  * Removed search boxes.
+  * Moved **candidate name**, **location** and **last updated** information to the top of the page—this makes it easier for the HR user to see candidate information as they navigate to different tabs.
+
+* Updated the minimum and maximum character field validation for renaming a campaign.
+* Added text wrapping for long campaign names.
+* Added validation text in the **Add job announcement** modal.
+
+#### Search
+
+* Updated the display to only show 10,000 search results. Anything over 10,000 results will display as 10,000+ (1 of 10,000+ results).
+* Fixed multiple 508 issues.
+
+
 ## Changes made April 30, 2021
 ### Sitewide enhancements
 
-* Added a **Join the ATP Listserve** call-out and link on the home page.
+* Added a **Join the ATP Listserv** call-out and link on the home page.
 * Updated the **candidate profile within search** to use a tab design and layout—this now matches what the user sees on a candidate profile within a campaign.
 * Updated the **Job announcement** modal and **Remove campaign** modal to use the U.S. Web Design Web System standards.
 
