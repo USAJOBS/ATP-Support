@@ -94,6 +94,8 @@ $nav_item_height: 17px + 26.5px;
 
   &__brand-container {
     display: block;
+    padding-top: 15px;
+    padding-bottom: 7px;
     margin-right: $size-S;
 
     @include grid-media($M) {
@@ -102,14 +104,14 @@ $nav_item_height: 17px + 26.5px;
   }
 
   &__brand {
-    display: block;
+    //display: block;
     padding: $size-default 0 $size-S $size-default;
     line-height: 1;
     max-width: rem(150px) + $size-default; // accommodate padding
 
     @include grid-media($ML) {
       padding-left: $size-M;
-      max-width: rem(188px) + $size-M; // accommodate padding
+      max-width: rem(488px) + $size-M; // accommodate padding
     }
   }
 
