@@ -7,6 +7,44 @@ sidenav: what-is-new
 title: What's new with ATP
 ---
 
+## Changes made May 28. 2021
+### Sitewide enhancements
+#### Campaigns
+
+* Removed the **(+)** to add team members to a campaign and added the **Team Member** tab. Within this tab, the user can see all team members who are part of a campaign and add new team members.
+* Added a character count to the **Campaign title** field.
+* Added validation messages for minimum and maximum required characters to the Campaign title field.
+* Updated the **Desired location display** to:
+  * Only show city and state. For example, “Arlington, Virginia” instead of “Arlington, Virginia, United States”. 
+  * Only show the state when a user selects all of the cities in a state. For example, “Indiana”, instead of “All Indiana”. 
+  * Only show United States when a user selects every state within the United States. For example, “United States” instead of “All United States”.
+  * Show **All** for a country when a user selects a country outside of the United States. For example, “All Germany” instead of “All, All, Germany”.
+
+* Updated the display of the candidate card to wrap long candidate names.
+* Updated the following modals to meet USDWS standards:
+  * When a user clicks **Delete list** in an active campaign.
+  * When a user clicks **Remove access** within a user’s page in the Manage users section.
+
+* Updated the user flow for **Add to campaign**—the user will be sent to the candidate’s profile page on the candidate tab.
+* Removed the **Back to campaign** link when a user is in a candidate’s profile.
+* Locked the tabs in **Active** and **Inactive campaigns** when a user has multiple lists that require a horizontal scroll bar. This keeps the tabs visible throughout the user experience.
+#### Events
+
+* Updated field validation in the **Associated job announcement(s)** field to check for a valid JOA control number.
+* Updated field validation for the **Event name** to check it is between 10 and 70 characters.
+
+#### Search resumes
+
+* Added yellow highlights to keywords in a PDF version of a resume.
+* Sectioned resumes into 3 equal parts and weighted those parts for a more accurate search result.
+
+#### My Account and authentication
+
+* Added a new optional field **I want to use ATP because I’m a** with the following responses: Recruiter, HR Specialist, Hiring Manger. This will help us better understand our users and will help us make improvements to the site. This will also appear on the revised **Complete your account information page**.
+* Renamed the Required details page to **Complete your account information**.
+* Removed the subtext “Please provide the following information in order to access your Agency Talent Portal account”. 
+
+
 ## Changes made May 14, 2021
 ### Sitewide enhancements
 #### Events
