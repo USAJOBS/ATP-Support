@@ -7,6 +7,31 @@ sidenav: what-is-new
 title: What's new with ATP
 ---
 
+## Changes made June 11, 2021
+### Sitewide enhancements
+#### Campaigns
+
+* Added a tooltip to the new **Team members** tab. When you click the **Team members** tab or the **Got it** button in the tooltip, the tooltip will disappear.
+* Top aligned the content in the candidate card to make it more visually appealing. 
+* Added subtext and a character counter to the **Add to campaign** modal within the candidate profile.
+* Updated the content in the **Add to campaign** modal to read “Create or select a campaign to add this resume to. Campaigns are groups of candidates you’re interested in or resumes you want to review later.”
+* Added validation text to the **Campaign title** field within the **Add to campaign** modal—the campaign title must be between 2 - 100 characters.
+
+**Archived campaigns**
+
+* Updated the title on the **Messaging** tab to say, “Activate this campaign to message candidates.”
+* Updated the button label to **Activate campaign**—on click the campaign will become active and you will go to the **Active** campaign listing. 
+
+#### Export file
+
+* Changed the field from “Role” to “ATP role” and added three new roles:
+
+  * Is Recruiter
+  * Is HR Specialist
+  * Is Hiring Manger. 
+
+If the user has selected any of these reasons, the field will show True, otherwise the field will show False.
+
 ## Changes made May 28. 2021
 ### Sitewide enhancements
 #### Campaigns
