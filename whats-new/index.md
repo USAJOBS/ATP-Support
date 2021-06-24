@@ -32,7 +32,7 @@ title: What's new with ATP
 
 If the user has selected any of these reasons, the field will show True, otherwise the field will show False.
 
-## Changes made May 28. 2021
+## Changes made May 28, 2021
 ### Sitewide enhancements
 #### Campaigns
 
