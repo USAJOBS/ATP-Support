@@ -7,6 +7,52 @@ sidenav: what-is-new
 title: What's new with ATP
 ---
 
+## Changes made June 25, 2021
+### Sitewide enhancements
+
+* Changed “Federal Government” to “federal government” in the tagline on the home page to comply with the Office of Communications guidelines.
+* Removed ATP access to IE users and created an error page specifically for IE users, telling them to switch to Chrome, Edge, Firefox, or Safari to use ATP.
+
+### Campaigns
+
+* Changed “Rename Campaign” to **Rename campaign** to use sentence case per content style guide.
+* Updated the logic in the Last updated date feature so the date is updated when a job seeker adds a new searchable resume in both the candidate card and the candidate profile.
+* Changed the link label “Delete list” to **Remove list**.
+* Added an **Unavailable** tag to candidate cards—this will display when a candidate’s resume has expired.
+* Disabled the candidate name when the **Unavailable** tag is presented—users will see the candidate name but will not be able to click on it for more details.
+* Added a tooltip to the **Unavailable** tag that reads “Resume and profile no longer searchable.” 
+* Added the validation text “You must include a valid email.” to the email field when adding team members to a campaign. 
+* Moved the menu in the candidate card so it does not cover adjacent candidate details.
+* Adjusted the spacing in the header within an active and archived campaign page.
+
+### Events
+
+* Updated the text on the ‘no events’ page that displays when a user has no events to explain what events are and what happens when you create and post an event.
+
+### Authentication
+#### Sign in page
+
+* Added a **Show password** toggle to the password field—this lets users display their password when they type it in during authentication.
+* Updated all instances of **Sign in** to use sentence case.
+* Revised the last sentence to include “email” to read “contact your agency administrator or email recruiter-help@usajobs.gov. 
+
+#### Register PIV page
+
+* Added the “show password” toggle
+* Added “Enter your Agency Talent Portal password” to make it clear which password the user should use to register their PIV.
+
+#### Change and create password page
+
+* Added the **Show password** toggle.
+
+### Manage users
+
+* Changed the “Role” field to “ATP role”—this will help prepare for future “Career site role” field.
+* Changed the Edit Profile button to use sentence case so it reads **Edit profile**.
+* Removed the requirement to provide a phone number in a user’s profile.
+* Added field validation to the first and last name fields to make sure both fields are provided.
+* Added field validation to the **Invite new user** form for maximum character limit and missing required information.
+
 ## Changes made June 11, 2021
 ### Sitewide enhancements
 #### Campaigns
