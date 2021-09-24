@@ -7,6 +7,35 @@ sidenav: what-is-new
 title: What's new with ATP
 ---
 
+## Changes made September 3, 2021
+### Events
+ * Updated the approved date to reflect most recent approval date. Example: If a user edits a previously approved event, the approval date will reflect the most recent date. 
+### Search results
+
+* Added a **Current agency** filter to search results—a user can filter their results by the current agency listed in a candidates USAJOBS profile.
+* Updated the search feature so a user can add multiple agencies.
+* Added an agency tag to display when an agency is selected as a filter.
+* Updated how filters work—when more than one filter is selected, it will operate as an “or”.
+* Updated the **Complete your account information** page:
+  * You can now edit the **First** and **Last name** fields.
+  * Added field validation for character limits and when a field is required.
+  * Made the **Telephone** field required.
+### Campaigns
+* Updated the **Export to Excel** feature to change the Given name field to First name.
+
+
+## Changes made July 23, 2021
+### Sitewide enhancements
+
+* Updated the date display to show the time zone of a user’s location. For example, if a user is in the Central time zone, the dates will display as Central time.
+* Made several content edits to use sentence case instead of title case:
+  * Changed **Invite New User** to **Invite new user”\** on the new user form.
+  * Changed the **Sign In** to **Sign in** on the home page.
+  * Changed **Sign In** to **Sign in** on the 3 ways to sign in page.
+* Removed all pending users from the **Pending** list for user’s who:
+  * Have no ATP account associated with the email.
+  * Have no first and last name in the profile.
+
 ## Changes made June 25, 2021
 ### Sitewide enhancements
 
