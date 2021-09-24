@@ -8,8 +8,11 @@ title: What's new with ATP
 ---
 
 ## Changes made September 3, 2021
+
 ### Events
+
  * Updated the approved date to reflect most recent approval date. Example: If a user edits a previously approved event, the approval date will reflect the most recent date. 
+
 ### Search results
 
 * Added a **Current agency** filter to search results—a user can filter their results by the current agency listed in a candidates USAJOBS profile.
@@ -20,7 +23,9 @@ title: What's new with ATP
   * You can now edit the **First** and **Last name** fields.
   * Added field validation for character limits and when a field is required.
   * Made the **Telephone** field required.
+
 ### Campaigns
+
 * Updated the **Export to Excel** feature to change the Given name field to First name.
 
 
