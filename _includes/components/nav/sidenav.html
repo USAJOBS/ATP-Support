@@ -113,6 +113,11 @@
           </a>
         </li>
         <li>
+          <a {% if page.sidenav == 'campaigns-archive' %}class="usa-current"{% endif %} href="{{ '/campaigns/archive' | relative_url }}">
+            How to archive a campaign
+          </a>
+        </li>
+        <li>
           <a {% if page.sidenav == 'campaigns-list' %}class="usa-current"{% endif %} href="{{ '/campaigns/list' | relative_url }}">
             What is a list?
           </a>
