@@ -360,6 +360,7 @@ The commute distance defines the area in miles from the center of the location t
   * Use the commuting area to deter applicants. 
 </div>
 </div>
+
 ### Telework eligible 
 
 Indicates if the applicant may telework. 
@@ -385,6 +386,7 @@ Indicates if the applicant may telework.
   * Include this information in other sections of the job announcement.  
 </div>
 </div>
+
 ### Travel Required 
 
 This tells the job seeker if the job requires travel. 
@@ -398,6 +400,7 @@ Options include:
   <li>50% or less</li> 
   <li>75% or less</li>
   <li>76% or greater</li>
+  </ul>
 
 <p><a href="https://www.usajobs.gov/Help/how-to/search/filters/travel-percentage/">Read more about travel percentages</a>.</p>
   
@@ -415,17 +418,15 @@ Options include:
   <div class="usajobs-recruitment-joa-playbook-details__container">
 <div class="usajobs-recruitment-joa-playbook-details__do">
   <h4><span class="fa fa-check"></span> Do</h4>
-  *	You must enter a value. If the job requires no travel, enter Not required. 
+  *	You must enter a value. If the job requires no travel, enter **Not required**. 
   * Only enter one value. 
   * May include supplemental text to explain the type of travel, such as two weeks of training. 
 </div>
+  </div>
+  
+### Relocation expenses reimbursed 
 
-    
-### Service type
-
-Tells the applicant what service the job is in: Competitive, Excepted, or Senior Executive Service.
-
-**NOTE:** This is a new field and may not yet be offered by your Talent Acquisition System (TAS). Work with your vendor in order to be able to use this field.
+Indicates if the applicant will be reimbursed for moving expenses related to relocation for this job.  
 
 <div class="usajobs-recruitment-joa-playbook-details__container">
 <div class="usajobs-recruitment-joa-playbook-details__required-by-usajobs">
@@ -434,50 +435,48 @@ Tells the applicant what service the job is in: Competitive, Excepted, or Senior
 </div>
 <div class="usajobs-recruitment-joa-playbook-details__required-by-policy">
   <h4>Required by Policy</h4>
-  <p>No</p>
+  <p>No, but strongly recommended.</p>
 </div>
 </div>
 
 <div class="usajobs-recruitment-joa-playbook-details__container">
 <div class="usajobs-recruitment-joa-playbook-details__do">
   <h4><span class="fa fa-check"></span> Do</h4>
-  * Only include the service type.
+  *	Use this field to provide relocation expenses information. 
 </div>
-<div class="usajobs-recruitment-joa-playbook-details__do-not">
+  <div class="usajobs-recruitment-joa-playbook-details__do-not">
   <h4><span class="fa fa-times"></span> Do Not</h4>
-  * Do not include the appointment type — this is captured in the appointment type field.
-  * Do not include the work schedule — this is captured in the work schedule field.
+  * Include this information in other sections of the job announcement.  
 </div>
 </div>
-
 
 ### Appointment type
 
 Tells the applicant the type of appointment. Appointment types can be:
 
-##### Multiple
-* Multiple
+<ul>
+  <li>Multiple</li>
+  <li>Permanent</li>
+  <li>Temporary
+<ul>
+  <li>Detail</li>
+  <li>Intermittent</li>
+  <li>Seasonal</li>
+  <li>Temporary</li>
+  <li>Term</li>
+    </ul>
+  </li>
+<li>Student
+<ul>
+  <li>Internships</li>
+  <li>Recent graduate</li>
+  <li>Presidential Management Fellows</li>
+  </ul>
+  </li>
+  </ul>
 
-##### Permanent
-*	Permanent
-
-##### Temporary
-*	Detail
-*	Intermittent
-* Seasonal
-*	Temporary
-*	Term
-
-##### Student
-*	Internships
-*	Recent graduate
-* Presidential Management Fellows
-
-[Definitions for appointment types](https://www.usajobs.gov/Help/working-in-government/pay-and-leave/appointment-types/) are maintained in the Help Center.
-
-#### Recent change
-
-As of the 6.6 release override text has now become supplemental text and will appear next to the value for appointment type. This is to ensure that the key information is conveyed and there is consistency across job announcements.
+Learn more about[appointment types](https://www.usajobs.gov/Help/working-in-government/pay-and-leave/appointment-types/) in the Help Center.
+   
 
 <div class="usajobs-recruitment-joa-playbook-details__container">
 <div class="usajobs-recruitment-joa-playbook-details__required-by-usajobs">
@@ -497,16 +496,15 @@ As of the 6.6 release override text has now become supplemental text and will ap
 </div>
 <div class="usajobs-recruitment-joa-playbook-details__do-not">
   <h4><span class="fa fa-times"></span> Do Not</h4>
-  * Do not include the service type — this is captured in the [Service field](#service).
-  * Do not include the work schedule — this is captured in the [Work schedule field](#work-schedule).
-  * Do not repeat the appointment types in supplemental (formerly override) text. The value of the appointment type field will appear next to the supplemental text you provide.
-  * Avoid the **Multiple** option whenever possible. Job seekers have difficulty understanding what this term means. When using the **Multiple** option use the supplemental text to explain which appointment types are possible for this job.
+  * Include the service type — this is captured in the [Service field](#service).
+  * Repeat the appointment types in supplemental text. The value of the appointment type field will appear next to the supplemental text you provide.
+  * Avoid the **Multiple** option whenever possible. Job seekers have difficulty understanding what this term means. When using the **Multiple** option, use the supplemental text to explain which appointment types are possible for this job.
 </div>
 </div>
 
 ### Work schedule
 
-Tells the applicant the work schedule they can expect for this job.  Work schedule can be:
+Tells the applicant the work schedule they can expect for this job.  The work schedule can be:
 
 *	Full-time
 *	Part-time
@@ -515,11 +513,7 @@ Tells the applicant the work schedule they can expect for this job.  Work schedu
 *	Job sharing
 *	Multiple
 
-[Definitions for work schedules](https://www.usajobs.gov/Help/working-in-government/pay-and-leave/work-schedules/) are maintained in the Help Center.
-
-#### Recent change
-
-As of the 6.6 release override text has now become supplemental text and will appear next to the value for work schedule. This is to ensure that the key information is conveyed and there is consistency across job announcements.
+See the [definitions for work schedules](https://www.usajobs.gov/Help/working-in-government/pay-and-leave/work-schedules/) in the Help Center.
 
 <div class="usajobs-recruitment-joa-playbook-details__container">
 <div class="usajobs-recruitment-joa-playbook-details__required-by-usajobs">
@@ -536,48 +530,48 @@ As of the 6.6 release override text has now become supplemental text and will ap
 <div class="usajobs-recruitment-joa-playbook-details__do">
   <h4><span class="fa fa-check"></span> Do</h4>
   * Only include the work schedule.
-  * When using Multiple use the supplemental text to explain which work schedules are possible for this job.
+  * When choosing the **Multiple** appointment option, use the supplemental text to explain which work schedules are possible for this job.
 </div>
 <div class="usajobs-recruitment-joa-playbook-details__do-not">
   <h4><span class="fa fa-times"></span> Do Not</h4>
-  * Do not include the service type — this is captured in the [Service field](#service).
-  * Do not include the appointment type - this is captured in the [Appointment type field](#appointment-type).
-  * Do not repeat the work schedule in supplemental (formerly override) text. The value of the work schedule field will appear next to the supplemental text you provide.
-  * Do not define the work schedule hours in supplemental (formerly override) text. The definitions are maintained in the Help Center should applicants need them.
+  * Include the appointment type - this is captured in the [Appointment type field](#appointment-type).
+  * Repeat the work schedule in supplemental text. The value of the work schedule field will appear next to the supplemental text you provide.
+  * Define the work schedule hours in supplemental text. Applicants can read more about the definitions in the Help Center.
   * Do not use Multiple whenever possible. Job seekers have difficulty understanding what this term means.
 </div>
 </div>
 
-## Agency modal - Current fields
+### Service or service type
 
-The Agency modal is a small window that pops up over the screen to focus the user's attention on a task. It opens when the user clicks on:
+Tells the applicant what service the job is in: Competitive, Excepted, or Senior Executive Service.
 
-* The agency name in the [title bar](#title-bar---current-fields)
-* The **Learn more about this agency** button in the [Duties](../duties/) section.
-* The **Learn more about this agency** link in the Agency contact information component of [How to apply](../how-to-apply)
 
-### Agency Marketing Message
-
-This text appears in the lead paragraph of the agency modal and allows the agency to communicate what the agency does to the job seeker.
-
-This field was not shown unless the Agency Marketing URL was also present. That is no longer the case.
+<div class="usajobs-recruitment-joa-playbook-details__container">
+<div class="usajobs-recruitment-joa-playbook-details__required-by-usajobs">
+  <h4>Required by USAJOBS</h4>
+  <p>Yes</p>
+</div>
+<div class="usajobs-recruitment-joa-playbook-details__required-by-policy">
+  <h4>Required by Policy</h4>
+  <p>No</p>
+</div>
+</div>
 
 <div class="usajobs-recruitment-joa-playbook-details__container">
 <div class="usajobs-recruitment-joa-playbook-details__do">
   <h4><span class="fa fa-check"></span> Do</h4>
-  * Explain what the agency does.
-  * Explain what the specific unit does that this job will exist within.
+  * Only include the service type.
 </div>
 <div class="usajobs-recruitment-joa-playbook-details__do-not">
   <h4><span class="fa fa-times"></span> Do Not</h4>
-  * Do not copy the mission statement of the agency. Job seekers can find that information on your web site and many will view your site if they are serious about applying. Also, mission statements often do not convey to an outsider what the agency does.
-  * Do not summarize the job. That should be done in the [Duties](../duties#summary) summary section.
+  * Include the appointment type — this is captured in the appointment type field.
+  * Include the work schedule — this is captured in the work schedule field.
 </div>
 </div>
 
-### Agency contact information
+### Promotional Potential 
 
-This information holds the contact information and address where applicants can reach the agency. It includes phone, TDD, email, and address.
+This tells the job seeker if there’s an opportunity to move up in the grade level. 
 
 <div class="usajobs-recruitment-joa-playbook-details__container">
 <div class="usajobs-recruitment-joa-playbook-details__required-by-usajobs">
@@ -590,23 +584,198 @@ This information holds the contact information and address where applicants can 
 </div>
 </div>
 
-### Marketing URL
+<div class="usajobs-recruitment-joa-playbook-details__container">
+<div class="usajobs-recruitment-joa-playbook-details__do">
+  <h4><span class="fa fa-check"></span> Do</h4>
+  * Always enter a value—enter “No” if there is no promotion potential. 
+  * Enter the highest GS level of the potential job promotion. 
+</div>
+<div class="usajobs-recruitment-joa-playbook-details__do-not">
+  <h4><span class="fa fa-times"></span> Do Not</h4>
+  * Repeat this information elsewhere.
+</div>
+</div>
 
-Allows the agency to provide a URL to their careers page or other page that they deem appropriate that will be included at the bottom of the modal window.
+### Job family (series) 
 
+Tells the applicant the job family or category to which the job belongs. The codes and titles for the job family are the <a href="https://www.opm.gov/policy-data-oversight/classification-qualifications/classifying-general-schedule-positions/">Office of Personnel Management occupational series</a>. The job family link directs the applicant to the search results page, where the results are filtered by that series. 
 
-## Previous fields
+<div class="usajobs-recruitment-joa-playbook-details__container">
+<div class="usajobs-recruitment-joa-playbook-details__required-by-usajobs">
+  <h4>Required by USAJOBS</h4>
+  <p>Yes</p>
+</div>
+<div class="usajobs-recruitment-joa-playbook-details__required-by-policy">
+  <h4>Required by Policy</h4>
+  <p>Yes</p>
+</div>
+</div>
 
-### Announcement number
+### Supervisory Status 
+This tells the job seeker if job requires supervising others. 
 
-The announcement number has moved to the [actions section](../how-to-apply#actions) which lives in the right-hand sidebar. We moved it to give it a consistent and relevant home, it is more relevant to the applicant once they have decided that this job may be worth applying to (thus the placement near the apply button), and to cull the number of items found in the Overview section.
+Options include: 
+<ul>
+  <li>Yes</li>
+  <li>No</li>
+  </ul>
+  
+  <div class="usajobs-recruitment-joa-playbook-details__container">
+<div class="usajobs-recruitment-joa-playbook-details__required-by-usajobs">
+  <h4>Required by USAJOBS</h4>
+  <p>Yes</p>
+</div>
+<div class="usajobs-recruitment-joa-playbook-details__required-by-policy">
+  <h4>Required by Policy</h4>
+  <p>Yes</p>
+</div>
+</div>
+<div class="usajobs-recruitment-joa-playbook-details__container">
+<div class="usajobs-recruitment-joa-playbook-details__do">
+  <h4><span class="fa fa-check"></span> Do</h4>
+  * Enter a value—don’t leave it blank. 
+</div>
+</div>
 
-### Control number
+### Security Clearance  
 
-The control number has moved to the [actions section](../how-to-apply#actions) which lives in the right-hand sidebar. We moved it to give it a consistent and relevant home, it is more relevant to the applicant once they have decided that this job may be worth applying to (thus the placement near the apply button), and to cull the number of items found in the Overview section.
+Indicates the level of security clearance necessary for the job. 
 
-### Series
+The value in this field will always link to: https://www.usajobs.gov/Help/faq/job-announcement/security-clearances/ 
 
-The series has moved to a new section, [Similar jobs](../similar-jobs/), that lives between Duties and Requirements and contains the series and a list of similar occupations. We moved series after a card sort and a usability test with non-Federal employee job seekers where they discovered they did not know what a series referred to. We worked with this group to ensure that the label "Job family (Series)" was clear and provided more context.
+<div class="usajobs-recruitment-joa-playbook-details__container">
+<div class="usajobs-recruitment-joa-playbook-details__required-by-usajobs">
+  <h4>Required by USAJOBS</h4>
+  <p>Yes</p>
+</div>
+<div class="usajobs-recruitment-joa-playbook-details__required-by-policy">
+  <h4>Required by Policy</h4>
+  <p>Yes</p>
+</div>
+</div>
 
-We also moved series because we have a problem we are trying to address which you read more about in [Similar jobs](../similar-jobs/)
+<div class="usajobs-recruitment-joa-playbook-details__container">
+<div class="usajobs-recruitment-joa-playbook-details__do">
+  <h4><span class="fa fa-check"></span> Do</h4>
+  * Indicate the level of security clearance.  
+</div>
+<div class="usajobs-recruitment-joa-playbook-details__do-not">
+  <h4><span class="fa fa-times"></span> Do Not</h4>
+  * Repeat this information elsewhere.
+</div>
+</div>
+
+### Drug test required 
+
+Tells the applicant if a drug test is required. It will display as Yes or No. 
+
+<div class="usajobs-recruitment-joa-playbook-details__container">
+<div class="usajobs-recruitment-joa-playbook-details__required-by-usajobs">
+  <h4>Required by USAJOBS</h4>
+  <p>Yes</p>
+</div>
+<div class="usajobs-recruitment-joa-playbook-details__required-by-policy">
+  <h4>Required by Policy</h4>
+  <p>Yes</p>
+</div>
+</div>
+
+<div class="usajobs-recruitment-joa-playbook-details__container">
+<div class="usajobs-recruitment-joa-playbook-details__do">
+  <h4><span class="fa fa-check"></span> Do</h4>
+  * Tell the applicant if a drug test is required.  
+</div>
+<div class="usajobs-recruitment-joa-playbook-details__do-not">
+  <h4><span class="fa fa-times"></span> Do Not</h4>
+  * Repeat this information elsewhere.
+</div>
+</div>
+
+### Position sensitivity and risk 
+
+Indicates the sensitivity level of the job—whether the job responsibilities and duties have the potential to adversely impact national security. 
+
+The options are: 
+
+<ul>
+  <li>1—Non-sensitive (NS)/Low Risk</li>
+  <li>2—Noncritical-Sensitive (NCS)/Moderate Risk</li>
+  <li>3—Critical-Sensitive (CS)/High Risk</li>
+  <li>4—Special-Sensitive (SS)/High Risk</li> 
+  <li>5—Moderate Risk (MR)</li>
+  <li>6—High Risk (HR)</li> 
+  <li>7—NCS/High Risk</li> 
+</ul>
+
+You can only select one option. 
+
+<div class="usajobs-recruitment-joa-playbook-details__container">
+<div class="usajobs-recruitment-joa-playbook-details__required-by-usajobs">
+  <h4>Required by USAJOBS</h4>
+  <p>No</p>
+</div>
+<div class="usajobs-recruitment-joa-playbook-details__required-by-policy">
+  <h4>Required by Policy</h4>
+  <p>No</p>
+</div>
+</div>
+
+<div class="usajobs-recruitment-joa-playbook-details__container">
+<div class="usajobs-recruitment-joa-playbook-details__do">
+  <h4><span class="fa fa-check"></span> Do</h4>
+  * Indicate the position sensitivity and risk level of the job. 
+  * Only select one option if applicable.   
+</div>
+<div class="usajobs-recruitment-joa-playbook-details__do-not">
+  <h4><span class="fa fa-times"></span> Do Not</h4>
+  * Repeat this information elsewhere.
+</div>
+</div>
+
+### Trust determination process 
+
+Indicates the type of investigation the applicant will undergo (in addition to a background check). 
+
+The options are: 
+
+<ul>
+  <li>Credentialing</li>
+  <li>Suitability/fitness</li> 
+  <li>National security</li>
+  </ul>
+
+You can include one or all options. 
+
+If you include a level for the position sensitivity and risk, then you need to include the trust determination process.
+
+<div class="usajobs-recruitment-joa-playbook-details__container">
+<div class="usajobs-recruitment-joa-playbook-details__required-by-usajobs">
+  <h4>Required by USAJOBS</h4>
+  <p>No, but this field is conditionally required if a value is provided for **Position sensitivity and risk**. </p>
+</div>
+<div class="usajobs-recruitment-joa-playbook-details__required-by-policy">
+  <h4>Required by Policy</h4>
+  <p>No</p>
+</div>
+</div>
+
+<div class="usajobs-recruitment-joa-playbook-details__container">
+<div class="usajobs-recruitment-joa-playbook-details__do">
+  <h4><span class="fa fa-check"></span> Do</h4>
+  * Indicate the investigation type. 
+  * Only include if you’ve included **Position sensitivity and risk**.   
+</div>
+<div class="usajobs-recruitment-joa-playbook-details__do-not">
+  <h4><span class="fa fa-times"></span> Do Not</h4>
+  * Repeat this information elsewhere.
+</div>
+</div>
+### Announcement number 
+
+The announcement number is in the overview section which lives in the right-hand sidebar. Hiring agencies determine the announcement number. 
+
+### Control number 
+
+The control number is in the overview section which lives in the right-hand sidebar. This number is a unique one assigned by USAJOBS. 
+
+  
