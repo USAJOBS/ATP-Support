@@ -117,17 +117,29 @@ Use this section for additional eligibility information. See examples in the Hir
 
 #### Examples
 
-Unless you are going to hire based on a veteran’s hiring authority, such as VEOA or VRA, the Veteran hiring path should not be used. This section includes a chart describing which Hiring paths to use in specific hiring scenarios.  
+Unless you are going to hire based on a veteran’s hiring authority, such as VEOA or VRA, the Veteran hiring path should not be used.  
 
-If a job is Open to the public, DO NOT select any other hiring paths. The rest are already included in the Open to the public hiring path. 
+If a job is **Open to the public**, DO NOT select any other hiring paths. The rest are already included in the Open to the public hiring path. 
+
+### Hiring paths quick reference
+
+{: .usajobs-recruitment-joa-playbook-details__table}
+| Type of JOA                  | Required hiring path(s) | Optional hiring path(s) | Clarifying text | Best practice |
+| ----------------------------- | --------------------- | --------------------- | --------------------- | --------------------- |
+| Delegated examining | Open to the public | None | Agencies authorized to hire non-U.S. citizens should indicate this in Clarification from the agency field. Do not add all U.S. Citizens in this field. The hiring path indicates this for you. | When hiring through delegated examining, only use the Open to the Public hiring path. Do not add other hiring paths, as all are included under Open to the Public. |
+| Merit promotion | Federal employees, Veteran, CTAP, ICTAP & RPL, Land & base management | Individuals with Disabilities, Peace corps, Military spouse, Family member of overseas employees, Special authorities | If you are using a special hiring authority for veterans (e.g., VEOA, VRA or 30% or more disabled), indicate this in the Clarification from the agency section. | None |
+| Merit promotion internal to an agency | Internal to an agency | Check your agency policy. Potentially, military spouse, family member or special authorities could be included). | ICTAP eligibilities will not receive consideration. | Land and base management agencies must also add the Land & base Mmanagement hiring path. |
+| Vacancies within a National Guard or reserve unit | National Guard and reserves | None | Use the **Clarification from the agency** section to note the requirement to become a member of the unit | Applicants who are not currently a member of the National Guard must be eligible for immediate membership and employment in the National Guard in the military grade listed in this announcement. | 
+| Vacancies using a student program for hiring | Students, Recent graduates | None | Use the **Clarification from the agency** section to indicate which student hiring authority you are using | None | 
+| Vacancies within the Senior Executive Service | Senior executive, Open to the public | None | Either the Senior executive or Open to the public hiring path can be used. There is no requirement to use both.  | None | 
+| Vacancies within Federal employees-excepted service | Open to the public | None | Check with your agency's policy for additional eligibilites. | None |
+| Vacancies using Indian preference | Native Americans, Open to the public (DE) | None | <p>With Indian Preference, candidates may receive preference over non-Indian applicants when applying to jobs with the <a href="https://www.ihs.gov/" target="_blank">Indian Health Service</a> and <a href="https://www.bia.gov/" target="_blank">Indian Affairs</a> (including the Bureau of Indian Affairs, the Bureau of Indian Education, and some positions within the office of the assistant secretary—Indian affairs).</p> <p>Preference is given to qualified Indian candidates in accordance with the Indian Reorganization Act of 1934 (Title 25, USC, Section 472). If applicants claim Indian preference, they must submit <a href="https://www.usajobs.gov/Help/working-in-government/unique-hiring-paths/native-americans/#required-documents" target="_blank">Form BIA 4432 Verification of Indian Preference</a> with their application. Those eligible for Indian preference, but not currently employed in federal service may be appointed under the Excepted Service Appointment Authority Schedule A, 213.3112(a)(7). Non-Indian applicants are considered if there are no qualified applicants eligible for Indian Preference.</p> | None |
+
 
 
 ### Second announcement
-
-Use this section when the job is also open in a second job announcement to other hiring paths.
 
 The **Second announcement** section will appear directly below the **This job is open to**.  The **Second announcement** says "This job is also open in another announcement to" and will list the other hiring paths.
 
 Clicking on the link will open a new tab or window, depending on the preference the user set in their browser, with the the full second job announcement.
 
-**NOTE:** This is a new field and may not yet be offered by your Talent Acquisition System (TAS). Work with your vendor in order to be able to use this field.
