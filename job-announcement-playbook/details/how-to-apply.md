@@ -4,8 +4,8 @@ layout: joa-details
 category: how-to-apply
 title: How to apply
 sidenav: how-to-apply
-lead: This section tells the job seeker the ways in which they can apply to this job.
-current-fields: ["Agency contact information", "Apply by fax", "Further certification statement", "Positions filled statement", "Next steps"]
+lead: This section tells the job seeker how they can apply to a job.
+current-fields: ["Agency contact information", "Apply by fax", "Positions filled statement", "Preview questionnaire URL", "Next steps"]
 previous-fields: ["Reasonable accommodation policy"]
 ---
 
@@ -16,7 +16,7 @@ This section should being with the following:
 <div class="usajobs-recruitment-joa-playbook-details__suggested-text">
 <h4>Prepare your application in USAJOBS</h4>
 <p>
-To start your application, click Apply and we'll walk you through a five step process where you’ll attach a resume and any required documents.
+To start your application, click **Apply** and we'll walk you through a five step process where you’ll attach a resume and any required documents.
 </p>
 <p>
 During the application process you can review, edit, delete and update your information. We’ll automatically save your progress as you go, so you won’t lose any changes.
@@ -29,11 +29,25 @@ During the application process you can review, edit, delete and update your info
   <p>Yes</p>
 </div>
 <div class="usajobs-recruitment-joa-playbook-details__required-by-policy">
-  <h4>Required by Policy</h4>
+  <h4>Required by policy</h4>
   <p>Yes</p>
 </div>
 </div>
 
+### Apply by fax
+
+Tells the job seeker how they can submit their application by fax.
+
+<div class="usajobs-recruitment-joa-playbook-details__container">
+<div class="usajobs-recruitment-joa-playbook-details__required-by-usajobs">
+  <h4>Required by USAJOBS</h4>
+  <p>Yes</p>
+</div>
+<div class="usajobs-recruitment-joa-playbook-details__required-by-policy">
+  <h4>Required by policy</h4>
+  <p>No</p>
+</div>
+</div>
 
 ### Agency contact information
 
@@ -71,13 +85,6 @@ The following fields are required:
 * Email address
 
 
-### Apply by fax
-
-Tells the job seeker how they can submit their application by fax.
-
-#### Required
-Yes
-
 ### Next steps
 
 Tells the job seeker what may happen next after their application is received. It also should house the following statement, when applicable:
@@ -90,23 +97,38 @@ Tells the job seeker what may happen next after their application is received. I
   <p>Yes</p>
 </div>
 <div class="usajobs-recruitment-joa-playbook-details__required-by-policy">
-  <h4>Required by Policy</h4>
+  <h4>Required by policy</h4>
   <p>Yes</p>
 </div>
 </div>
 
 ### Positions filled statement
 
-Tells the job seeker that agency has the flexibility to hire additional people beyond the number of vacancies listed in the [Locations](../locations/#Vacancies) section from the pool of applicants to this announcement.
+Tells the job seeker that the agency has the flexibility to hire additional people beyond the number of vacancies listed in the Locations section from the pool of applicants to this announcement. 
 
 <div class="usajobs-recruitment-joa-playbook-details__suggested-text">
 <h5>Suggested text</h5>
-Multiple positions may be filled from this announcement.
+We may fill multiple positions from this announcement. 
+</div>
+
+### Preview questionnaire URL 
+
+A URL pointing to the questionnaire for this announcement. 
+
+<div class="usajobs-recruitment-joa-playbook-details__container">
+<div class="usajobs-recruitment-joa-playbook-details__required-by-usajobs">
+  <h4>Required by USAJOBS</h4>
+  <p>Yes</p>
+</div>
+<div class="usajobs-recruitment-joa-playbook-details__required-by-policy">
+  <h4>Required by policy</h4>
+  <p>Yes</p>
+</div>
 </div>
 
 ## Actions
 
-This section also includes an **Apply** button that will start the application process for the user. The actions component appears in the right-hand-side of the screen (at desktop "viewport" size; the page is responsive so this section will move depending on the width of the browser window and the device it is being displayed upon).
+This section includes an **Apply** button that will start the application process. 
 
 The actions section also includes controls for:
 
@@ -114,35 +136,25 @@ The actions section also includes controls for:
 * Save
 * Share
 
-Also, note that in the [September 1, 2017 USAJOBS 6.6 release](../../release-notes/v6.6/) we ensured that:
-
-1. All job announcement fields appear in the print version.
-2. All URLs for links are now included in the print version.
-
 <div class="usajobs-recruitment-joa-playbook-details__myth">
 #### Myth: Job announcements must be less than 5 pages when printed
 
 <div class="usajobs-recruitment-joa-playbook-details__container">
 <div class="usajobs-recruitment-joa-playbook-details__do">
-  <h4>OPM Policy</h4>
+  <h4>Office of Personnel Management Policy (OPM)</h4>
   <p>
-    In 2010, OPM recommended that job announcements be limited to five pages, but there is no official policy on job announcement page length.
+    In 2010, OPM recommended that job announcements keep to five pages, but there is no official policy on job announcement length. 
   </p>
 </div>
 <div class="usajobs-recruitment-joa-playbook-details__do-not">
   <h4>Impact</h4>
   <p>
-    We've expanded the print version to include all URLs for all links and ensured that all fields now appear in the print version. We have split the display version of the job announcement up into smaller chunks.
+    We’ve expanded the print version to include all URLs for all links and ensured that all fields now appear in the print version. We have split the display version of the job announcement into smaller chunks.</p>
+<p>
+This is no reason to expand the length of the job announcement. Our research shows that job seekers spend 106.5 seconds looking at a job announcement. The longer it is, the more difficult it is for the job seeker to identify key details. 
   </p>
-  <p>
-    This is not a reason to expand the length of the job announcement. Our research shows that job seekers spend 106.5 seconds looking at a job announcement. The longer it is, the more difficult it is for the job seeker to identify key details.
-  </p>
 </div>
 </div>
 </div>
 
-## Previous fields
 
-### Reasonable accommodation policy
-
-This policy statement has a new, permanent home in the [Fair and Transparent](../fair-and-transparent/) section.
