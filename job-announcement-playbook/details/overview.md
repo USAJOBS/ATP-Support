@@ -4,167 +4,12 @@ layout: joa-details
 category: details
 title: Overview
 sidenav: overview
-lead: The overview section gives an "at-a-glance" view of the job. Some of this information appears on the search results card and entices a job seeker to open the job announcement.
-current-fields: ["Job title", "Department name", "Agency name", "Announcement closing type", "Open and closing dates", "Announcement closing type", "Service type", "Pay scale and grade", "Salary", "Appointment type", "Work schedule"]
-previous-fields: ["Announcement number", "Control number", "Series"]
+lead: The overview section is in the right-hand rail and gives an at-a-glance view of the job. This information appears on the search results card and entices a job seeker to open the job announcement.
+current-fields: ["Job status", "Announcement closing type", "Open and closing dates", "Application cut-off", "Open continuous", "Salary", "Pay scale and grade", "Location(s)", "Vacancies", "Location within area",  "Telework eligible", "Travel required", "Relocation expenses reimbursed", "Appointment type", "Work schedule", "Service", "Promotional potential", "Job family", "Supervisory status", "Security clearance", "Drug test", "Position sensitivity and risk", "Trust determination process", "Job announcement number", "Control number" ]
 ---
 
-## Header
-The header is at the top of the page and contains:
-<ul>
-  <li>Job title</li>
-  <li>Agency name</li>
-  <li>Department name</li>
-  <li>Agency element</li>
-  </ul>
-
-### Job title
-
-The name of the job.
-
-The job title is the first thing a job seeker will see in the search results. Make sure the job title is easy to understand and descriptive of what the job is.
-
-<div class="usajobs-recruitment-joa-playbook-details__container">
-<div class="usajobs-recruitment-joa-playbook-details__required-by-usajobs">
-  <h4>Required by USAJOBS</h4>
-  <p>Yes</p>
-</div>
-<div class="usajobs-recruitment-joa-playbook-details__required-by-policy">
-  <h4>Required by policy</h4>
-  <p>Yes</p>
-</div>
-</div>
-
-<div class="usajobs-recruitment-joa-playbook-details__container">
-<div class="usajobs-recruitment-joa-playbook-details__do">
-  <h4><span class="fa fa-check"></span> Do</h4>
-  * Only include the job title.
-  * Use plain language.
-  * Spell check your titles and your job announcement. Your TAS may provide this capability.
-</div>
-<div class="usajobs-recruitment-joa-playbook-details__do-not">
-  <h4><span class="fa fa-times"></span> Do Not</h4>
-  * Include pay plan, series, grade or any other information that is available elsewhere in the job announcement.
-  * Include additional information in parenthesis.
-</div>
-</div>
-
-<div class="usajobs-recruitment-joa-playbook-details__myth">
-#### Myth: Job announcement titles are dictated by policy and must follow a specific format.
-
-<div class="usajobs-recruitment-joa-playbook-details__container">
-<div class="usajobs-recruitment-joa-playbook-details__do">
-  <h4>OPM Policy</h4>
-  <p>
-    Organizational and functional titles do not replace official position titles, they complement them. Agencies may establish organizational and functional titles for internal administration, program management, or similar purposes.
-  </p>
-  <p>
-    Examples of organizational titles are branch chief or division chief. Examples of functional titles are chief of network management and director of policy development.
-  </p>
-</div>
-<div class="usajobs-recruitment-joa-playbook-details__do-not">
-  <h4>Impact</h4>
-  <p>
-    If job seekers don’t understand the job title, they are less likely to read the job announcement. For example, job titles that use grade levels or series numbers are confusing and can be misleading.
-  </p>
-  <p>
-    Job announcements should include a job title that best describes the position, attracts candidates, and makes the job easier to find. For example, titling a job “Java Developer” instead of “APPSW” makes it easier for job seekers to understand.
-  </p>
-</div>
-</div>
-</div>
-
-
-### Department name
-
-The name of the department posting the job announcement.
-
-The department name is purely informational. Many of those new to government do not know the hierarchy of departments and agencies.
-
-<div class="usajobs-recruitment-joa-playbook-details__container">
-<div class="usajobs-recruitment-joa-playbook-details__required-by-usajobs">
-  <h4>Required by USAJOBS</h4>
-  <p>No</p>
-</div>
-<div class="usajobs-recruitment-joa-playbook-details__required-by-policy">
-  <h4>Required by Policy</h4>
-  <p>No</p>
-</div>
-</div>
-
-### Agency name
-
-The name of the agency that is posting the job announcement.
-
-The agency name will appear as a link. Clicking the link opens a pop-up window (aka modal) that shows the job seeker additional information including the agency details text and the agency careers page URL, as well as the agency contact information for this announcement.
-
-<div class="usajobs-recruitment-joa-playbook-details__container">
-<div class="usajobs-recruitment-joa-playbook-details__required-by-usajobs">
-  <h4>Required by USAJOBS</h4>
-  <p>Yes</p>
-</div>
-<div class="usajobs-recruitment-joa-playbook-details__required-by-policy">
-  <h4>Required by Policy</h4>
-  <p>Yes</p>
-</div>
-</div>
-
-### Agency sub-element name 
-
-The name of the unit within the agency posting the job announcement. 
-
-The agency sub-element name is purely informational. Many of those new to government do not know the hierarchy of departments, agencies and agency elements. 
-
-<div class="usajobs-recruitment-joa-playbook-details__container">
-<div class="usajobs-recruitment-joa-playbook-details__required-by-usajobs">
-  <h4>Required by USAJOBS</h4>
-  <p>No</p>
-</div>
-<div class="usajobs-recruitment-joa-playbook-details__required-by-policy">
-  <h4>Required by policy</h4>
-  <p>No</p>
-</div>
-</div>
-
-## Overview
-The overview section is in the right-hand rail and gives an at-a-glance view of the job. This information appears on the search results card and entices a job seeker to open the job announcement. 
- 
-This section may contain the following: 
-<ul>
-  <li>Job status</li>
-  <li>Announcement closing type:
-    <ul>
-      <li>Open and closing dates</li>
-      <li>Application cut-off</li>
-      <li>Open continuous</li>
-    </ul>
-  </li>
-  <li> Salary</li>
-  <li>Pay scale and grade</li>
-  <li>Location(s):
-    <ul>
-      <li>Vacancies</li>
-      <li>Location within area</li>
-    </ul>
-  </li>
-  <li>Telework eligible</li>
-  <li>Travel required</li>
-  <li>Relocation expenses reimbursed</li>
-  <li>Appointment type</li>
-  <li>Work schedule</li>
-  <li>Service type</li>
-  <li>Promotional potential</li>
-  <li>Job family (series)</li>
-  <li>Supervisory status</li>
-  <li>Security clearance</li>
-  <li>Drug test</li>
-  <li>Position sensitivity and risk</li>
-  <li>Trust determination process</li>
-  <li>Job announcement number</li>
-  <li>Control number</li>
-  </ul>
-    
-### Job status
+   
+## Job status
 Indicates where the job announcement is in the hiring process for job seekers. Includes one of the options:  
 
 <ul>
@@ -189,6 +34,15 @@ The staffing specialist is responsible for triggering the hiring complete or job
 </div>
 </div>
 
+## Announcement closing type
+Indicates the closing type and includes the options:
+
+<ul>
+  <li>Open and closing dates</li>
+  <li>Application cut-off</li>
+  <li>Open continuous</li>
+  </ul>
+
 ### Open and closing dates
 The open date is the first day an applicant can submit an application.  The closing date is the last day an applicant can submit an application.
 
@@ -205,19 +59,11 @@ The job announcement will automatically close at 11:59pm EST on the closing date
 </div>
 </div>
 
-### Announcement closing type
-Indicates the closing type and includes of the options
-
-<ul>
-  <li>Application cut-off</li>
-  <li>Open continuous</li>
-  </ul>
-
-#### Application cut-off
+### Application cut-off
 
 If you are using an application limit, you must clearly state this in the job announcement. Unless you are using the announcement closing type field mentioned above this must be entered manually.  
 
-#### Open continuous
+### Open continuous
 
 If you are posting an open continuous job announcement, you must clearly say this in the job announcement. Unless you are using the announcement closing type field mentioned above this must be entered manually.  
 
@@ -227,7 +73,7 @@ If you are posting an open continuous job announcement, you must clearly say thi
   <p>Yes</p>
 </div>
 <div class="usajobs-recruitment-joa-playbook-details__required-by-policy">
-  <h4>Required by Policy</h4>
+  <h4>Required by policy</h4>
   <p>Yes</p>
 </div>
 </div>
@@ -244,7 +90,7 @@ If you are posting an open continuous job announcement, you must clearly say thi
 </div>
 </div>
 
-### Salary
+## Salary
 
 The salary range of the job. USAJOBS displays the starting salary in the search results and the full salary range in the job announcement.
 
@@ -258,7 +104,7 @@ If the salary is hourly, the value can’t exceed $220 per hour.
   <p>Yes</p>
 </div>
 <div class="usajobs-recruitment-joa-playbook-details__required-by-policy">
-  <h4>Required by Policy</h4>
+  <h4>Required by policy</h4>
   <p>Yes</p>
 </div>
 </div>
@@ -278,7 +124,7 @@ If the salary is hourly, the value can’t exceed $220 per hour.
 </div>
 </div>
 
-### Pay scale and grade
+## Pay scale and grade
 
 Describes the grade level and pay scale that the job falls under.
 
@@ -288,7 +134,7 @@ Describes the grade level and pay scale that the job falls under.
   <p>Yes</p>
 </div>
 <div class="usajobs-recruitment-joa-playbook-details__required-by-policy">
-  <h4>Required by Policy</h4>
+  <h4>Required by policy</h4>
   <p>Yes</p>
 </div>
 </div>
@@ -304,7 +150,7 @@ Describes the grade level and pay scale that the job falls under.
 </div>
 </div>
 
-### Location 
+## Locations 
 
 Indicates the street address (if provided), city and state of the work location. 
 
@@ -314,12 +160,12 @@ Indicates the street address (if provided), city and state of the work location.
   <p>Conditional – the city and state are required, but the street address is optional.</p>
 </div>
 <div class="usajobs-recruitment-joa-playbook-details__required-by-policy">
-  <h4>Required by Policy</h4>
+  <h4>Required by policy</h4>
   <p>Yes</p>
 </div>
 </div>
 
-#### Vacancies 
+### Vacancies 
 
 Indicates the number of vacancies at that location or the total number of vacancies across all locations. 
 
@@ -329,12 +175,12 @@ Indicates the number of vacancies at that location or the total number of vacanc
   <p>Yes. The total number of vacancies is required, but not the number of vacancies at each location.</p>
 </div>
 <div class="usajobs-recruitment-joa-playbook-details__required-by-policy">
-  <h4>Required by Policy</h4>
+  <h4>Required by policy</h4>
   <p>Yes</p>
 </div>
 </div>
 
-#### Location within area 
+### Location within area 
 
 Indicates if the applicant must live within the associated location(s). When true, you must specify the commute distance of that area.  
 
@@ -346,7 +192,7 @@ The commute distance defines the area in miles from the center of the location t
   <p>No. If you include this, you must include the commute distance too. </p>
 </div>
 <div class="usajobs-recruitment-joa-playbook-details__required-by-policy">
-  <h4>Required by Policy</h4>
+  <h4>Required by policy</h4>
   <p>Yes, if applicable.</p>
 </div>
 </div>
@@ -361,7 +207,7 @@ The commute distance defines the area in miles from the center of the location t
 </div>
 </div>
 
-### Telework eligible 
+## Telework eligible 
 
 Indicates if the applicant may telework. 
 
@@ -371,7 +217,7 @@ Indicates if the applicant may telework.
   <p>Yes</p>
 </div>
 <div class="usajobs-recruitment-joa-playbook-details__required-by-policy">
-  <h4>Required by Policy</h4>
+  <h4>Required by policy</h4>
   <p>No. However, it is strongly encouraged to include this in the job announcement.</p>
 </div>
 </div>
@@ -387,7 +233,7 @@ Indicates if the applicant may telework.
 </div>
 </div>
 
-### Travel Required 
+## Travel required 
 
 This tells the job seeker if the job requires travel. 
 
@@ -410,7 +256,7 @@ Options include:
   <p>Yes</p>
 </div>
 <div class="usajobs-recruitment-joa-playbook-details__required-by-policy">
-  <h4>Required by Policy</h4>
+  <h4>Required by policy</h4>
   <p>Yes</p>
 </div>
 </div>
@@ -424,7 +270,7 @@ Options include:
 </div>
   </div>
   
-### Relocation expenses reimbursed 
+## Relocation expenses reimbursed 
 
 Indicates if the applicant will be reimbursed for moving expenses related to relocation for this job.  
 
@@ -434,7 +280,7 @@ Indicates if the applicant will be reimbursed for moving expenses related to rel
   <p>Yes</p>
 </div>
 <div class="usajobs-recruitment-joa-playbook-details__required-by-policy">
-  <h4>Required by Policy</h4>
+  <h4>Required by policy</h4>
   <p>No, but strongly recommended.</p>
 </div>
 </div>
@@ -450,7 +296,7 @@ Indicates if the applicant will be reimbursed for moving expenses related to rel
 </div>
 </div>
 
-### Appointment type
+## Appointment type
 
 Tells the applicant the type of appointment. Appointment types can be:
 
@@ -475,7 +321,7 @@ Tells the applicant the type of appointment. Appointment types can be:
   </li>
   </ul>
 
-Learn more about[appointment types](https://www.usajobs.gov/Help/working-in-government/pay-and-leave/appointment-types/) in the Help Center.
+Learn more about [appointment types](https://www.usajobs.gov/Help/working-in-government/pay-and-leave/appointment-types/) in the Help Center.
    
 
 <div class="usajobs-recruitment-joa-playbook-details__container">
@@ -484,7 +330,7 @@ Learn more about[appointment types](https://www.usajobs.gov/Help/working-in-gove
   <p>Yes</p>
 </div>
 <div class="usajobs-recruitment-joa-playbook-details__required-by-policy">
-  <h4>Required by Policy</h4>
+  <h4>Required by policy</h4>
   <p>Yes</p>
 </div>
 </div>
@@ -502,7 +348,7 @@ Learn more about[appointment types](https://www.usajobs.gov/Help/working-in-gove
 </div>
 </div>
 
-### Work schedule
+## Work schedule
 
 Tells the applicant the work schedule they can expect for this job.  The work schedule can be:
 
@@ -521,7 +367,7 @@ See the [definitions for work schedules](https://www.usajobs.gov/Help/working-in
   <p>Yes</p>
 </div>
 <div class="usajobs-recruitment-joa-playbook-details__required-by-policy">
-  <h4>Required by Policy</h4>
+  <h4>Required by policy</h4>
   <p>Yes</p>
 </div>
 </div>
@@ -541,10 +387,13 @@ See the [definitions for work schedules](https://www.usajobs.gov/Help/working-in
 </div>
 </div>
 
-### Service or service type
+## Service or service type
 
-Tells the applicant what service the job is in: Competitive, Excepted, or Senior Executive Service.
+Tells the applicant what service the job is in: 
 
+* Competitive
+* Excepted
+* Senior Executive Service
 
 <div class="usajobs-recruitment-joa-playbook-details__container">
 <div class="usajobs-recruitment-joa-playbook-details__required-by-usajobs">
@@ -552,7 +401,7 @@ Tells the applicant what service the job is in: Competitive, Excepted, or Senior
   <p>Yes</p>
 </div>
 <div class="usajobs-recruitment-joa-playbook-details__required-by-policy">
-  <h4>Required by Policy</h4>
+  <h4>Required by policy</h4>
   <p>No</p>
 </div>
 </div>
@@ -569,7 +418,7 @@ Tells the applicant what service the job is in: Competitive, Excepted, or Senior
 </div>
 </div>
 
-### Promotional Potential 
+## Promotional potential 
 
 This tells the job seeker if there’s an opportunity to move up in the grade level. 
 
@@ -579,7 +428,7 @@ This tells the job seeker if there’s an opportunity to move up in the grade le
   <p>Yes</p>
 </div>
 <div class="usajobs-recruitment-joa-playbook-details__required-by-policy">
-  <h4>Required by Policy</h4>
+  <h4>Required by policy</h4>
   <p>Yes</p>
 </div>
 </div>
@@ -596,7 +445,7 @@ This tells the job seeker if there’s an opportunity to move up in the grade le
 </div>
 </div>
 
-### Job family (series) 
+## Job family (series) 
 
 Tells the applicant the job family or category to which the job belongs. The codes and titles for the job family are the <a href="https://www.opm.gov/policy-data-oversight/classification-qualifications/classifying-general-schedule-positions/">Office of Personnel Management occupational series</a>. The job family link directs the applicant to the search results page, where the results are filtered by that series. 
 
@@ -606,12 +455,12 @@ Tells the applicant the job family or category to which the job belongs. The cod
   <p>Yes</p>
 </div>
 <div class="usajobs-recruitment-joa-playbook-details__required-by-policy">
-  <h4>Required by Policy</h4>
+  <h4>Required by policy</h4>
   <p>Yes</p>
 </div>
 </div>
 
-### Supervisory Status 
+## Supervisory status 
 This tells the job seeker if job requires supervising others. 
 
 Options include: 
@@ -626,7 +475,7 @@ Options include:
   <p>Yes</p>
 </div>
 <div class="usajobs-recruitment-joa-playbook-details__required-by-policy">
-  <h4>Required by Policy</h4>
+  <h4>Required by policy</h4>
   <p>Yes</p>
 </div>
 </div>
@@ -637,7 +486,7 @@ Options include:
 </div>
 </div>
 
-### Security Clearance  
+## Security clearance  
 
 Indicates the level of security clearance necessary for the job. 
 
@@ -649,7 +498,7 @@ The value in this field will always link to: https://www.usajobs.gov/Help/faq/jo
   <p>Yes</p>
 </div>
 <div class="usajobs-recruitment-joa-playbook-details__required-by-policy">
-  <h4>Required by Policy</h4>
+  <h4>Required by policy</h4>
   <p>Yes</p>
 </div>
 </div>
@@ -665,7 +514,7 @@ The value in this field will always link to: https://www.usajobs.gov/Help/faq/jo
 </div>
 </div>
 
-### Drug test required 
+## Drug test required 
 
 Tells the applicant if a drug test is required. It will display as Yes or No. 
 
@@ -675,7 +524,7 @@ Tells the applicant if a drug test is required. It will display as Yes or No.
   <p>Yes</p>
 </div>
 <div class="usajobs-recruitment-joa-playbook-details__required-by-policy">
-  <h4>Required by Policy</h4>
+  <h4>Required by policy</h4>
   <p>Yes</p>
 </div>
 </div>
@@ -691,7 +540,7 @@ Tells the applicant if a drug test is required. It will display as Yes or No.
 </div>
 </div>
 
-### Position sensitivity and risk 
+## Position sensitivity and risk 
 
 Indicates the sensitivity level of the job—whether the job responsibilities and duties have the potential to adversely impact national security. 
 
@@ -715,7 +564,7 @@ You can only select one option.
   <p>No</p>
 </div>
 <div class="usajobs-recruitment-joa-playbook-details__required-by-policy">
-  <h4>Required by Policy</h4>
+  <h4>Required by policy</h4>
   <p>No</p>
 </div>
 </div>
@@ -732,7 +581,7 @@ You can only select one option.
 </div>
 </div>
 
-### Trust determination process 
+## Trust determination process 
 
 Indicates the type of investigation the applicant will undergo (in addition to a background check). 
 
@@ -754,7 +603,7 @@ If you include a level for the position sensitivity and risk, then you need to i
   <p>No, but this field is conditionally required if a value is provided for **Position sensitivity and risk**. </p>
 </div>
 <div class="usajobs-recruitment-joa-playbook-details__required-by-policy">
-  <h4>Required by Policy</h4>
+  <h4>Required by policy</h4>
   <p>No</p>
 </div>
 </div>
@@ -770,11 +619,11 @@ If you include a level for the position sensitivity and risk, then you need to i
   * Repeat this information elsewhere.
 </div>
 </div>
-### Announcement number 
+## Announcement number 
 
 The announcement number is in the overview section which lives in the right-hand sidebar. Hiring agencies determine the announcement number. 
 
-### Control number 
+## Control number 
 
 The control number is in the overview section which lives in the right-hand sidebar. This number is a unique one assigned by USAJOBS. 
 
