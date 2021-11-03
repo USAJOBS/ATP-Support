@@ -24,6 +24,8 @@ This section will automatically appear in the following format:
 ### Legal and regulatory guidance
 Provides links to our Help Center where the job seeker can read about the following:
 
+* [Equal employment opportunity policy](https://www.usajobs.gov/Help/equal-employment-opportunity/)
+* [Reasonable accommodation policy](https://www.usajobs.gov/Help/reasonable-accommodation/)
 * [Financial suitability](https://www.usajobs.gov/Help/working-in-government/fair-and-transparent/financial-suitability/)
 * [Privacy Act](https://www.usajobs.gov/Help/working-in-government/fair-and-transparent/privacy-act/)
 * [Selective Service](https://www.usajobs.gov/Help/working-in-government/fair-and-transparent/selective-service/)
