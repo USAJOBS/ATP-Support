@@ -5,13 +5,12 @@ category: how-to-apply
 title: How to apply
 sidenav: how-to-apply
 lead: This section tells the job seeker how they can apply to a job.
-current-fields: ["Agency contact information", "Apply by fax", "Positions filled statement", "Preview questionnaire URL", "Next steps"]
+current-fields: [ "Apply by fax", "Positions filled statement", "Actions", "Agency contact information", "Preview questionnaire URL", "Next steps"]
 previous-fields: ["Reasonable accommodation policy"]
 ---
 
-This section should being with the following:
+Begin this section with the following:
 
-#### Example
 
 <div class="usajobs-recruitment-joa-playbook-details__suggested-text">
 <h4>Prepare your application in USAJOBS</h4>
@@ -49,59 +48,6 @@ Tells the job seeker how they can submit their application by fax.
 </div>
 </div>
 
-### Agency contact information
-
-Tells the job seeker how they can contact the agency. The **Learn more about this agency** link opens the [agency pop-up window](../overview/#agency-modal---current-fields).
-
-<div class="usajobs-recruitment-joa-playbook-details__container">
-<div class="usajobs-recruitment-joa-playbook-details__required-by-usajobs">
-  <h4>Required by USAJOBS</h4>
-  <p>Yes</p>
-</div>
-<div class="usajobs-recruitment-joa-playbook-details__required-by-policy">
-  <h4>Required by Policy</h4>
-  <p>Yes</p>
-</div>
-</div>
-
-Information provided via our API is displayed in the following manner:
-
-<div class="usajobs-recruitment-joa-playbook-details__example-img">
-<amp-img src="{{ '/assets/images/job-announcement-playbook/agency-contact-info-v6.6.png' | relative_url }}"
-  srcset="{{ '/assets/images/job-announcement-playbook/agency-contact-info-v6.6.png' | relative_url }} 768w,
-  {{ '/assets/images/job-announcement-playbook/agency-contact-info-v6.6-SM.png' | relative_url }} 100w"
-  width="692"
-  height="376"
-  layout="responsive"
-  alt="Agency contact information v6.6 example"></amp-img>
-</div>
-
-The following fields are required:
-
-* Agency contact name
-* Phone number
-* Fax number
-* Street address
-* Email address
-
-
-### Next steps
-
-Tells the job seeker what may happen next after their application is received. It also should house the following statement, when applicable:
-
-* [Positions filled statement](#positions-filled-statement)
-
-<div class="usajobs-recruitment-joa-playbook-details__container">
-<div class="usajobs-recruitment-joa-playbook-details__required-by-usajobs">
-  <h4>Required by USAJOBS</h4>
-  <p>Yes</p>
-</div>
-<div class="usajobs-recruitment-joa-playbook-details__required-by-policy">
-  <h4>Required by policy</h4>
-  <p>Yes</p>
-</div>
-</div>
-
 ### Positions filled statement
 
 Tells the job seeker that the agency has the flexibility to hire additional people beyond the number of vacancies listed in the Locations section from the pool of applicants to this announcement. 
@@ -109,21 +55,6 @@ Tells the job seeker that the agency has the flexibility to hire additional peop
 <div class="usajobs-recruitment-joa-playbook-details__suggested-text">
 <h5>Suggested text</h5>
 We may fill multiple positions from this announcement. 
-</div>
-
-### Preview questionnaire URL 
-
-A URL pointing to the questionnaire for this announcement. 
-
-<div class="usajobs-recruitment-joa-playbook-details__container">
-<div class="usajobs-recruitment-joa-playbook-details__required-by-usajobs">
-  <h4>Required by USAJOBS</h4>
-  <p>Yes</p>
-</div>
-<div class="usajobs-recruitment-joa-playbook-details__required-by-policy">
-  <h4>Required by policy</h4>
-  <p>Yes</p>
-</div>
 </div>
 
 ## Actions
@@ -156,5 +87,73 @@ This is no reason to expand the length of the job announcement. Our research sho
 </div>
 </div>
 </div>
+
+### Preview questionnaire URL 
+
+A URL pointing to the questionnaire for this announcement. 
+
+<div class="usajobs-recruitment-joa-playbook-details__container">
+<div class="usajobs-recruitment-joa-playbook-details__required-by-usajobs">
+  <h4>Required by USAJOBS</h4>
+  <p>Yes</p>
+</div>
+<div class="usajobs-recruitment-joa-playbook-details__required-by-policy">
+  <h4>Required by policy</h4>
+  <p>Yes</p>
+</div>
+</div>
+
+### Agency contact information
+
+Tells the job seeker how they can contact the agency. The **Learn more about this agency** link opens the [agency pop-up window](../overview/#agency-modal---current-fields).
+
+<div class="usajobs-recruitment-joa-playbook-details__container">
+<div class="usajobs-recruitment-joa-playbook-details__required-by-usajobs">
+  <h4>Required by USAJOBS</h4>
+  <p>Yes</p>
+</div>
+<div class="usajobs-recruitment-joa-playbook-details__required-by-policy">
+  <h4>Required by Policy</h4>
+  <p>Yes</p>
+</div>
+</div>
+
+We display the information you provide as follows:
+
+<div class="usajobs-recruitment-joa-playbook-details__example-img">
+<amp-img src="{{ '/assets/images/job-announcement-playbook/agency-contact-info-v6.6.png' | relative_url }}"
+  srcset="{{ '/assets/images/job-announcement-playbook/agency-contact-info-v6.6.png' | relative_url }} 768w,
+  {{ '/assets/images/job-announcement-playbook/agency-contact-info-v6.6-SM.png' | relative_url }} 100w"
+  width="692"
+  height="376"
+  layout="responsive"
+  alt="Agency contact information v6.6 example"></amp-img>
+</div>
+
+The following fields are required:
+
+* Agency contact name
+* Phone number - check your voicemail often and respond to applicants as soon as possible.
+* Street address
+* Email address - Please check use an active email address and check it often, because job seekers may contact you there.
+
+
+### Next steps
+
+Tells the job seeker what may happen next after their application is received. 
+
+<div class="usajobs-recruitment-joa-playbook-details__container">
+<div class="usajobs-recruitment-joa-playbook-details__required-by-usajobs">
+  <h4>Required by USAJOBS</h4>
+  <p>Yes</p>
+</div>
+<div class="usajobs-recruitment-joa-playbook-details__required-by-policy">
+  <h4>Required by policy</h4>
+  <p>Yes</p>
+</div>
+</div>
+
+
+
 
 
