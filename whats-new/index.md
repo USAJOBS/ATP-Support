@@ -7,6 +7,64 @@ sidenav: what-is-new
 title: What's new with ATP
 ---
 
+## Changes made November 12, 2021
+### Sitewide enhancements
+
+* Added the new statuses to the excel spreadsheet.
+* Updated the existing agency dropdowns to include agency acronyms. The user must include ( ) around the acronym. Example: (OPM) not OPM.
+
+#### Events
+
+* Added an agency dropdown selector to the **Host Organization** field.
+
+### Bug fixes
+
+* Fixed an issue that was causing a candidate to show up twice in search results.
+* Fixed an issue so a user no longer gets an error message when they click **Forgot password**.
+
+## Changes made October 29, 2021
+### Sitewide enhancements
+
+* Updated the field validation for the email field. When a user enters a non-federal email they will see the following message: “You must include a valid government email address.”
+* Added a success alert to display when a new user invite has been sent. 
+* Fixed multiple 508 compliance issues.
+
+
+## Changes made October 1, 2021
+### Sitewide enhancements
+
+#### Manage users 
+
+* Added filters so an agency administrator can search by **user status**: Active, Account locked, Invited, Invited-expired, Access removed.
+  * The filters will work as an “Or” and will update search results as each filter is selected.
+
+* Added filters so an agency administrator can search by **ATP role**: Agency General User, Event Coordinator.
+* Added a **Clear all filters** button so a user can remove any filters they have selected.
+* Removed the status from the excel spreadsheet when a user exports to excel.
+* Added validation to make sure the email in a user’s profile is a valid government email. The validation will also check when a user updates their email. 
+
+#### Other updates
+
+* Updated the new user flow—revised the heading **Change your password** to **Create your password**.
+
+### Bug fixes
+
+* Fixed an issue so users no longer see the wrong candidate information when they click on a name in their search results.
+
+## Changes made September 17, 2021
+### Sitewide enhancements
+
+* Created a field in the data base to track how the user signs in—this will help to have a more accurate status on the **Manage users** page. We will use the most recent sign in method to determine a user’s status.
+  * Example: If a user signs in using their PIV/CAC they will not see “Account locked – password expired”. However, if they sign in again using their email and password, they will see any status that is related to this sign in method; password expired, no activity, 3+ failed sign in attempts.
+
+* Updated the design of **Manage users**.
+  * Removed the active, inactive and pending tabs and now display all information about each user on the same page using a card style.
+
+* Added an **Agency filter** so a user can search other users by agency. If the user only has permissions for one agency that agency will be pre-filled for the user.
+* Added field validation on **Edit profile** for the first, middle, last name, agency and email fields.
+* Added user data in the right rail; status, invited date, last activity date and authentication method.
+* Added bulk actions so a user can select multiple users and perform the same function for all of them at once. For example: reinvite, unlock or remove access.
+
 ## Changes made September 3, 2021
 
 ### Events
