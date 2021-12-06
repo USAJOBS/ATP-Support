@@ -26,7 +26,7 @@ title: What's new with ATP
 * Added a radius search with a default of 25 miles. 
   * A user can move the slider to their desired radius.
   * The system will search by the zip code the candidate has in their USAJOBS profile.
-  * If a user searches by a location that doesn’t a latitude and longitude, the radius slider option will not display, and the system will search for an exact match based on the location name.
+  * If a user searches by a location that doesn't match to a longitude and latitude, the radius slider option will not display, and the system will search for an exact match based on the location name.
 
 #### Campaign
 
