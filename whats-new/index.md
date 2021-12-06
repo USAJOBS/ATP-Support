@@ -7,6 +7,32 @@ sidenav: what-is-new
 title: What's new with ATP
 ---
 
+## Changes made November 29, 2021
+### Sitewide enhancements
+#### Manage users
+
+* Added an alert that displays when a user tries to do a bulk action (taking the same action on multiple users – for example unlocking more than one user) without selecting anything.
+* Updated **Manage users** to continue showing the search bar when no search results are found. This will let a user continue their search from the same page.
+* Added an alert when a user unlocks a user’s account telling them an email has been sent.
+* Added an ellipsis at the end of long emails so they don’t overflow into the agency name within the candidate card.
+
+#### Search resume
+
+* Updated the location **Search** to include two checkboxes: **Current** and **Desired**. The **Current** location search is based on a candidates’ current location. The **Desired** location search is based on a candidate’s desired work location.
+  * The default will be **Current** location. 
+  * Users can select one or both search options. If a user unselects **Current** and doesn’t select anything, the system will search using the candidate’s current location.
+  * This new feature will allow a user to search by a radius of 0 to 200 miles from the selected location.
+
+* Added a radius search with a default of 25 miles. 
+  * A user can move the slider to their desired radius.
+  * The system will search by the zip code the candidate has in their USAJOBS profile.
+  * If a user searches by a location that doesn't match to a longitude and latitude, the radius slider option will not display, and the system will search for an exact match based on the location name.
+
+#### Campaign
+
+* Updated the date format to MM/DD/YY. This new format will display for the created date and the last updated date.
+
+
 ## Changes made November 12, 2021
 ### Sitewide enhancements
 
