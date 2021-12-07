@@ -4,12 +4,12 @@ layout: joa-details
 category: requirements
 title: How you will be evaluated
 sidenav: how-you-will-be-evaluated
-lead: This section tells the applicant how their application will be use to determine your eligibility, qualifications, and quality ranking for this position.
-current-fields: ["Basis for rating", "Type of rating", "Interview type", "Conditions of employment reminder"]
+lead: This section tells the applicant how staffing specialists and hiring managers will use their application to determine your eligibility, qualifications, and quality ranking for the position.
+current-fields: ["Basis for rating", "Type of rating", "Interview type"]
 previous-fields: ["Consideration order", "Drug test required", "Financial suitability"]
 ---
 
-This section describes how you will evaluate an applicant and their application.  The content needs to set the expectation of how you’ll evaluate an applicant against their responses to the job questionnaire and the information in their resume.
+You will set the expectation of how you’ll evaluate an applicant against their responses to the job questionnaire and the information in their resume.
 
 This section will:
 
@@ -21,7 +21,7 @@ This section will:
   <p>Yes</p>
 </div>
 <div class="usajobs-recruitment-joa-playbook-details__required-by-policy">
-  <h4>Required by Policy</h4>
+  <h4>Required by policy</h4>
   <p>Yes</p>
 </div>
 </div>
@@ -34,41 +34,46 @@ You must include the following:
 
 ### Basis for rating
 
-The basis for rating is the method you will use to evaluate an applicant.  It's important to describe how you will evaluate an applicant.
+The basis for rating is where you will describe how you will evaluate an applicant.
 
 The method of rating may include one or more of the following:
 
 *	Resume
 *	Answers to the online job questionnaire
 *	Work samples (writing samples, project related samples, design work etc.)
-*	An assessment (a written test, project related assessment, etc) - sometimes this is called a simulation.
+*	An assessment (a written test, project related assessment, etc) - sometimes this is called a work simulation.
 *	Interview
 
 Details on [rating procedures can be found in the DEO Handbook](https://www.opm.gov/policy-data-oversight/hiring-information/competitive-hiring/deo_handbook.pdf).
 
 
-<div class="usajobs-recruitment-joa-playbook-details__suggested-text">
-<h5>Suggested text - Use this text as the first sentence in this section:</h5>
-"You will be evaluated for this job based on how well you meet the qualifications above."
-</div>
-
 <div class="usajobs-recruitment-joa-playbook-details__container">
 <div class="usajobs-recruitment-joa-playbook-details__do">
   <h4><span class="fa fa-check"></span> Do</h4>
-  * Always include the suggested text as the lead in sentence.
+  * Always include the suggested text as the lead-in sentence.
   * Include each type of evaluation criteria you’re using — be specific.
   * Explain any additional documents the applicant needs to provide.
-  * Explain any "assessment" the applicant will need to complete.
-  * Include whether or not they’ll need to complete an in-person interview.
+  * Explain any assessment the applicant will need to complete.
+  * Include whether they’ll need to complete an in-person interview.
 
 </div>
 <div class="usajobs-recruitment-joa-playbook-details__do-not">
-  <h4><span class="fa fa-times"></span> Do Not</h4>
-  * Do not include additional qualifications, such as skills, or experience that were not already mentioned in the qualifications section. All qualifications NEED to be listed in the qualifications section.
-  * Do not duplicate this information in **How to apply**.
-  * Do not describe appointment types, the type of announcement, license requirements or any other information that should be can found elsewhere within the announcement or hyperlinked to a page or document outside of the announcement.
+  <h4><span class="fa fa-times"></span> Do not</h4>
+  * Include additional qualifications that were not already mentioned in the **Qualifications** section. All qualifications NEED to be listed in the **Qualifications** section.
+  * Duplicate this information in **How to apply**.
+  * Describe any information that be can found elsewhere within the announcement or linked to a page or document outside of the announcement.
 </div>
 </div>
+
+#### Type of assessment
+
+This describes additional assessments that the applicant will need to participate in or complete. Describe what the assessment is, at what point in the process the applicant will need to submit this information and how to request reasonable accommodations.
+
+This may include:
+
+*	Work-related assessment - give the applicant a sample job task or scenario and ask them how they would complete it.
+*	Written assessment - the applicant gives a writing sample.
+*	[Other assessment methods](https://www.opm.gov/policy-data-oversight/assessment-and-selection/other-assessment-methods/assessment-method-considerations/)
 
 <div class="usajobs-recruitment-joa-playbook-details__suggested-text">
 <h5>Suggested text</h5>
@@ -78,16 +83,6 @@ You will be evaluated for this job based on:
 *	A work related assessment – we’ll give you a sample job task that you need to complete.
 *	An in-person interview.
 </div>
-
-#### Type of assessment
-
-This describes additional "assessments" that the applicant will need to participate in or complete. Describe what the assessment is and at what point in the process the applicant will need to submit this information.
-
-This may include:
-
-*	Work-related assessment - give the applicant a sample job task or scenario and ask them how they would complete it.
-*	Written assessment - the applicant gives a writing sample.
-*	[Other](https://www.opm.gov/policy-data-oversight/assessment-and-selection/other-assessment-methods/assessment-method-considerations/)
 
 ### Type of rating
 
