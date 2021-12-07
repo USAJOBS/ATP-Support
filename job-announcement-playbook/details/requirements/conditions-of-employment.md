@@ -25,7 +25,7 @@ This section will:
   <p>Yes</p>
 </div>
 <div class="usajobs-recruitment-joa-playbook-details__required-by-policy">
-  <h4>Required by Policy</h4>
+  <h4>Required by policy</h4>
   <p>Yes</p>
 </div>
 </div>
@@ -63,7 +63,7 @@ We've created a page in our Help Center to that gives more information: [What ar
   <p>No</p>
 </div>
 <div class="usajobs-recruitment-joa-playbook-details__required-by-policy">
-  <h4>Required by Policy</h4>
+  <h4>Required by policy</h4>
   <p>No, but strongly encouraged.</p>
 </div>
 </div>
@@ -95,7 +95,7 @@ This is a non-bargaining unit position.
 </div>
 </div>
 
-### Direct Deposit
+### Direct deposit
 
 Tells the job seeker if they need to have direct deposit to get paid.
 
@@ -105,7 +105,7 @@ Tells the job seeker if they need to have direct deposit to get paid.
   <p>No</p>
 </div>
 <div class="usajobs-recruitment-joa-playbook-details__required-by-policy">
-  <h4>Required by Policy</h4>
+  <h4>Required by policy</h4>
   <p>No</p>
 </div>
 </div>
@@ -131,7 +131,7 @@ You will need to set up direct deposit so we can pay you.
 </div>
 </div>
 
-### Driver’s License
+### Driver’s license
 
 Tells the job seeker if they need to have a driver’s license to do the job duties and tasks.
 
@@ -141,7 +141,7 @@ Tells the job seeker if they need to have a driver’s license to do the job dut
   <p>No</p>
 </div>
 <div class="usajobs-recruitment-joa-playbook-details__required-by-policy">
-  <h4>Required by Policy</h4>
+  <h4>Required by policy</h4>
   <p>Yes, if applicable.</p>
 </div>
 </div>
@@ -177,7 +177,7 @@ Tells the job seeker that the hiring agency will use the E-Verify system to chec
   <p>No</p>
 </div>
 <div class="usajobs-recruitment-joa-playbook-details__required-by-policy">
-  <h4>Required by Policy</h4>
+  <h4>Required by policy</h4>
   <p>No</p>
 </div>
 </div>
@@ -215,7 +215,7 @@ Typically, an applicant may have to disclose financial interests if it is a Seni
   <p>Only if it's required by the hiring agency.</p>
 </div>
 <div class="usajobs-recruitment-joa-playbook-details__required-by-policy">
-  <h4>Required by Policy</h4>
+  <h4>Required by policy</h4>
   <p>Yes, if applicable.</p>
 </div>
 </div>
@@ -250,7 +250,7 @@ Tells the job seeker if the job is subject to an agency’s prohibited financial
   <p>No</p>
 </div>
 <div class="usajobs-recruitment-joa-playbook-details__required-by-policy">
-  <h4>Required by Policy</h4>
+  <h4>Required by policy</h4>
   <p>Yes, if applicable.</p>
 </div>
 </div>
@@ -285,7 +285,7 @@ Tells the job seeker if they need to carry a firearm for the job and meet certai
   <p>No</p>
 </div>
 <div class="usajobs-recruitment-joa-playbook-details__required-by-policy">
-  <h4>Required by Policy</h4>
+  <h4>Required by policy</h4>
   <p>Yes, if applicable.</p>
 </div>
 </div>
@@ -320,7 +320,7 @@ Tells the job seeker if they need to use a government charge card and they must 
   <p>No</p>
 </div>
 <div class="usajobs-recruitment-joa-playbook-details__required-by-policy">
-  <h4>Required by Policy</h4>
+  <h4>Required by policy</h4>
   <p>Yes, if applicable.</p>
 </div>
 </div>
@@ -355,7 +355,7 @@ Tells the job seeker if they need to have a certain type of license for the job.
   <p>No</p>
 </div>
 <div class="usajobs-recruitment-joa-playbook-details__required-by-policy">
-  <h4>Required by Policy</h4>
+  <h4>Required by policy</h4>
   <p>Yes, if applicable.</p>
 </div>
 </div>
@@ -402,7 +402,7 @@ An agreement that says the agency may relocate the employee to work in a differe
 
 <div class="usajobs-recruitment-joa-playbook-details__suggested-text">
 <h5>Suggested text</h5>
-If selected, this position may require you to be reassigned to different geographic locations. Accordingly, you will be required to sign a mobility agreement, which will remain in effect through the duration of the assignment.  
+If selected, this position may require you to be reassigned to different geographic locations. You will be required to sign a mobility agreement, which will remain in effect through the duration of the assignment.  
   
 </div>
 
@@ -433,7 +433,7 @@ Tells the job seeker if they will need to pass a physical exam before starting t
   <p>No</p>
 </div>
 <div class="usajobs-recruitment-joa-playbook-details__required-by-policy">
-  <h4>Required by Policy</h4>
+  <h4>Required by policy</h4>
   <p>Yes, if applicable.</p>
 </div>
 </div>
@@ -477,7 +477,7 @@ Tells the job seeker that they need to go through the PIV process.
   <p>No</p>
 </div>
 <div class="usajobs-recruitment-joa-playbook-details__required-by-policy">
-  <h4>Required by Policy</h4>
+  <h4>Required by policy</h4>
   <p>Yes, if applicable.</p>
 </div>
 </div>
@@ -514,7 +514,7 @@ Tells the applicant that they need to provide proof of their United States citiz
   <p>Yes</p>
 </div>
 <div class="usajobs-recruitment-joa-playbook-details__required-by-policy">
-  <h4>Required by Policy</h4>
+  <h4>Required by policy</h4>
   <p>Yes</p>
 </div>
 </div>
@@ -550,7 +550,7 @@ Tells the applicant if there is a recruitment incentive available.
   <p>No</p>
 </div>
 <div class="usajobs-recruitment-joa-playbook-details__required-by-policy">
-  <h4>Required by Policy</h4>
+  <h4>Required by policy</h4>
   <p>Yes, if applicable.</p>
 </div>
 </div>
@@ -584,7 +584,7 @@ Indicates the level of background check necessary for the job.  The value in thi
   <p>Yes</p>
 </div>
 <div class="usajobs-recruitment-joa-playbook-details__required-by-policy">
-  <h4>Required by Policy</h4>
+  <h4>Required by policy</h4>
   <p>No, however it is strongly encouraged to include this in the job announcement.</p>
 </div>
 </div>
