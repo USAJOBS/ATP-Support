@@ -5,7 +5,7 @@ category: benefits
 title: Benefits
 sidenav: benefits
 lead: This section describes the employee benefits.  Because most benefits are the same across federal agencies, we recommend using the same benefits language.
-current-fields: ["Agency Benefits"]
+current-fields: ["Agency benefits"]
 ---
 
 #### Example
@@ -20,7 +20,7 @@ current-fields: ["Agency Benefits"]
   alt="Benefits v6.7 example"></amp-img>
 </div>
 
-This section will automatically include the initial paragraph and link seen above, followed by information that you provide, followed by information that you provide along with a disclaimer explaining that benefits sometimes differ across agencies.
+This section will automatically include the initial paragraph and **Learn more about federal benefits** link seen above, followed by information that you provide along with a disclaimer explaining that benefits sometimes differ across agencies.
 
 The link in this section is here:
 
@@ -44,18 +44,24 @@ This text allows the agency to describe benefits that they offer above and beyon
 
 <div class="usajobs-recruitment-joa-playbook-details__suggested-text">
 <h5>Suggested text</h5>
-Learn more about our benefits and careers: [Insert link to agency specific benefits or career page]
+  <p>Learn more about our benefits: [Insert link to agency specific benefits page]</p>
+  
+  Or
+  
+ <p>Learn more about our benefits and careers: [Insert link to agency specific benefits and career page]</p>
 </div>
 
 <div class="usajobs-recruitment-joa-playbook-details__container">
 <div class="usajobs-recruitment-joa-playbook-details__do">
   <h4><span class="fa fa-check"></span> Do</h4>
+  
   * Add a link to your agency's benefits or career page, but make sure the label of the link accurately describes the page. For example, if you only have a benefits page, the link label should say “Learn more about our benefits”.  If you have a benefits and career page together, use “Learn more about our benefits and careers.”
 </div>
 <div class="usajobs-recruitment-joa-playbook-details__do-not">
   <h4><span class="fa fa-times"></span> Do Not</h4>
+  
   * Repeat benefits information in any other section — it should only appear in the **Benefits** section.
   * Repeat benefits information that is already made available via the links above.
-  * Keep using broken links or links that send applicants to outdated help content.
+  * Keep using broken links or links that send applicants to outdated content.
 </div>
 </div>
