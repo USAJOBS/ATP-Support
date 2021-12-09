@@ -86,7 +86,7 @@ You will be evaluated for this job based on:
 
 ### Type of rating
 
-Each agency defines what the categories of rating are for their applicants. You are required to tell the applicant what the categories are and how you define them.
+Each agency defines what the categories of rating are for their applicants. You are required to tell the applicant what the categories are and how you define them. For merit promotion and other types of hiring, explain the type of rating used. 
 
 <div class="usajobs-recruitment-joa-playbook-details__suggested-text">
 <h5>Suggested text for category rating</h5>
@@ -102,19 +102,20 @@ Each agency defines what the categories of rating are for their applicants. You 
 </div>
 <div class="usajobs-recruitment-joa-playbook-details__do-not">
   <h4><span class="fa fa-times"></span> Do Not</h4>
-  * Do not repeat or include additional qualifications — this section is only to describe rating categories.
+  * Repeat or include additional qualifications — this section is only to describe rating categories.
 </div>
 </div>
 
 ### Interview type
 
-This explains if or when you will interview an applicant, and describes the type of interview. This section should also indicate whether the interview is pass/fail or scored.
+This explains if or when you will interview an applicant and describes the type of interview. This section should also indicate whether the interview is pass/fail or scored.
 
-Types of interview may be:
+Type of interview:
 
-*	Structured interview
-*	Phone interview
-*	In-person and one-on-one interview
+*	Structured interview (panel or one-on-one)
+  *	Include whether the interview is by phone or in-person. 
+*	Job fit interview
+  *	Include whether the interview is by phone or in-person.  
 
 ### Conditions of employment reminder
 
@@ -122,34 +123,5 @@ This tells the applicant if they fail any part of the conditions of employment, 
 
 NOTE: We plan to add this automatically to each job announcement in a future release.
 
-#### Required
-Yes
 
-<div class="usajobs-recruitment-joa-playbook-details__suggested-text">
-  If you fail to meet the conditions of employment or any other pre-employment requirements, such as missing any of the scheduled appointments, the hiring agency may rescind their tentative offer of employment.
-</div>
 
-<div class="usajobs-recruitment-joa-playbook-details__container">
-<div class="usajobs-recruitment-joa-playbook-details__do">
-  <h4><span class="fa fa-check"></span> Do</h4>
-  * You must include this text in the **How you’ll be evaluated** section.
-</div>
-<div class="usajobs-recruitment-joa-playbook-details__do-not">
-  <h4><span class="fa fa-times"></span> Do Not</h4>
-  * Do not repeat this reminder in the **Conditions of employment** section.
-</div>
-</div>
-
-## Previous fields
-
-### Consideration order
-
-This tells the applicant which groups of people you will consider first, based on eligibility. This section is not required and OPM Policy does not consider it necessary to expose this part of the process to applicants. Thus you may remove this information from your job announcements.
-
-### Drug test required
-
-The DEO handbook does require to indicate under Basis for Rating whether a drug test is required. We've moved that information under [Background check and security clearance](../background-check/#drug-test-required) to give it a permanent home alongside the other checks and clearances an applicant will need to undergo.
-
-### Financial suitability
-
-A link to the financial suitability guidance is now found in the [Fair and Transparent - Legal and regulatory guidance](../../fair-and-transparent/#legal-and-regulatory-guidance) section.
