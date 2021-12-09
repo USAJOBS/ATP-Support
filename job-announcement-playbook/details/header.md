@@ -76,7 +76,7 @@ The department name is purely informational. Many of those new to government do 
   <p>No</p>
 </div>
 <div class="usajobs-recruitment-joa-playbook-details__required-by-policy">
-  <h4>Required by Policy</h4>
+  <h4>Required by policy</h4>
   <p>No</p>
 </div>
 </div>
@@ -93,7 +93,7 @@ The agency name will appear as a link. Clicking the link opens a pop-up window (
   <p>Yes</p>
 </div>
 <div class="usajobs-recruitment-joa-playbook-details__required-by-policy">
-  <h4>Required by Policy</h4>
+  <h4>Required by policy</h4>
   <p>Yes</p>
 </div>
 </div>
