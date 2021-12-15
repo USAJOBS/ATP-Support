@@ -1,20 +1,9 @@
 <ul class="usa-sidenav-list">
+   <li>
+    <a href="{{ '/job-announcement-playbook/details/header/' | relative_url }}">Header</a>
+  </li>
   <li>
-    <a {% if page.sidenav == 'overview' %}class="usa-current" {% endif %} href="{{ '/job-announcement-playbook/details/overview/' | relative_url }}">Overview</a>
-    {% if page.sidenav == 'overview' %}
-    <ul class="usa-sidenav-sub_list">
-      <li>
-        <a {% if page.url contains 'overview#title-bar---current-fields' %}class="usa-current" {% endif %} href="{{ '/job-announcement-playbook/details/overview#title-bar---current-fields' | relative_url }}">
-          Title bar
-        </a>
-      </li>
-      <li>
-        <a href="{{ '/job-announcement-playbook/details/overview#agency-modal---current-fields' | relative_url }}">
-          Agency modal
-        </a>
-      </li>
-    </ul>
-    {% endif %}
+    <a href="{{ '/job-announcement-playbook/details/overview/' | relative_url }}">Overview</a>
   </li>
   <li>
     <a {% if page.sidenav == 'this-job-is-open-to' %}class="usa-current"{% endif %} href="{{ '/job-announcement-playbook/details/this-job-is-open-to/' | relative_url }}">This job is open to</a>
@@ -28,9 +17,7 @@
     </ul>
     {% endif %}
   </li>
-  <li>
-    <a href="{{ '/job-announcement-playbook/details/locations/' | relative_url }}">Locations</a>
-  </li>
+ 
   <li>
     <a {% if page.sidenav == 'duties' %}class="usa-current"{% endif %} href="{{ '/job-announcement-playbook/details/duties/' | relative_url }}">Duties</a>
     {% if page.sidenav == 'duties' %}
