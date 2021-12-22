@@ -5,7 +5,7 @@ category: requirements
 title: Conditions of Employment
 sidenav: conditions-of-employment
 lead: Conditions of employment lists requirements the job seeker must have or agree to before or after accepting the job. Conditions of employment may be named Key requirements in your TAS. 
-This section may contain: ["Bargaining unit position", "Direct deposit", "Driver’s license", "E-verify", "Financial disclosure report", "Financial interest regulation", "Firearm", "Government charge card", "Licensure", "Mobility agreement", "Physical", "PIV process", "Proof of citizenship", "Recruitment incentive"]
+This section may contain: ["Bargaining unit position", "Direct deposit", "Driver’s license", "E-verify", "Financial disclosure report", "Financial interest regulation", "Firearm", "Government charge card", "Licensure", "Mobility agreement", "Physical", "PIV process", "Proof of citizenship", "Recruitment incentive", "Background check"]
 
 ---
 
