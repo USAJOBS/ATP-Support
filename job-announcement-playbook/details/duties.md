@@ -6,7 +6,7 @@ title: Duties
 sidenav: duties
 lead: The Duties section lists out the day-to-day responsibilities and activities for the job. The duties help the job seeker understand the type of work they’ll do and help them decide if the job is a good fit for them. 
 current-fields: ["Duties"]
-previous-fields: ["Summary", "Promotion potential", "Supervisory status", "Who May Apply" ]
+
 ---
 
 
