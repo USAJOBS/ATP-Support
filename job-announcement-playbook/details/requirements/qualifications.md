@@ -6,7 +6,6 @@ title: Qualifications
 sidenav: qualifications
 lead: Describes the experience and education that a job seeker needs for the job. When hiring for multiple grade levels, you must explain the qualifications for each grade level.  
 current-fields: ["Specialized experience",  "Selective factor",  "Time in grade",  "Education",  "Additional information"]
-previous-fields: []
 ---
 This section helps the job seeker determin whether to apply for the job, so being clear and concise is essential. Read the qualifications from the job seeker perspective and ask these questions:
 
