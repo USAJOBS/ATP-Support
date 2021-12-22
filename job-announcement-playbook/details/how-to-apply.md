@@ -6,7 +6,7 @@ title: How to apply
 sidenav: how-to-apply
 lead: This section tells the job seeker how they can apply to a job.
 current-fields: [ "Apply by fax", "Positions filled statement", "Actions", "Agency contact information", "Preview questionnaire URL", "Next steps"]
-previous-fields: ["Reasonable accommodation policy"]
+
 ---
 
 Begin this section with the following:
