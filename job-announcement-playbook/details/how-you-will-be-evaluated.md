@@ -114,9 +114,9 @@ This explains if or when you will interview an applicant and describes the type 
 
 Types of interview:
 
-*	Structured interview (panel or one-on-one)
-  *	Indicate if the interview is by phone or in-person.
-*	Job fit interview
+* Structured interview (panel or one-on-one)
+  * Indicate if the interview is by phone or in-person.
+* Job fit interview
   * Indicate if the interview is by phone or in-person.
 
 
