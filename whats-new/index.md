@@ -7,6 +7,90 @@ sidenav: what-is-new
 title: What's new with ATP
 ---
 
+## Changes made November 29, 2021
+### Sitewide enhancements
+#### Manage users
+
+* Added an alert that displays when a user tries to do a bulk action (taking the same action on multiple users – for example unlocking more than one user) without selecting anything.
+* Updated **Manage users** to continue showing the search bar when no search results are found. This will let a user continue their search from the same page.
+* Added an alert when a user unlocks a user’s account telling them an email has been sent.
+* Added an ellipsis at the end of long emails so they don’t overflow into the agency name within the candidate card.
+
+#### Search resume
+
+* Updated the location **Search** to include two checkboxes: **Current** and **Desired**. The **Current** location search is based on a candidates’ current location. The **Desired** location search is based on a candidate’s desired work location.
+  * The default will be **Current** location. 
+  * Users can select one or both search options. If a user unselects **Current** and doesn’t select anything, the system will search using the candidate’s current location.
+  * This new feature will allow a user to search by a radius of 0 to 200 miles from the selected location.
+
+* Added a radius search with a default of 25 miles. 
+  * A user can move the slider to their desired radius.
+  * The system will search by the zip code the candidate has in their USAJOBS profile.
+  * If a user searches by a location that doesn't match to a longitude and latitude, the radius slider option will not display, and the system will search for an exact match based on the location name.
+
+#### Campaign
+
+* Updated the date format to MM/DD/YY. This new format will display for the created date and the last updated date.
+
+
+## Changes made November 12, 2021
+### Sitewide enhancements
+
+* Added the new statuses to the excel spreadsheet.
+* Updated the existing agency dropdowns to include agency acronyms. The user must include ( ) around the acronym. Example: (OPM) not OPM.
+
+#### Events
+
+* Added an agency dropdown selector to the **Host Organization** field.
+
+### Bug fixes
+
+* Fixed an issue that was causing a candidate to show up twice in search results.
+* Fixed an issue so a user no longer gets an error message when they click **Forgot password**.
+
+## Changes made October 29, 2021
+### Sitewide enhancements
+
+* Updated the field validation for the email field. When a user enters a non-federal email they will see the following message: “You must include a valid government email address.”
+* Added a success alert to display when a new user invite has been sent. 
+* Fixed multiple 508 compliance issues.
+
+
+## Changes made October 1, 2021
+### Sitewide enhancements
+
+#### Manage users 
+
+* Added filters so an agency administrator can search by **user status**: Active, Account locked, Invited, Invited-expired, Access removed.
+  * The filters will work as an “Or” and will update search results as each filter is selected.
+
+* Added filters so an agency administrator can search by **ATP role**: Agency General User, Event Coordinator.
+* Added a **Clear all filters** button so a user can remove any filters they have selected.
+* Removed the status from the excel spreadsheet when a user exports to excel.
+* Added validation to make sure the email in a user’s profile is a valid government email. The validation will also check when a user updates their email. 
+
+#### Other updates
+
+* Updated the new user flow—revised the heading **Change your password** to **Create your password**.
+
+### Bug fixes
+
+* Fixed an issue so users no longer see the wrong candidate information when they click on a name in their search results.
+
+## Changes made September 17, 2021
+### Sitewide enhancements
+
+* Created a field in the data base to track how the user signs in—this will help to have a more accurate status on the **Manage users** page. We will use the most recent sign in method to determine a user’s status.
+  * Example: If a user signs in using their PIV/CAC they will not see “Account locked – password expired”. However, if they sign in again using their email and password, they will see any status that is related to this sign in method; password expired, no activity, 3+ failed sign in attempts.
+
+* Updated the design of **Manage users**.
+  * Removed the active, inactive and pending tabs and now display all information about each user on the same page using a card style.
+
+* Added an **Agency filter** so a user can search other users by agency. If the user only has permissions for one agency that agency will be pre-filled for the user.
+* Added field validation on **Edit profile** for the first, middle, last name, agency and email fields.
+* Added user data in the right rail; status, invited date, last activity date and authentication method.
+* Added bulk actions so a user can select multiple users and perform the same function for all of them at once. For example: reinvite, unlock or remove access.
+
 ## Changes made September 3, 2021
 
 ### Events

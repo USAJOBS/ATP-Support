@@ -58,6 +58,12 @@
           </a>
         </li>
         <li>
+	          <a {% if page.sidenav == 'account-update-email' %}class="usa-current"{% endif %} href="{{ '/account/update-email' | relative_url }}">
+	            How to update the email associated with your account
+	          </a>
+	        </li>
+
+        <li>
           <a {% if page.sidenav == 'account-what-is-the-aup' %}class="usa-current"{% endif %} href="{{ '/account/what-is-the-aup' | relative_url }}">
             What is the acceptable use policy (AUP)?
           </a>
