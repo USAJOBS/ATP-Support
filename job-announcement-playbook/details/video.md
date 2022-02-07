@@ -4,10 +4,22 @@ layout: joa-details
 category: videos
 title: Videos
 sidenav: videos
-lead: The video field is an optional field you can use in the job announcement. It offers a space for the hiring agency to post a video about the job, the office and workplace environment or the agency and its mission.
+lead: You can embed videos for job seekers to review.
 ---
 
-The video needs to tell a story that inspires job seekers and motivates them to apply to the job.
+Multiple sources for videos are accepted. YouTube is the most frequent site used. These tips will help ensure your videos are visible to job seekers.  
+
+## How to embed videos 
+
+Here are two tips on how to embed videos for display: 
+
+1. You cannot copy the YouTube URL and put it into the job announcement. Based on the instructions YouTube provides in their help center (https://support.google.com/youtube/answer/171780?hl=en) you must select the embed option to get the correct URL. If you are unsure of how to do this, the help link provided will explain. 
+2. YouTube does not use http in their URLs, and instead use HTTPS. If you use the incorrect link, your embedded video will not display.
+
+### Example 
+
+* For our job announcement, we want to add the video located at https://www.youtube.com/watch?v=Gih8-cwTCQU. But, to get the correct URL, we’ll need to click the share icon, and then click the embed option. This shows us the full embed information for that video, but we only need to copy https://www.youtube.com/embed/Gih8-cwTCQU and paste that into the video section of our job announcement. 
+* When the job gets posted, potential applicants will be able to watch the desired video without having to leave the job announcement. As you’ll notice, the specific code for our video does not change, so if desired, you can simply use the beginning URL portion of https://www.youtube.com/embed/ and then add the specific code for your video. 
 
 <div class="usajobs-recruitment-joa-playbook-details__container">
 <div class="usajobs-recruitment-joa-playbook-details__required-by-usajobs">
@@ -15,24 +27,9 @@ The video needs to tell a story that inspires job seekers and motivates them to 
   <p>No</p>
 </div>
 <div class="usajobs-recruitment-joa-playbook-details__required-by-policy">
-  <h4>Required by Policy</h4>
+  <h4>Required by policy</h4>
   <p>No</p>
 </div>
 </div>
 
-## Do
 
-* Offer a ‘day-in-the-life’ view of the job—interview current employees and describe the role and expectations.
-* Give a glimpse of the agency culture, values and mission.
-* Include images of the office space and how employees interact with each other.
-* Consider talking about benefits.
-* Keep it conversational.
-* Keep the video under two minutes. 90 seconds is ideal.
-* Use closed captioning or subtitles for accessibility issues. 
-* Include contact information or a way to learn more about the agency.
-
-## Do Not
-
-* Include videos that don’t speak to the job or the agency. For example, don’t include videos that only talk about the career field.
-* Include more than two videos—we recommend only one video, but you can post up to two. The system will not allow you to post more than two.
-* Repeat the job description word for word.

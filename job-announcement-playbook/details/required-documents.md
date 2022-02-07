@@ -4,7 +4,7 @@ layout: joa-details
 category: required-documents
 title: Required Documents
 sidenav: required-documents
-lead: This section lists the documents required to be able to apply.
+lead: This section lists the documents required to apply.
 current-fields: ["Documents to file", "Fax overwrite warning", "Transcript required"]
 ---
 
@@ -31,15 +31,14 @@ Tells the job seeker which documents to file to support their eligibility.
   <p>Yes</p>
 </div>
 <div class="usajobs-recruitment-joa-playbook-details__required-by-policy">
-  <h4>Required by Policy</h4>
+  <h4>Required by policy</h4>
   <p>Yes</p>
 </div>
 </div>
 
-#### Example
-
 <div class="usajobs-recruitment-joa-playbook-details__suggested-text">
-<h4>All applicants</h4>
+  <h5>Suggested text</h5>
+<h4>All applicants must provide:</h4>
 <ul>
 <li>A resume supporting your specialized experience.</li>
 <li>Your resume must also support your answers to the job questionnaire.</li>
@@ -49,18 +48,25 @@ Tells the job seeker which documents to file to support their eligibility.
 </p>
 </div>
 
-
+Your text may vary depending on the document requirements.
 
 ## Fax overwrite warning
 
 Tells the job seeker that they should not apply by fax after applying online.
 
-#### Required
-No
-
-#### Example
+<div class="usajobs-recruitment-joa-playbook-details__container">
+<div class="usajobs-recruitment-joa-playbook-details__required-by-usajobs">
+  <h4>Required by USAJOBS</h4>
+  <p>No</p>
+</div>
+<div class="usajobs-recruitment-joa-playbook-details__required-by-policy">
+  <h4>Required by policy</h4>
+  <p>No</p>
+</div>
+</div>
 
 <div class="usajobs-recruitment-joa-playbook-details__suggested-text">
+  <h5>Suggested text</h5>
 If you applied online and your application is complete, do not fax the paper application (1203FX) as this will overwrite your prior online responses and may result in you being found ineligible.
 </div>
 
@@ -71,7 +77,7 @@ Tells the job seeker if transcripts are required.
 <div class="usajobs-recruitment-joa-playbook-details__container">
 <div class="usajobs-recruitment-joa-playbook-details__required-by-usajobs">
   <h4>Required by USAJOBS</h4>
-  <p>Conditional. Yes, if transcripts are required.</p>
+  <p>Yes, if transcripts are required.</p>
 </div>
 <div class="usajobs-recruitment-joa-playbook-details__required-by-policy">
   <h4>Required by Policy</h4>
@@ -92,8 +98,8 @@ If you don't submit a transcript, we will not use your education when deciding i
 </div>
 <div class="usajobs-recruitment-joa-playbook-details__do-not">
   <h4><span class="fa fa-times"></span> Do Not</h4>
-  * Do not include this text if your agency does not required transcripts.
-  * Do not include this text in other sections.
-  * Do not repeat this information.
+  * Include this text if your agency does not require transcripts.
+  * Include this text in other sections.
+  * Repeat this information.
 </div>
 </div>

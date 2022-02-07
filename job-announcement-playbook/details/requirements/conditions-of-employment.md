@@ -4,9 +4,9 @@ layout: joa-details
 category: requirements
 title: Conditions of Employment
 sidenav: conditions-of-employment
-lead: Conditions of employment lists pre-conditions or other requirements that the job seeker must have or agree to, either before or after accepting the job. Conditions of employment replace the former "Key Requirements" section (though it may still be named Key requirements in your Talent Acquisition System).
-current-fields: ["Bargaining unit position", "Direct deposit", "Driver’s license", "E-verify", "Financial disclosure report", "Financial interest regulation", "Firearm", "Government charge card", "Licensure", "Mobility agreement", "Physical", "PIV process", "Proof of citizenship", "Recruitment incentive"]
-previous-fields: ["Annual leave for non-federal service authorized", "Declaration for federal employment", "Drug test", "Probationary period", "Security and background requirements", "Selective service registration", "Student loan repayment incentive"]
+lead: Conditions of employment lists requirements the job seeker must have or agree to before or after accepting the job. Conditions of employment may be named Key requirements in your TAS. 
+This section may contain: ["Bargaining unit position", "Direct deposit", "Driver’s license", "E-verify", "Financial disclosure report", "Financial interest regulation", "Firearm", "Government charge card", "Licensure", "Mobility agreement", "Physical", "PIV process", "Proof of citizenship", "Recruitment incentive", "Background check"]
+
 ---
 
 This section will:
@@ -14,9 +14,9 @@ This section will:
 *	Automatically use a bulleted list format for each “condition”.
 *	Include a lead-in sentence: "If you apply to this job and we hire you, you must meet and agree to the following conditions:"
 
-**NOTE:** This is a new field and may not yet be offered by your Talent Acquisition System (TAS). Work with your vendor in order to be able to use this field. This field may still be named **Key requirements** in your TAS in which case it will:
+ This field may still be named **Key requirements** in your Talent Acquisition System (TAS), in which case it will:
 
-* Not automatically use bullets though you may continue to provide content via bullets.
+* Not automatically use bullets though you may use bullets.
 * Not include a lead-in sentence.
 
 <div class="usajobs-recruitment-joa-playbook-details__container">
@@ -25,7 +25,7 @@ This section will:
   <p>Yes</p>
 </div>
 <div class="usajobs-recruitment-joa-playbook-details__required-by-policy">
-  <h4>Required by Policy</h4>
+  <h4>Required by policy</h4>
   <p>Yes</p>
 </div>
 </div>
@@ -33,15 +33,19 @@ This section will:
 <div class="usajobs-recruitment-joa-playbook-details__container">
 <div class="usajobs-recruitment-joa-playbook-details__do">
   <h4><span class="fa fa-check"></span> Do</h4>
+  
   * Capitalize the first word of each bulleted item.
   * Include punctuation at the end of each bulleted item.
-  * Use the "current fields" listed below as needed.  Some fields are not required or always necessary.
+  * Use the **current fields** as needed. Some fields are not required or always necessary.
+  
 </div>
 <div class="usajobs-recruitment-joa-playbook-details__do-not">
   <h4><span class="fa fa-times"></span> Do Not</h4>
-  * Do not add your own bullet style or additional HTML - the job announcement will automatically apply the correct bullet style.
-  * Do not use the "previous fields" listed below.
-  * Do not add a separate "Key Requirements" section — the Conditions of employment replace Key Requirements.
+  
+  * Add your own bullet style or additional HTML—the job announcement will automatically apply the correct bullet style unless it is still listed as **Key requirements**. 
+  * Use the previous fields listed below. 
+  * Add a separate Key Requirements section—the Conditions of employment replaces Key requirements.
+  
 </div>
 </div>
 
@@ -49,39 +53,62 @@ This section will:
 
 Tells the job seeker if the job falls under union representation.
 
-We've created a page in our Help Center to that gives more information:
+If the job position falls under union representation, we strongly encourage agencies to review and implement the mandated [Executive Order 14025](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/04/26/executive-order-on-worker-organizing-and-empowerment/).  
 
-[What are bargaining units?](https://www.usajobs.gov/Help/faq/job-announcement/bargaining-units/)
+We've created a page in our Help Center to that gives more information: [What are bargaining units?](https://www.usajobs.gov/Help/faq/job-announcement/bargaining-units/)
 
-#### Required
-No
+<div class="usajobs-recruitment-joa-playbook-details__container">
+<div class="usajobs-recruitment-joa-playbook-details__required-by-usajobs">
+  <h4>Required by USAJOBS</h4>
+  <p>No</p>
+</div>
+<div class="usajobs-recruitment-joa-playbook-details__required-by-policy">
+  <h4>Required by policy</h4>
+  <p>No, but strongly encouraged.</p>
+</div>
+</div>
 
 <div class="usajobs-recruitment-joa-playbook-details__suggested-text">
 <h5>Suggested text</h5>
-This is a <a href="https://www.usajobs.gov/Help/faq/job-announcement/bargaining-units/">bargaining unit position</a>.
+This is a <a href="https://www.usajobs.gov/Help/faq/job-announcement/bargaining-units/">bargaining unit position</a>. This position is represented by the (insert Union name), (insert local or chapter number). 
+
+OR 
+
+This is a non-bargaining unit position. 
 </div>
 
 <div class="usajobs-recruitment-joa-playbook-details__container">
 <div class="usajobs-recruitment-joa-playbook-details__do">
   <h4><span class="fa fa-check"></span> Do</h4>
-  * Include this text if you think it’s useful for applicants.
-  * Only include in **Conditions of Employment**.
+  
+  * Include whether the position is a bargaining or non-bargaining unit on your JOAs.
+  * Include the name and local or chapter number of the union which represents the bargaining unit position (if the position being announced is part of a bargaining unit).
+  * Only include in **Conditions of Employment**. 
+  
 </div>
 <div class="usajobs-recruitment-joa-playbook-details__do-not">
   <h4><span class="fa fa-times"></span> Do Not</h4>
-  * Do not include this text if it isn’t relevant or useful - it’s not required.
-  * Don’t include this text in **Additional Information** or the job summary or anywhere else other than Conditions of Employment.
-  * Do not describe what a bargaining unit is — use the suggested text that has a link to a page with more information.
+  
+  * Include this text if the position does not fall under union representation.
+  * Describe what a bargaining unit is—use the suggested text that links to a page with more information. 
+  
 </div>
 </div>
 
-### Direct Deposit
+### Direct deposit
 
 Tells the job seeker if they need to have direct deposit to get paid.
 
-#### Required
-
-No
+<div class="usajobs-recruitment-joa-playbook-details__container">
+<div class="usajobs-recruitment-joa-playbook-details__required-by-usajobs">
+  <h4>Required by USAJOBS</h4>
+  <p>No</p>
+</div>
+<div class="usajobs-recruitment-joa-playbook-details__required-by-policy">
+  <h4>Required by policy</h4>
+  <p>No</p>
+</div>
+</div>
 
 <div class="usajobs-recruitment-joa-playbook-details__suggested-text">
 <h5>Suggested text</h5>
@@ -91,22 +118,33 @@ You will need to set up direct deposit so we can pay you.
 <div class="usajobs-recruitment-joa-playbook-details__container">
 <div class="usajobs-recruitment-joa-playbook-details__do">
   <h4><span class="fa fa-check"></span> Do</h4>
+  
   * Include this if you think applicants will find this requirement as a surprise.
+  
 </div>
 <div class="usajobs-recruitment-joa-playbook-details__do-not">
   <h4><span class="fa fa-times"></span> Do Not</h4>
-  * Do not feel like you must include this ‘condition’. The law (31 USC3332) requires direct deposit for salaries, however Policy does not require that applicants be made aware of the requirement before they start their job.
-  * Do not include this text in any other section—it should only appear once and only in Conditions of employment.
+  
+  * Include this if not relevant. The law (31 USC3332) requires direct deposit for salaries, but policy does not require that applicants are aware of the requirement before they start their job.
+  * Include this text in any other section—it should only appear once and only in **Conditions of employment**.
+  
 </div>
 </div>
 
-### Driver’s License
+### Driver’s license
 
 Tells the job seeker if they need to have a driver’s license to do the job duties and tasks.
 
-#### Required
-
-No
+<div class="usajobs-recruitment-joa-playbook-details__container">
+<div class="usajobs-recruitment-joa-playbook-details__required-by-usajobs">
+  <h4>Required by USAJOBS</h4>
+  <p>No</p>
+</div>
+<div class="usajobs-recruitment-joa-playbook-details__required-by-policy">
+  <h4>Required by policy</h4>
+  <p>Yes, if applicable.</p>
+</div>
+</div>
 
 <div class="usajobs-recruitment-joa-playbook-details__suggested-text">
 <h5>Suggested text</h5>
@@ -116,12 +154,16 @@ Have a valid driver’s license.
 <div class="usajobs-recruitment-joa-playbook-details__container">
 <div class="usajobs-recruitment-joa-playbook-details__do">
   <h4><span class="fa fa-check"></span> Do</h4>
+  
   * Include this text when a job requires a driver’s license to complete the job duties.
-  * Only include this text in the Conditions of Employment section.
+  * Only include this text in the **Conditions of Employment** section.
+  
 </div>
 <div class="usajobs-recruitment-joa-playbook-details__do-not">
   <h4><span class="fa fa-times"></span> Do Not</h4>
-  * Do not include this text in Qualifications or any other section—it should only appear once and only in Conditions of Employment.
+  
+  * Include this text in any other section—it should only appear once and only in **Conditions of Employment**.
+  
 </div>
 </div>
 
@@ -129,8 +171,16 @@ Have a valid driver’s license.
 
 Tells the job seeker that the hiring agency will use the E-Verify system to check their background information and confirm their eligibility.
 
-#### Required
-No
+<div class="usajobs-recruitment-joa-playbook-details__container">
+<div class="usajobs-recruitment-joa-playbook-details__required-by-usajobs">
+  <h4>Required by USAJOBS</h4>
+  <p>No</p>
+</div>
+<div class="usajobs-recruitment-joa-playbook-details__required-by-policy">
+  <h4>Required by policy</h4>
+  <p>No</p>
+</div>
+</div>
 
 <div class="usajobs-recruitment-joa-playbook-details__suggested-text">
 <h5>Suggested text</h5>
@@ -140,12 +190,16 @@ Successfully pass the E-Verify employment verification check. To learn more abou
 <div class="usajobs-recruitment-joa-playbook-details__container">
 <div class="usajobs-recruitment-joa-playbook-details__do">
   <h4><span class="fa fa-check"></span> Do</h4>
+  
   * Include this text when a job requires a background investigation, specific security clearance, or meeting certain physical or other pre-employment requirements.
+  
 </div>
 <div class="usajobs-recruitment-joa-playbook-details__do-not">
   <h4><span class="fa fa-times"></span> Do Not</h4>
-  * Do not explain what E-Verify is—instead link to the DHS page about E-Verify.
-  * Do not include this text in Qualifications or any other section—it should only appear once and only in Conditions of Employment.
+  
+  * Explain what E-Verify is—instead link to the information page about E-Verify.
+  * Include this text in **Qualifications** or any other section—it should only appear once and only in **Conditions of Employment**.
+  
 </div>
 </div>
 
@@ -153,48 +207,71 @@ Successfully pass the E-Verify employment verification check. To learn more abou
 
 Tells the job seeker if they will have to file a financial disclosure report before starting the job.
 
-Typically, an applicant may have to disclose financial interests if it is a Senior Executive Service (SES) position or some other position above the GS-15 level; or the job duties may raise an increased likelihood of a conflict of interest.
+Typically, an applicant may have to disclose financial interests if it is a Senior Executive Service (SES) position, some other position above the GS-15 level or if the job duties increase the likelihood of a conflict of interest.
 
-#### Required
-
-Only if it’s required by the hiring agency.
+<div class="usajobs-recruitment-joa-playbook-details__container">
+<div class="usajobs-recruitment-joa-playbook-details__required-by-usajobs">
+  <h4>Required by USAJOBS</h4>
+  <p>Only if it's required by the hiring agency.</p>
+</div>
+<div class="usajobs-recruitment-joa-playbook-details__required-by-policy">
+  <h4>Required by policy</h4>
+  <p>Yes, if applicable.</p>
+</div>
+</div>
 
 <div class="usajobs-recruitment-joa-playbook-details__suggested-text">
 <h5>Suggested text</h5>
-May need to file a financial disclosure report before starting the job. Contact the hiring agency for more information.
+You may need to file a financial disclosure report before starting the job. Contact the hiring agency for more information.
 </div>
 
 <div class="usajobs-recruitment-joa-playbook-details__container">
 <div class="usajobs-recruitment-joa-playbook-details__do">
   <h4><span class="fa fa-check"></span> Do</h4>
+  
   * Only include this text if the hiring agency requires it.
+  
 </div>
 <div class="usajobs-recruitment-joa-playbook-details__do-not">
   <h4><span class="fa fa-times"></span> Do Not</h4>
-  * Do not include this text in Qualifications or any other section—it should only appear once and only in Conditions of Employment.
+  
+  * Include this text in **Qualifications** or any other section—it should only appear once and only in **Conditions of Employment**.
+  
 </div>
 </div>
 
 ### Financial interest regulation
 
-Tells the job seeker if the job is subject to an agency’s  prohibited financial interest regulation and if so, it may require the applicant  to divest of certain financial interests.
+Tells the job seeker if the job is subject to an agency’s prohibited financial interest regulation and if so, it may require the applicant to divest specific financial interests.
 
-#### Required
-No
+<div class="usajobs-recruitment-joa-playbook-details__container">
+<div class="usajobs-recruitment-joa-playbook-details__required-by-usajobs">
+  <h4>Required by USAJOBS</h4>
+  <p>No</p>
+</div>
+<div class="usajobs-recruitment-joa-playbook-details__required-by-policy">
+  <h4>Required by policy</h4>
+  <p>Yes, if applicable.</p>
+</div>
+</div>
 
 <div class="usajobs-recruitment-joa-playbook-details__suggested-text">
 <h5>Suggested text</h5>
-May need to divest of certain financial interests, because of [insert department/agency name] prohibited financial interest regulation.  Contact the hiring agency for more information.
+You may need to divest of certain financial interests, because of [insert department/agency name] prohibited financial interest regulation. Contact the hiring agency for more information. 
 </div>
 
 <div class="usajobs-recruitment-joa-playbook-details__container">
 <div class="usajobs-recruitment-joa-playbook-details__do">
   <h4><span class="fa fa-check"></span> Do</h4>
+  
   * Include this text if the hiring agency requires it.
+  
 </div>
 <div class="usajobs-recruitment-joa-playbook-details__do-not">
   <h4><span class="fa fa-times"></span> Do Not</h4>
-  * Do not include this text in Qualifications or any other section — it should only appear once and only in Conditions of Employment.
+  
+  * Include this text in **Qualifications** or any other section — it should only appear once and only in **Conditions of Employment**.
+  
 </div>
 </div>
 
@@ -202,22 +279,34 @@ May need to divest of certain financial interests, because of [insert department
 
 Tells the job seeker if they need to carry a firearm for the job and meet certain qualifications to carry a firearm.
 
-#### Required
-No
+<div class="usajobs-recruitment-joa-playbook-details__container">
+<div class="usajobs-recruitment-joa-playbook-details__required-by-usajobs">
+  <h4>Required by USAJOBS</h4>
+  <p>No</p>
+</div>
+<div class="usajobs-recruitment-joa-playbook-details__required-by-policy">
+  <h4>Required by policy</h4>
+  <p>Yes, if applicable.</p>
+</div>
+</div>
 
 <div class="usajobs-recruitment-joa-playbook-details__suggested-text">
 <h5>Suggested text</h5>
-Must meet the qualifications and be certified to carry a firearm. You will need to maintain firearm proficiency.
+You must meet the qualifications and be certified to carry a firearm. You will need to maintain firearm proficiency.
 </div>
 
 <div class="usajobs-recruitment-joa-playbook-details__container">
 <div class="usajobs-recruitment-joa-playbook-details__do">
   <h4><span class="fa fa-check"></span> Do</h4>
+  
   * Include this text if the hiring agency and or job requires it.
+  
 </div>
 <div class="usajobs-recruitment-joa-playbook-details__do-not">
   <h4><span class="fa fa-times"></span> Do Not</h4>
-  * Do not include this text in Qualifications or any other section — it should only appear once and only in Conditions of Employment.
+  
+  * Include this text in **Qualifications** or any other section — it should only appear once and only in **Conditions of Employment**.
+  
 </div>
 </div>
 
@@ -225,26 +314,34 @@ Must meet the qualifications and be certified to carry a firearm. You will need 
 
 Tells the job seeker if they need to use a government charge card and they must be financially responsible to use a charge card.
 
-#### Required
-No
+<div class="usajobs-recruitment-joa-playbook-details__container">
+<div class="usajobs-recruitment-joa-playbook-details__required-by-usajobs">
+  <h4>Required by USAJOBS</h4>
+  <p>No</p>
+</div>
+<div class="usajobs-recruitment-joa-playbook-details__required-by-policy">
+  <h4>Required by policy</h4>
+  <p>Yes, if applicable.</p>
+</div>
+</div>
 
 <div class="usajobs-recruitment-joa-playbook-details__suggested-text">
 <h5>Suggested text</h5>
-Obtain and use a government-issued charge card for business-related travel.
-
-<strong>OR</strong>
-
-You will be required to complete training, obtain, and maintain a government credit card with travel and purchase authority.
+You are required to complete training, obtain and maintain a government credit card with travel and purchase authority. 
 </div>
 
 <div class="usajobs-recruitment-joa-playbook-details__container">
 <div class="usajobs-recruitment-joa-playbook-details__do">
   <h4><span class="fa fa-check"></span> Do</h4>
+  
   * Only include this text if the hiring agency or job requires it.
+  
 </div>
 <div class="usajobs-recruitment-joa-playbook-details__do-not">
   <h4><span class="fa fa-times"></span> Do Not</h4>
-  * Do not include this text in **Qualifications** or **Duties** or any other section — it should only appear once and only in Conditions of Employment.
+  
+  * Include this text in **Qualifications** or **Duties** or any other section — it should only appear once and only in **Conditions of Employment**.
+  
 </div>
 </div>
 
@@ -252,111 +349,193 @@ You will be required to complete training, obtain, and maintain a government cre
 
 Tells the job seeker if they need to have a certain type of license for the job.
 
-#### Required
-No
-
-The following is an example.  The text will be different, depending on the type of license.
+<div class="usajobs-recruitment-joa-playbook-details__container">
+<div class="usajobs-recruitment-joa-playbook-details__required-by-usajobs">
+  <h4>Required by USAJOBS</h4>
+  <p>No</p>
+</div>
+<div class="usajobs-recruitment-joa-playbook-details__required-by-policy">
+  <h4>Required by policy</h4>
+  <p>Yes, if applicable.</p>
+</div>
+</div>
 
 <div class="usajobs-recruitment-joa-playbook-details__suggested-text">
 <h5>Suggested text</h5>
-Must have a full, current and unrestricted license to practice pharmacy in a State, Territory, Commonwealth of the United States (i.e., Puerto Rico), or the District of Columbia.  You must maintain current registration if this is a requirement for maintaining full, current, and unrestricted licensure.  If you have had any license(s) revoked, suspended, denied, restricted, limited, or issued/placed in a probationary status, you may be only be hired in accordance with the provisions in VA Handbook 5005, Part II, Chapter 3, section B, paragraph 16.
+
+  _Change the language to reflect the licence needed for the job_.
+  
+You must have a full, current and unrestricted license to practice pharmacy in a state, territory, commonwealth of the United States (i.e., Puerto Rico) or the District of Columbia. You must maintain current registration if this is a requirement for maintaining full, current and unrestricted licensure. If you have had any license(s) revoked, suspended, denied, restricted, limited or issued/placed in a probationary status, you may be only be hired in accordance with the provisions in VA Handbook 5005, Part II, Chapter 3, section B, paragraph 16. 
+  
 </div>
 
 <div class="usajobs-recruitment-joa-playbook-details__container">
 <div class="usajobs-recruitment-joa-playbook-details__do">
   <h4><span class="fa fa-check"></span> Do</h4>
+  
   * Include this text if the hiring agency or job requires it.
-  * Be specific about the type of licensure - use language that the applicant will understand
+  * Be specific about the type of licensure - use language that the applicant will understand.
+  
 </div>
 <div class="usajobs-recruitment-joa-playbook-details__do-not">
   <h4><span class="fa fa-times"></span> Do Not</h4>
-  * Do not include this text in Qualifications or any other section — it should only appear once and only in Conditions of Employment.
+  
+  * Include this text in **Qualifications** or any other section — it should only appear once and only in **Conditions of Employment**.
+  
 </div>
 </div>
 
 ### Mobility agreement
 
-A program allows citizens to work overseas and retain their job when they return.
+An agreement that says the agency may relocate the employee to work in a different geographical location.  
 
-#### Required
-No
+<div class="usajobs-recruitment-joa-playbook-details__container">
+<div class="usajobs-recruitment-joa-playbook-details__required-by-usajobs">
+  <h4>Required by USAJOBS</h4>
+  <p>No</p>
+</div>
+<div class="usajobs-recruitment-joa-playbook-details__required-by-policy">
+  <h4>Required by Policy</h4>
+  <p>Yes, if applicable.</p>
+</div>
+</div>
 
-### Physical
+<div class="usajobs-recruitment-joa-playbook-details__suggested-text">
+<h5>Suggested text</h5>
+If selected, this position may require you to be reassigned to different geographic locations. You will be required to sign a mobility agreement, which will remain in effect through the duration of the assignment.  
+  
+</div>
+
+<div class="usajobs-recruitment-joa-playbook-details__container">
+<div class="usajobs-recruitment-joa-playbook-details__do">
+  <h4><span class="fa fa-check"></span> Do</h4>
+  
+  * Include this text if the hiring agency or job requires it.
+  
+  
+</div>
+<div class="usajobs-recruitment-joa-playbook-details__do-not">
+  <h4><span class="fa fa-times"></span> Do Not</h4>
+  
+  * Include this text in **Qualifications** or any other section — it should only appear once and only in **Conditions of Employment**.
+  
+</div>
+</div>
+
+
+### Physical fitness requirements
 
 Tells the job seeker if they will need to pass a physical exam before starting the job.
 
-#### Required
-No
-
-
-There may be different texts depending on the type of physical required - whether it’s an exam or a statement.  
+<div class="usajobs-recruitment-joa-playbook-details__container">
+<div class="usajobs-recruitment-joa-playbook-details__required-by-usajobs">
+  <h4>Required by USAJOBS</h4>
+  <p>No</p>
+</div>
+<div class="usajobs-recruitment-joa-playbook-details__required-by-policy">
+  <h4>Required by policy</h4>
+  <p>Yes, if applicable.</p>
+</div>
+</div>
 
 <div class="usajobs-recruitment-joa-playbook-details__suggested-text">
 <h5>Suggested text</h5>
-Must pass a physical examination.
+You must pass a physical examination. 
+  
 
 <strong>OR</strong>
+  
+You may need to complete a statement regarding your physical ability. 
 
-May need to complete a statement regarding your physical ability.
+_There may be different texts depending on the type of physical ability required—whether it’s an exam or a statement_. 
+
 </div>
 
 <div class="usajobs-recruitment-joa-playbook-details__container">
 <div class="usajobs-recruitment-joa-playbook-details__do">
   <h4><span class="fa fa-check"></span> Do</h4>
+  
   * Only include this text if the hiring agency and or job requires it.
   * Be specific about the type of physical—state clearly if it’s just a statement or an actual exam.
+  
 </div>
 <div class="usajobs-recruitment-joa-playbook-details__do-not">
   <h4><span class="fa fa-times"></span> Do Not</h4>
-  * Do not include this text in Qualifications or any other section — it should only appear once and only in Conditions of Employment.
+  
+  * Include this text in **Qualifications** or any other section — it should only appear once and only in **Conditions of Employment**.
+  
 </div>
 </div>
 
-### PIV process
+### Personal identify verification (PIV) process
 
 Tells the job seeker that they need to go through the PIV process.
 
-#### Required
-No
+<div class="usajobs-recruitment-joa-playbook-details__container">
+<div class="usajobs-recruitment-joa-playbook-details__required-by-usajobs">
+  <h4>Required by USAJOBS</h4>
+  <p>No</p>
+</div>
+<div class="usajobs-recruitment-joa-playbook-details__required-by-policy">
+  <h4>Required by policy</h4>
+  <p>Yes, if applicable.</p>
+</div>
+</div>
 
 
 <div class="usajobs-recruitment-joa-playbook-details__suggested-text">
 <h5>Suggested text</h5>
-Go through a Personal Identity Verification (PIV) process that requires two forms of identification from the Form I-9. Federal law requires we verify the identity and employment eligibility of all new hires in the U.S.
+You will go through a personal identity verification process that requires two forms of identification from the form I-9. Federal law requires we verify the identity and employment eligibility of all new hires in the U.S. 
 </div>
 
 <div class="usajobs-recruitment-joa-playbook-details__container">
 <div class="usajobs-recruitment-joa-playbook-details__do">
   <h4><span class="fa fa-check"></span> Do</h4>
+  
   * Only include this text if the hiring agency and or job requires it. We do not need to inform the applicant that they’ll need to get a PIV card.
+  
 </div>
 <div class="usajobs-recruitment-joa-playbook-details__do-not">
   <h4><span class="fa fa-times"></span> Do Not</h4>
-  * Do not include this text in Qualifications or any other section — it should only appear once and only in Conditions of Employment.
+  
+  * Include this text in **Qualifications** or any other section — it should only appear once and only in **Conditions of Employment**.
+  
 </div>
 </div>
 
 
 ### Proof of citizenship
 
-Tells the applicant that they need proof of their United States citizenship.
+Tells the applicant that they need to provide proof of their United States citizenship.
 
-#### Required
-Yes
+<div class="usajobs-recruitment-joa-playbook-details__container">
+<div class="usajobs-recruitment-joa-playbook-details__required-by-usajobs">
+  <h4>Required by USAJOBS</h4>
+  <p>Yes</p>
+</div>
+<div class="usajobs-recruitment-joa-playbook-details__required-by-policy">
+  <h4>Required by policy</h4>
+  <p>Yes</p>
+</div>
+</div>
 
 <div class="usajobs-recruitment-joa-playbook-details__suggested-text">
 <h5>Suggested text</h5>
-Provide proof of U.S. citizenship.
+You must provide proof of U.S. citizenship.
 </div>
 
 <div class="usajobs-recruitment-joa-playbook-details__container">
 <div class="usajobs-recruitment-joa-playbook-details__do">
   <h4><span class="fa fa-check"></span> Do</h4>
-  * Always include this text as the first condition in Conditions of employment.
+  
+  * Always include this text as the first condition in **Conditions of employment**.
+  
 </div>
 <div class="usajobs-recruitment-joa-playbook-details__do-not">
   <h4><span class="fa fa-times"></span> Do Not</h4>
-  * Do not include this text in Qualifications — it should only appear once and only in Conditions of Employment.
+  
+  * Include this text in **Qualifications** — it should only appear once and only in **Conditions of Employment**.
+  
 </div>
 </div>
 
@@ -365,53 +544,55 @@ Provide proof of U.S. citizenship.
 
 Tells the applicant if there is a recruitment incentive available.
 
-#### Required
-No
+<div class="usajobs-recruitment-joa-playbook-details__container">
+<div class="usajobs-recruitment-joa-playbook-details__required-by-usajobs">
+  <h4>Required by USAJOBS</h4>
+  <p>No</p>
+</div>
+<div class="usajobs-recruitment-joa-playbook-details__required-by-policy">
+  <h4>Required by policy</h4>
+  <p>Yes, if applicable.</p>
+</div>
+</div>
 
 <div class="usajobs-recruitment-joa-playbook-details__suggested-text">
 <h5>Suggested text</h5>
-May be eligible for a recruitment incentive.
+You may qualify for a recruitment incentive.
 </div>
 
 <div class="usajobs-recruitment-joa-playbook-details__container">
 <div class="usajobs-recruitment-joa-playbook-details__do">
   <h4><span class="fa fa-check"></span> Do</h4>
-  * Only include this text if the hiring agency and or job requires it.
+  
+  * Only include this text if the hiring agency allows a recruitment incentive for the job.
+  
 </div>
 <div class="usajobs-recruitment-joa-playbook-details__do-not">
   <h4><span class="fa fa-times"></span> Do Not</h4>
-  * Do not include this text in Qualifications — it should only appear once and only in Conditions of Employment.
+  
+  * Include this text in **Qualifications** — it should only appear once and only in **Conditions of Employment**.
+  
 </div>
 </div>
 
-## Previous fields
+### Background check
+Indicates the level of background check necessary for the job.  The value in this field will always link to https://www.usajobs.gov/Help/faq/job-announcement/security-clearances/.
 
-### Annual leave for non-federal service authorized
+<div class="usajobs-recruitment-joa-playbook-details__container">
+<div class="usajobs-recruitment-joa-playbook-details__required-by-usajobs">
+  <h4>Required by USAJOBS</h4>
+  <p>Yes</p>
+</div>
+<div class="usajobs-recruitment-joa-playbook-details__required-by-policy">
+  <h4>Required by policy</h4>
+  <p>No, however it is strongly encouraged to include this in the job announcement.</p>
+</div>
+</div>
 
-We recommend this move to the [Benefits](../../benefits#agency-benefits) section.
+<div class="usajobs-recruitment-joa-playbook-details__container">
+<div class="usajobs-recruitment-joa-playbook-details__do-not">
+  <h4><span class="fa fa-times"></span> Do Not</h4>
+  * Repeat this information in other sections.
+</div>
+</div>
 
-### Declaration for federal employment
-
-Agencies are prohibited from collecting this Declaration at the time of application unless they have an exception for approval from OPM. There are approvals pending but at this time no agency has this exception. If you feel that your agency does have this exception please have your HR director reach out to OPM Policy.
-
-### Drug test
-
-This information has moved to a standard location at the end of the **Requirements** section named [Background checks and security clearance](../background-check/#drug-test-required).
-
-**Note**: This is a new field and may not yet be available from your Talent Acquisition System (TAS) vendor. Work with your TAS to request the ability to populate this new field.
-
-### Probationary period
-
-A link to the probationary period statement is now found in the [Fair and Transparent - Legal and regulatory guidance](../../fair-and-transparent/#legal-and-regulatory-guidance) section. If your agency has a probationary period longer or shorter than 1 year please continue to indicate that in the **Conditions of Employment** section.
-
-### Security and background requirements
-
-This information has moved to a standard location at the end of the **Requirements** section named [Background checks and security clearance](../background-check/).
-
-### Selective service registration
-
-A link to the Selective service registration policy is now found in the [Fair and Transparent - Legal and regulatory guidance](../../fair-and-transparent/#legal-and-regulatory-guidance) section.
-
-### Student loan repayment incentive
-
-We recommend that this information is given in the [Benefits](../../benefits#agency-benefits) section.

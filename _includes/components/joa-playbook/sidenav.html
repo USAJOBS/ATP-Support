@@ -1,65 +1,21 @@
 <ul class="usa-sidenav-list">
   <li>
-    <a {% if page.sidenav == 'overview' %}class="usa-current" {% endif %} href="{{ '/job-announcement-playbook/details/overview/' | relative_url }}">Overview</a>
-    {% if page.sidenav == 'overview' %}
-    <ul class="usa-sidenav-sub_list">
-      <li>
-        <a {% if page.url contains 'overview#title-bar---current-fields' %}class="usa-current" {% endif %} href="{{ '/job-announcement-playbook/details/overview#title-bar---current-fields' | relative_url }}">
-          Title bar
-        </a>
-      </li>
-      <li>
-        <a href="{{ '/job-announcement-playbook/details/overview#agency-modal---current-fields' | relative_url }}">
-          Agency modal
-        </a>
-      </li>
-    </ul>
-    {% endif %}
+   <a href="{{ '/job-announcement-playbook/details/header/' | relative_url }}">Header</a>
+ </li>
+   <li>
+    <a href="{{ '/job-announcement-playbook/details/overview/' | relative_url }}">Overview</a>
+  </li>
+<li>
+  <a href="{{ '/job-announcement-playbook/details/summary/' | relative_url }}">Summary</a>
+</li>
+  <li>
+    <a href="{{ '/job-announcement-playbook/details/this-job-is-open-to/' | relative_url }}">This job is open to</a>
   </li>
   <li>
-    <a {% if page.sidenav == 'this-job-is-open-to' %}class="usa-current"{% endif %} href="{{ '/job-announcement-playbook/details/this-job-is-open-to/' | relative_url }}">This job is open to</a>
-    {% if page.sidenav == 'this-job-is-open-to' %}
-    <ul class="usa-sidenav-sub_list">
-      <li>
-        <a href="{{ '/job-announcement-playbook/details/this-job-is-open-to#second-announcement' | relative_url }}">
-          Second announcement
-        </a>
-      </li>
-    </ul>
-    {% endif %}
+    <a href="{{ '/job-announcement-playbook/details/video/' | relative_url }}">Videos</a>
   </li>
   <li>
-    <a href="{{ '/job-announcement-playbook/details/locations/' | relative_url }}">Locations</a>
-  </li>
-  <li>
-    <a {% if page.sidenav == 'duties' %}class="usa-current"{% endif %} href="{{ '/job-announcement-playbook/details/duties/' | relative_url }}">Duties</a>
-    {% if page.sidenav == 'duties' %}
-    <ul class="usa-sidenav-sub_list">
-      <li>
-        <a href="{{ '/job-announcement-playbook/details/duties#summary' | relative_url }}">
-          Summary
-        </a>
-      </li>
-      <li>
-        <a href="{{ '/job-announcement-playbook/details/duties#responsibilities' | relative_url }}">
-          Responsibilities
-        </a>
-      </li>
-      <li>
-        <a href="{{ '/job-announcement-playbook/details/duties#travel-required' | relative_url }}">
-          Travel Required
-        </a>
-      </li>
-      <li>
-        <a href="{{ '/job-announcement-playbook/details/duties#who-may-apply' | relative_url }}">
-          Who May Apply
-        </a>
-      </li>
-    </ul>
-    {% endif %}
-  </li>
-  <li>
-    <a href="{{ '/job-announcement-playbook/details/similar-jobs/' | relative_url }}">Similar jobs</a>
+    <a href="{{ '/job-announcement-playbook/details/duties/' | relative_url }}">Duties</a>
   </li>
   <li>
     <a {% if page.category == 'requirements' %}class="usa-current"{% endif %} href="{{ '/job-announcement-playbook/details/requirements/' | relative_url }}">Requirements</a>
@@ -75,36 +31,20 @@
           Qualifications
         </a>
       </li>
-      <li>
-        <a {% if page.sidenav == 'how-you-will-be-evaluated' %}class="usa-current"{% endif %} href="{{ 'job-announcement-playbook/details/requirements/how-you-will-be-evaluated/' | relative_url }}">
-          How you will be evaluated
-        </a>
-      </li>
-      <li>
-        <a {% if page.sidenav == 'background-checks' %}class="usa-current"{% endif %} href="{{ '/job-announcement-playbook/details/requirements/background-check/' | relative_url }}">
-          Background check and security clearance
-        </a>
-      </li>
     </ul>
     {% endif %}
-  </li>
-  <li>
-    <a href="{{ '/job-announcement-playbook/details/required-documents/' | relative_url }}">Required Documents</a>
   </li>
   <li>
     <a href="{{ '/job-announcement-playbook/details/benefits/' | relative_url }}">Benefits</a>
   </li>
   <li>
-    <a {% if page.sidenav == 'how-to-apply' %}class="usa-current"{% endif %} href="{{ '/job-announcement-playbook/details/how-to-apply/' | relative_url }}">How to apply</a>
-    {% if page.sidenav == 'how-to-apply' %}
-    <ul class="usa-sidenav-sub_list">
-      <li>
-        <a href="{{ '/job-announcement-playbook/details/how-to-apply#actions' | relative_url }}">
-          Actions (apply, print, share, save)
-        </a>
-      </li>
-    </ul>
-    {% endif %}
+   <a href="{{ '/job-announcement-playbook/details/how-you-will-be-evaluated/' | relative_url }}">How you'll be evaluated</a>
+  </li>
+  <li>
+    <a href="{{ '/job-announcement-playbook/details/required-documents/' | relative_url }}">Required Documents</a>
+  </li>
+  <li>
+    <a href="{{ '/job-announcement-playbook/details/how-to-apply/' | relative_url }}">How to apply</a>
   </li>
   <li>
     <a href="{{ '/job-announcement-playbook/details/fair-and-transparent/' | relative_url }}">Fair &amp; Transparent</a>

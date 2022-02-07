@@ -4,8 +4,8 @@ layout: joa-details
 category: benefits
 title: Benefits
 sidenav: benefits
-lead: This section describes the employee benefits.  Since most benefits are the same across federal agencies, we recommend using the same benefits language.
-current-fields: ["Agency Benefits"]
+lead: This section describes the employee benefits.  Because most benefits are the same across federal agencies, we recommend using the same benefits language.
+current-fields: ["Agency benefits"]
 ---
 
 #### Example
@@ -20,15 +20,15 @@ current-fields: ["Agency Benefits"]
   alt="Benefits v6.7 example"></amp-img>
 </div>
 
-This section will automatically, and always, include the initial paragraph and link seen above, followed by information that you provide, followed by a disclaimer explaining that benefits are sometimes not the same for all agencies.
+This section will automatically include the initial paragraph and **Learn more about federal benefits** link seen above, followed by information that you provide along with a disclaimer explaining that benefits sometimes differ across agencies.
 
-The link in this section is as follows:
+The link in this section is here:
 
 *	[Learn more about federal benefits](https://www.usajobs.gov/Help/working-in-government/benefits/)
 
 ### Agency benefits
 
-This text allows the agency to describe benefits that they offer above and beyond the standard Federal government benefits. If your agency has it’s own benefits page, you can add a link to that page.
+This text allows the agency to describe benefits that they offer above and beyond the standard federal government benefits. If your agency has it’s own benefits page, you can add a link to that page.
 
 <div class="usajobs-recruitment-joa-playbook-details__container">
 <div class="usajobs-recruitment-joa-playbook-details__required-by-usajobs">
@@ -36,7 +36,7 @@ This text allows the agency to describe benefits that they offer above and beyon
   <p>No</p>
 </div>
 <div class="usajobs-recruitment-joa-playbook-details__required-by-policy">
-  <h4>Required by Policy</h4>
+  <h4>Required by policy</h4>
   <p>No</p>
 </div>
 </div>
@@ -44,19 +44,24 @@ This text allows the agency to describe benefits that they offer above and beyon
 
 <div class="usajobs-recruitment-joa-playbook-details__suggested-text">
 <h5>Suggested text</h5>
-Learn more about our benefits and careers: [Insert link to agency specific benefits or career page]
+  <p>Learn more about our benefits: [Insert link to agency specific benefits page]</p>
+  
+  Or
+  
+ <p>Learn more about our benefits and careers: [Insert link to agency specific benefits and career page]</p>
 </div>
 
 <div class="usajobs-recruitment-joa-playbook-details__container">
 <div class="usajobs-recruitment-joa-playbook-details__do">
   <h4><span class="fa fa-check"></span> Do</h4>
-  * May add a link to an agency-specific benefits or career page, but make sure the link label accurately describes the page.  
-    * For example, if you only have a benefits page, the label should say “Learn more about our benefits”.  If you have a benefits and career page together, use “Learn more about our benefits and careers.”
+  
+  * Add a link to your agency's benefits or career page, but make sure the label of the link accurately describes the page. For example, if you only have a benefits page, the link label should say “Learn more about our benefits”.  If you have a benefits and career page together, use “Learn more about our benefits and careers.”
 </div>
 <div class="usajobs-recruitment-joa-playbook-details__do-not">
   <h4><span class="fa fa-times"></span> Do Not</h4>
-  * Do not repeat benefits information in any other section — it should only appear in the benefits section.
-  * Do not repeat benefits information that is already made available via the links above.
-  * Do not retain broken links to old help content. The link to https://help.usajobs.gov/index.php/Pay_and_Benefits has not worked for over 2 years. Please remove this link.
+  
+  * Repeat benefits information in any other section — it should only appear in the **Benefits** section.
+  * Repeat benefits information that is already made available via the links above.
+  * Keep using broken links or links that send applicants to outdated content.
 </div>
 </div>

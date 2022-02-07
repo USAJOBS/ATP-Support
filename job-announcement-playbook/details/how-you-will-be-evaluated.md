@@ -1,19 +1,18 @@
 ---
-permalink: job-announcement-playbook/details/requirements/how-you-will-be-evaluated/
+permalink: job-announcement-playbook/details/how-you-will-be-evaluated/
 layout: joa-details
-category: requirements
+category: how you will be evaluated
 title: How you will be evaluated
-sidenav: how-you-will-be-evaluated
-lead: This section tells the applicant how staffing specialists and hiring managers will use their application to determine your eligibility, qualifications, and quality ranking for the position.
+sidenav: how you will be evaluated
+lead: This section tells the applicant how staffing specialists and managers will use their application to determine eligibility, qualifications and quality ranking for this position. 
 current-fields: ["Basis for rating", "Type of rating", "Interview type"]
-previous-fields: ["Consideration order", "Drug test required", "Financial suitability"]
 ---
 
-You will set the expectation of how you’ll evaluate an applicant against their responses to the job questionnaire and the information in their resume.
+You will set the expectation of how you’ll evaluate an applicant against their responses to the job questionnaire and the information in their resume. 
 
-This section will:
+This section will: 
 
-*	Include a lead-in sentence: "You will be evaluated for this job based on how well you meet the qualifications above."
+* Include a lead-in sentence: “You will be evaluated for this job based on how well you meet the qualifications above.” 
 
 <div class="usajobs-recruitment-joa-playbook-details__container">
 <div class="usajobs-recruitment-joa-playbook-details__required-by-usajobs">
@@ -21,7 +20,7 @@ This section will:
   <p>Yes</p>
 </div>
 <div class="usajobs-recruitment-joa-playbook-details__required-by-policy">
-  <h4>Required by policy</h4>
+  <h4>Required by Policy</h4>
   <p>Yes</p>
 </div>
 </div>
@@ -34,7 +33,7 @@ You must include the following:
 
 ### Basis for rating
 
-The basis for rating is where you will describe how you will evaluate an applicant.
+The basis for rating is where you will describe how you will evaluate an applicant. 
 
 The method of rating may include one or more of the following:
 
@@ -58,35 +57,38 @@ Details on [rating procedures can be found in the DEO Handbook](https://www.opm.
 
 </div>
 <div class="usajobs-recruitment-joa-playbook-details__do-not">
-  <h4><span class="fa fa-times"></span> Do not</h4>
+  <h4><span class="fa fa-times"></span> Do Not</h4>
   * Include additional qualifications that were not already mentioned in the **Qualifications** section. All qualifications NEED to be listed in the **Qualifications** section.
   * Duplicate this information in **How to apply**.
-  * Describe any information that be can found elsewhere within the announcement or linked to a page or document outside of the announcement.
+  * Describe any information that can be found elsewhere in the job announcement or linked to a page or document outside of the announcement.
 </div>
 </div>
 
 #### Type of assessment
 
-This describes additional assessments that the applicant will need to participate in or complete. Describe what the assessment is, at what point in the process the applicant will need to submit this information and how to request reasonable accommodations.
+This describes additional assessments the applicant will need to participate in or complete. Describe what the assessment is, at what point in the process the applicant will need to submit this information and how to request reasonable accommodations. 
 
 This may include:
 
 *	Work-related assessment - give the applicant a sample job task or scenario and ask them how they would complete it.
-*	Written assessment - the applicant gives a writing sample.
-*	[Other assessment methods](https://www.opm.gov/policy-data-oversight/assessment-and-selection/other-assessment-methods/assessment-method-considerations/)
+*	Written assessment - the applicant provides a writing sample.
+*	[Other assessment methods](https://www.opm.gov/policy-data-oversight/assessment-and-selection/other-assessment-methods/assessment-method-considerations/).
 
 <div class="usajobs-recruitment-joa-playbook-details__suggested-text">
-<h5>Suggested text</h5>
-You will be evaluated for this job based on:
-
-* The experience listed in your resume and whether your experience and skills match what we’re looking for.
-*	A work related assessment – we’ll give you a sample job task that you need to complete.
-*	An in-person interview.
+  <h5>Suggested text - Use this text as the first sentence in this section:</h5>
+  <p>“You will be evaluated for this job based on: 
+<ul>
+<li>The experience listed in your resume and whether your experience and skills match what we’re looking for.</li>
+  <li>A work-related assessment—we’ll give you a sample job task that you need to complete.</li>
+  <li>An in-person interview."</li>
+  </ul>
+  </p>
 </div>
+
 
 ### Type of rating
 
-Each agency defines what the categories of rating are for their applicants. You are required to tell the applicant what the categories are and how you define them. For merit promotion and other types of hiring, explain the type of rating used. 
+Each agency defines what the categories of rating are for their applicants. You are required to tell the applicant what the categories are and how you define them.  For merit promotion and other types of hiring, explain the type of rating used. 
 
 <div class="usajobs-recruitment-joa-playbook-details__suggested-text">
 <h5>Suggested text for category rating</h5>
@@ -110,18 +112,16 @@ Each agency defines what the categories of rating are for their applicants. You 
 
 This explains if or when you will interview an applicant and describes the type of interview. This section should also indicate whether the interview is pass/fail or scored.
 
-Type of interview:
+Types of interview:
 
-*	Structured interview (panel or one-on-one)
-  *	Include whether the interview is by phone or in-person. 
-*	Job fit interview
-  *	Include whether the interview is by phone or in-person.  
+* Structured interview (panel or one-on-one)
+  * Indicate if the interview is by phone or in-person.
+* Job fit interview
+  * Indicate if the interview is by phone or in-person.
 
-### Conditions of employment reminder
 
-This tells the applicant if they fail any part of the conditions of employment, then the hiring agency can rescind their tentative offer of employment.
 
-NOTE: We plan to add this automatically to each job announcement in a future release.
+
 
 
 
