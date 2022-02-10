@@ -46,7 +46,7 @@ Indicates the closing type and includes the options:
 ### Open and closing dates
 The open date is the first day an applicant can submit an application.  The closing date is the last day an applicant can submit an application.
 
-The job announcement will automatically close at 11:59pm EST on the closing date.  
+The job announcement will automatically close at 11:59 p.m. ET on the closing date.  
 
 <div class="usajobs-recruitment-joa-playbook-details__container">
 <div class="usajobs-recruitment-joa-playbook-details__required-by-usajobs">
@@ -61,11 +61,11 @@ The job announcement will automatically close at 11:59pm EST on the closing date
 
 ### Application cut-off
 
-If you are using an application limit, you must clearly state this in the job announcement. Unless you are using the announcement closing type field mentioned above this must be entered manually.  
+If you are using an application limit, you must clearly state this in the job announcement. You will enter this manually.  
 
 ### Open continuous
 
-If you are posting an open continuous job announcement, you must clearly say this in the job announcement. Unless you are using the announcement closing type field mentioned above this must be entered manually.  
+If you are posting an open continuous job announcement, you must clearly say this in the job announcement. You will enter this manually.
 
 <div class="usajobs-recruitment-joa-playbook-details__container">
 <div class="usajobs-recruitment-joa-playbook-details__required-by-usajobs">
@@ -94,7 +94,7 @@ If you are posting an open continuous job announcement, you must clearly say thi
 
 The salary range of the job. USAJOBS displays the starting salary in the search results and the full salary range in the job announcement.
 
-You can enter a “per year” or “hourly” salary.  
+You can enter a per year or hourly salary.  
 
 If the salary is hourly, the value can’t exceed $220 per hour.
 
@@ -114,7 +114,7 @@ If the salary is hourly, the value can’t exceed $220 per hour.
   <h4><span class="fa fa-check"></span> Do</h4>
   * You must include a salary with a numeric value other than “0”.
   * Include a minimum and maximum salary.
-  * Include an hourly wage, if relevant — the system will map hourly wages to a per-year salary using the pay filter in the USAJOBS search.
+  * Include an hourly wage, if relevant—the system will map hourly wages to a per-year salary using the pay filter in the USAJOBS search.
 </div>
 <div class="usajobs-recruitment-joa-playbook-details__do-not">
   <h4><span class="fa fa-times"></span> Do Not</h4>
@@ -146,18 +146,18 @@ Describes the grade level and pay scale that the job falls under.
 </div>
 <div class="usajobs-recruitment-joa-playbook-details__do-not">
   <h4><span class="fa fa-times"></span> Do Not</h4>
-  * Include the salary — this information is captured in the salary field.
+  * Include the salary—this information is captured in the salary field.
 </div>
 </div>
 
-## Locations 
+## Location(s) 
 
 Indicates the street address (if provided), city and state of the work location. 
 
 <div class="usajobs-recruitment-joa-playbook-details__container">
 <div class="usajobs-recruitment-joa-playbook-details__required-by-usajobs">
   <h4>Required by USAJOBS</h4>
-  <p>Conditional – the city and state are required, but the street address is optional.</p>
+  <p>Conditional—the city and state are required, but the street address is optional.</p>
 </div>
 <div class="usajobs-recruitment-joa-playbook-details__required-by-policy">
   <h4>Required by policy</h4>
@@ -342,7 +342,7 @@ Learn more about [appointment types](https://www.usajobs.gov/Help/working-in-gov
 </div>
 <div class="usajobs-recruitment-joa-playbook-details__do-not">
   <h4><span class="fa fa-times"></span> Do Not</h4>
-  * Include the service type — this is captured in the [Service field](#service).
+  * Include the service type—this is captured in the [Service field](#service).
   * Repeat the appointment types in supplemental text. The value of the appointment type field will appear next to the supplemental text you provide.
   * Avoid the **Multiple** option whenever possible. Job seekers have difficulty understanding what this term means. When using the **Multiple** option, use the supplemental text to explain which appointment types are possible for this job.
 </div>
@@ -380,14 +380,14 @@ See the [definitions for work schedules](https://www.usajobs.gov/Help/working-in
 </div>
 <div class="usajobs-recruitment-joa-playbook-details__do-not">
   <h4><span class="fa fa-times"></span> Do Not</h4>
-  * Include the appointment type - this is captured in the [Appointment type field](#appointment-type).
+  * Include the appointment type—this is captured in the [Appointment type field](#appointment-type).
   * Repeat the work schedule in supplemental text. The value of the work schedule field will appear next to the supplemental text you provide.
   * Define the work schedule hours in supplemental text. Applicants can read more about the definitions in the Help Center.
-  * Do not use Multiple whenever possible. Job seekers have difficulty understanding what this term means.
+  * Do not use **Multiple** whenever possible. Job seekers have difficulty understanding what this term means.
 </div>
 </div>
 
-## Service or service type
+## Service
 
 Tells the applicant what service the job is in: 
 
@@ -413,8 +413,8 @@ Tells the applicant what service the job is in:
 </div>
 <div class="usajobs-recruitment-joa-playbook-details__do-not">
   <h4><span class="fa fa-times"></span> Do Not</h4>
-  * Include the appointment type — this is captured in the appointment type field.
-  * Include the work schedule — this is captured in the work schedule field.
+  * Include the appointment type—this is captured in the [Appointment type field](#appointment-type).
+  * Include the work schedule—this is captured in the [Work schedule field](#work-schedule).
 </div>
 </div>
 
@@ -445,7 +445,7 @@ This tells the job seeker if there’s an opportunity to move up in the grade le
 </div>
 </div>
 
-## Job family (series) 
+## Job family
 
 Tells the applicant the job family or category to which the job belongs. The codes and titles for the job family are the <a href="https://www.opm.gov/policy-data-oversight/classification-qualifications/classifying-general-schedule-positions/">Office of Personnel Management occupational series</a>. The job family link directs the applicant to the search results page, where the results are filtered by that series. 
 
@@ -490,7 +490,7 @@ Options include:
 
 Indicates the level of security clearance necessary for the job. 
 
-The value in this field will always link to: https://www.usajobs.gov/Help/faq/job-announcement/security-clearances/ 
+The value in this field will always link to the <a href="https://www.usajobs.gov/Help/faq/job-announcement/security-clearances/">security clearances help page in the USAJOBS Help Center</a>.
 
 <div class="usajobs-recruitment-joa-playbook-details__container">
 <div class="usajobs-recruitment-joa-playbook-details__required-by-usajobs">
@@ -514,9 +514,9 @@ The value in this field will always link to: https://www.usajobs.gov/Help/faq/jo
 </div>
 </div>
 
-## Drug test required 
+## Drug test
 
-Tells the applicant if a drug test is required. It will display as Yes or No. 
+Tells the applicant if a drug test is required. It will display as **Yes** or **No**. 
 
 <div class="usajobs-recruitment-joa-playbook-details__container">
 <div class="usajobs-recruitment-joa-playbook-details__required-by-usajobs">
@@ -600,7 +600,7 @@ If you include a level for the position sensitivity and risk, then you need to i
 <div class="usajobs-recruitment-joa-playbook-details__container">
 <div class="usajobs-recruitment-joa-playbook-details__required-by-usajobs">
   <h4>Required by USAJOBS</h4>
-  <p>No, but this field is conditionally required if a value is provided for **Position sensitivity and risk**. </p>
+  <p>No, but this field is conditionally required if a value is provided for [Position sensitivity and risk](#position-sensitivity-and-risk). </p>
 </div>
 <div class="usajobs-recruitment-joa-playbook-details__required-by-policy">
   <h4>Required by policy</h4>
@@ -619,7 +619,7 @@ If you include a level for the position sensitivity and risk, then you need to i
   * Repeat this information elsewhere.
 </div>
 </div>
-## Announcement number 
+## Job announcement number 
 
 The announcement number is in the overview section which lives in the right-hand sidebar. Hiring agencies determine the announcement number. 
 
