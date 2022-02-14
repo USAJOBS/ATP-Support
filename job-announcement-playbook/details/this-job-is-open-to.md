@@ -62,7 +62,7 @@ Hiring paths help **staffing specialists**:
 
 **How to update this section**
 
-Use the multi-select hiring path list in your talent aquisition system (TAS) to add a hiring path to your job announcement. The hiring path icons and their text descriptions will appear in the **This job is open to** section based on the options you select. 
+Use the multi-select hiring path list in your Talent Aquisition System (TAS) to add a hiring path to your job announcement. The hiring path icons and their text descriptions will appear in the **This job is open to** section based on the options you select. 
 
 **Mapping Who May Apply to the hiring paths**
 
