@@ -44,7 +44,7 @@ Lists the duties the applicant is expected to perform.
 </div>
 
 <div class="usajobs-recruitment-joa-playbook-details__myth">
-#### Myth: If using a standard position description (PD), staffing specialists aren’t allowed to include specialized skills in the job announcement
+#### Myth: If using a standard position description, staffing specialists aren’t allowed to include specialized skills in the job announcement
 
 <div class="usajobs-recruitment-joa-playbook-details__container">
 <div class="usajobs-recruitment-joa-playbook-details__do">
