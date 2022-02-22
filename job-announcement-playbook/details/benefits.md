@@ -20,11 +20,8 @@ current-fields: ["Agency benefits"]
   alt="Benefits v6.7 example"></amp-img>
 </div>
 
-This section will automatically include the initial paragraph and **Learn more about federal benefits** link seen above, followed by information that you provide along with a disclaimer explaining that benefits sometimes differ across agencies.
+This section will automatically include the initial paragraph and [Learn more about federal benefits](https://www.usajobs.gov/Help/working-in-government/benefits/) link, followed by information that you provide along with a disclaimer explaining that benefits sometimes differ across agencies.
 
-The link in this section is here:
-
-*	[Learn more about federal benefits](https://www.usajobs.gov/Help/working-in-government/benefits/)
 
 ### Agency benefits
 
@@ -60,7 +57,7 @@ This text allows the agency to describe benefits that they offer above and beyon
 <div class="usajobs-recruitment-joa-playbook-details__do-not">
   <h4><span class="fa fa-times"></span> Do Not</h4>
   
-  * Repeat benefits information in any other section — it should only appear in the **Benefits** section.
+  * Repeat benefits information in any other section—it should only appear in the **Benefits** section.
   * Repeat benefits information that is already made available via the links above.
   * Keep using broken links or links that send applicants to outdated content.
 </div>
