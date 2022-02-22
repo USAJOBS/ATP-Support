@@ -7,7 +7,7 @@ sidenav: qualifications
 lead: Describes the experience and education that a job seeker needs for the job. When hiring for multiple grade levels, you must explain the qualifications for each grade level.  
 current-fields: ["Specialized experience",  "Selective factor",  "Time in grade",  "Education",  "Additional information"]
 ---
-This section helps the job seeker determin whether to apply for the job, so being clear and concise is essential. Read the qualifications from the job seeker perspective and ask these questions:
+This section helps the job seeker determine whether to apply for the job, so being clear and concise is essential. Read the qualifications from the job seeker perspective and ask these questions:
 
 * Are the qualifications specific? 
 * Are they described appropriately at each grade level? 
@@ -29,12 +29,12 @@ This section will automatically use a bulleted list format for each qualificatio
 <h4><span class="fa fa-check"></span> Do</h4>
 
 * Only include content that the job seeker needs.
-  * Only include qualifications - don’t include background checks, job locations, etc.
+  * Only include qualifications—don’t include background checks, job locations, etc.
   * Use the language from the [Office of Personnel Management Qualifications Standards Handbook](https://www.opm.gov/policy-data-oversight/classification-qualifications/classifying-general-schedule-positions/), supplemented by the specific education and experience requirements identified for the position.
 
 * Organize the content logically
   * Use clear subheadings to separate qualifications that everyone needs vs. qualifications that are specific to each grade level.
-  * Keep sentences short — break qualifications into separate sentences to make it easier to read.
+  * Keep sentences short—break qualifications into separate sentences to make it easier to read.
 
 * Write like you’re speaking to the job seeker.
   * Use language the job seeker knows—simpler is better! Refer to the [Plainlanguage.gov](http://www.plainlanguage.gov/) list of simple words and phrases.
@@ -84,7 +84,7 @@ List specific experience required of applicants.
 
 ### Selective factor
 
-This describes knowledge, skills, abilities, or special qualifications essential to perform the duties and responsibilities of a job.
+This describes knowledge, skills, abilities or special qualifications essential to perform the duties and responsibilities of a job.
 
 <div class="usajobs-recruitment-joa-playbook-details__container">
 <div class="usajobs-recruitment-joa-playbook-details__required-by-usajobs">
@@ -149,7 +149,7 @@ Tells the job seeker if there are education requirements or if education can rep
 
 ### Additional information 
 
-This is an optional field of 2500 characters where you can place any additional information you wish to include specific to the position. 
+This is an optional field of 2,500 characters where you can place any additional information you wish to include specific to the position. 
 
 <div class="usajobs-recruitment-joa-playbook-details__container">
 <div class="usajobs-recruitment-joa-playbook-details__required-by-usajobs">
