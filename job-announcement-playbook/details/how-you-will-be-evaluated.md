@@ -76,11 +76,10 @@ This may include:
 
 <div class="usajobs-recruitment-joa-playbook-details__suggested-text">
   <h5>Suggested text—use this text as the first sentence in this section:</h5>
-  <p>You will be evaluated for this job based on: 
+  You will be evaluated for this job based on: 
   * The experience listed in your resume and whether your experience and skills match what we’re looking for.</li>
   * A work-related assessment—we’ll give you a sample job task that you need to complete.</li>
   * An in-person interview.
-  </p>
 </div>
 
 
@@ -92,7 +91,7 @@ Each agency defines what the categories of rating are for their applicants. You 
 <h5>Suggested text for category rating</h5>
 *	Best Qualified: An applicant who demonstrates a superior level of all evaluation criteria.
 *	Well-Qualified: An applicant who demonstrates a satisfactory level of the evaluation criteria.
-*	Qualified: An applicant who demonstrates the basic qualifications, with general knowledge, skills and abilities.
+*	Minimally Qualified: An applicant who demonstrates the basic qualifications, with general knowledge, skills and abilities.
 </div>
 
 <div class="usajobs-recruitment-joa-playbook-details__container">
