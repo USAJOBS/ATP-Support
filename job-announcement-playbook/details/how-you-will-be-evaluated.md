@@ -75,7 +75,7 @@ This may include:
 *	[Other assessment methods](https://www.opm.gov/policy-data-oversight/assessment-and-selection/other-assessment-methods/assessment-method-considerations/).
 
 <div class="usajobs-recruitment-joa-playbook-details__suggested-text">
-  <h5>Suggested text—use this text as the first sentence in this section:</h5>
+  Use this text as the first sentence in this section:
   You will be evaluated for this job based on: 
   * The experience listed in your resume and whether your experience and skills match what we’re looking for.</li>
   * A work-related assessment—we’ll give you a sample job task that you need to complete.</li>
