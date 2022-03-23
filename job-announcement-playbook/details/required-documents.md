@@ -20,10 +20,11 @@ This section will end in the following set of information when [Education requir
   alt="Required Documents disclaimers v6.6 example"></amp-img>
 </div>
 
+The <a href="https://www.ed.gov/">link in this section goes to schools accredited by accrediting institutions recognized by the U.S. Department of Education</a>.. 
 
 ## Documents to file
 
-Tells the job seeker which documents to file to support their eligibility.
+Tells the job seeker which documents to submit to support their eligibility.
 
 <div class="usajobs-recruitment-joa-playbook-details__container">
 <div class="usajobs-recruitment-joa-playbook-details__required-by-usajobs">
@@ -67,7 +68,7 @@ Tells the job seeker that they should not apply by fax after applying online.
 
 <div class="usajobs-recruitment-joa-playbook-details__suggested-text">
   <h5>Suggested text</h5>
-If you applied online and your application is complete, do not fax the paper application (1203FX) as this will overwrite your prior online responses and may result in you being found ineligible.
+If you applied online and your application is complete, do not fax the paper application as this will overwrite your prior online responses and may result in you being found ineligible.
 </div>
 
 ## Transcript required
