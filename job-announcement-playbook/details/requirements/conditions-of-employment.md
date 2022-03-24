@@ -52,7 +52,7 @@ This section will:
 
 Tells the job seeker if the job falls under union representation.
 
-If the job position falls under union representation, we strongly encourage agencies to review and implement the mandated [Executive Order 14025](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/04/26/executive-order-on-worker-organizing-and-empowerment/).  
+If the job position falls under union representation, we strongly encourage agencies to review and implement the mandated [Executive Order 14025](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/04/26/executive-order-on-worker-organizing-and-empowerment/){:target="\_blank"}.  
 
 We've created a page in our Help Center to that gives more information: [What are bargaining units?](https://www.usajobs.gov/Help/faq/job-announcement/bargaining-units/)
 
@@ -575,7 +575,7 @@ You may qualify for a recruitment incentive.
 </div>
 
 ### Background check
-Indicates the level of background check necessary for the job.  The value in this field will always link to the <a href="https://www.usajobs.gov/Help/faq/job-announcement/security-clearances/">USAJOBS Help Center page on security clearances</a>.
+Indicates the level of background check necessary for the job.  The value in this field will always link to the [USAJOBS Help Center page on security clearances] (https://www.usajobs.gov/Help/faq/job-announcement/security-clearances/){:target="\_blank"}.
 
 <div class="usajobs-recruitment-joa-playbook-details__container">
 <div class="usajobs-recruitment-joa-playbook-details__required-by-usajobs">
