@@ -45,7 +45,7 @@ Tells the job seeker which documents to submit to support their eligibility.
 <li>Your resume must also support your answers to the job questionnaire.</li>
 </ul>
 <p>
-<a href="https://www.usajobs.gov/Help/faq/application/documents/resume/what-to-include/">What to include in your resume</a>
+[What to include in your resume](https://www.usajobs.gov/Help/faq/application/documents/resume/what-to-include/){:target="\_blank"}.
 </p>
 </div>
 
