@@ -29,7 +29,7 @@ Provides links to our Help Center where the job seeker can read about the follow
 * [Financial suitability](https://www.usajobs.gov/Help/working-in-government/fair-and-transparent/financial-suitability/){:target="\_blank"}
 * [Privacy Act](https://www.usajobs.gov/Help/working-in-government/fair-and-transparent/privacy-act/){:target="\_blank"}
 * [Selective Service](https://www.usajobs.gov/Help/working-in-government/fair-and-transparent/selective-service/){:target="\_blank"}
-* [Social Security number request](https://www.usajobs.gov/Help/working-in-government/fair-and-transparent/social-security-number/){:target="\_blank"}}
+* [Social Security number request](https://www.usajobs.gov/Help/working-in-government/fair-and-transparent/social-security-number/){:target="\_blank"}
 * [Signature and false statements](https://www.usajobs.gov/Help/working-in-government/fair-and-transparent/signature-false-statements/){:target="\_blank"}
 * [New employee probationary period](https://www.usajobs.gov/Help/working-in-government/fair-and-transparent/probationary-period/){:target="\_blank"}
 
