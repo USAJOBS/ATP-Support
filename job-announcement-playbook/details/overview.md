@@ -255,7 +255,7 @@ Options include:
   <li>76% or greater</li>
   </ul>
 
-<p>[Read more about travel percentages](https://www.usajobs.gov/Help/how-to/search/filters/travel-percentage/){:target="_blank"}.</p>
+<p>[Read more about travel percentages](https://www.usajobs.gov/Help/how-to/search/filters/travel-percentage/){:target="\_blank"}.</p>
   
   <div class="usajobs-recruitment-joa-playbook-details__container">
 <div class="usajobs-recruitment-joa-playbook-details__required-by-usajobs">
@@ -328,7 +328,7 @@ Tells the applicant the type of appointment. Appointment types can be:
   </li>
   </ul>
 
-Learn more about [appointment types in the Help Center](https://www.usajobs.gov/Help/working-in-government/pay-and-leave/appointment-types/){:target="_blank"}.
+Learn more about [appointment types in the Help Center](https://www.usajobs.gov/Help/working-in-government/pay-and-leave/appointment-types/){:target="\_blank"}.
    
 <div class="usajobs-recruitment-joa-playbook-details__container">
 <div class="usajobs-recruitment-joa-playbook-details__required-by-usajobs">
@@ -365,7 +365,7 @@ Tells the applicant the work schedule they can expect for this job.  The work sc
 *	Job sharing
 *	Multiple
 
-See the [definitions for work schedules in the Help Center](https://www.usajobs.gov/Help/working-in-government/pay-and-leave/work-schedules/){:target="_blank"}.
+See the [definitions for work schedules in the Help Center](https://www.usajobs.gov/Help/working-in-government/pay-and-leave/work-schedules/){:target="\_blank"}.
 
 <div class="usajobs-recruitment-joa-playbook-details__container">
 <div class="usajobs-recruitment-joa-playbook-details__required-by-usajobs">
@@ -453,7 +453,7 @@ This tells the job seeker if there’s an opportunity to move up in the grade le
 
 ## Job family
 
-Tells the applicant the job family or category to which the job belongs. The codes and titles for the job family are the [Office of Personnel Management occupational series](https://www.opm.gov/policy-data-oversight/classification-qualifications/classifying-general-schedule-positions/){:target="_blank"}.
+Tells the applicant the job family or category to which the job belongs. The codes and titles for the job family are the [Office of Personnel Management occupational series](https://www.opm.gov/policy-data-oversight/classification-qualifications/classifying-general-schedule-positions/){:target="\_blank"}.
 
 The job family link directs the applicant to the search results page, where the results are filtered by that series. 
 
@@ -498,7 +498,7 @@ Options include:
 
 Indicates the level of security clearance necessary for the job. 
 
-The value in this field will always link to the [security clearances page in the Help Center](https://www.usajobs.gov/Help/faq/job-announcement/security-clearances/){:target="_blank"}.
+The value in this field will always link to the [security clearances page in the Help Center](https://www.usajobs.gov/Help/faq/job-announcement/security-clearances/){:target="\_blank"}.
 
 <div class="usajobs-recruitment-joa-playbook-details__container">
 <div class="usajobs-recruitment-joa-playbook-details__required-by-usajobs">
