@@ -30,14 +30,14 @@ This section will automatically use a bulleted list format for each qualificatio
 
 * Only include content that the job seeker needs.
   * Only include qualifications—don’t include background checks, job locations, etc.
-  * Use the language from the [Office of Personnel Management Qualifications Standards Handbook](https://www.opm.gov/policy-data-oversight/classification-qualifications/classifying-general-schedule-positions/), supplemented by the specific education and experience requirements identified for the position.
+  * Use the language from the [Office of Personnel Management Qualifications Standards Handbook](https://www.opm.gov/policy-data-oversight/classification-qualifications/classifying-general-schedule-positions/){:target="\_blank"}, supplemented by the specific education and experience requirements identified for the position.
 
 * Organize the content logically
   * Use clear subheadings to separate qualifications that everyone needs vs. qualifications that are specific to each grade level.
   * Keep sentences short—break qualifications into separate sentences to make it easier to read.
 
 * Write like you’re speaking to the job seeker.
-  * Use language the job seeker knows—simpler is better! Refer to the [Plainlanguage.gov](http://www.plainlanguage.gov/) list of simple words and phrases.
+  * Use language the job seeker knows—simpler is better! Refer to the [Plainlanguage.gov](http://www.plainlanguage.gov/){:target="\_blank"} list of simple words and phrases.
   * Use the active voice—the active voice is concise, direct and makes the content easy to understand. An active voice sentence follows this order: subject + verb + object.
   * Use pronouns (i.e. address the audience as “you”, “your”) – this helps personalize the experience.
   * Avoid internal jargon and acronyms—if an acronym is necessary, spell it out the first time you use it. 
@@ -71,7 +71,7 @@ List specific experience required of applicants.
 <div class="usajobs-recruitment-joa-playbook-details__do">
   <h4><span class="fa fa-check"></span> Do</h4>
   
-  * Use specific, but simple language to describe the required experience. Refer to the [Plainlanguage.gov](http://www.plainlanguage.gov/) list of simple words and phrases.
+  * Use language the job seeker knows—simpler is better! Refer to the [Plainlanguage.gov](http://www.plainlanguage.gov/){:target="\_blank"} list of simple words and phrases.
   * Indicate if there are different levels of experience based on grade level.
 </div>
 <div class="usajobs-recruitment-joa-playbook-details__do-not">
