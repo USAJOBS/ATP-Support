@@ -43,7 +43,7 @@ The method of rating may include one or more of the following:
 *	An assessment (a written test, project related assessment, etc.)—sometimes this is called a work simulation.
 *	Interview
 
-Details on [rating procedures can be found in the DEO Handbook](https://www.opm.gov/policy-data-oversight/hiring-information/competitive-hiring/deo_handbook.pdf).
+Details on [rating procedures can be found in the DEO Handbook](https://www.opm.gov/policy-data-oversight/hiring-information/competitive-hiring/deo_handbook.pdf){:target="\_blank"}.
 
 
 <div class="usajobs-recruitment-joa-playbook-details__container">
@@ -72,7 +72,7 @@ This may include:
 
 *	Work-related assessment—give the applicant a sample job task or scenario and ask them how they would complete it.
 *	Written assessment—the applicant provides a writing sample.
-*	[Other assessment methods](https://www.opm.gov/policy-data-oversight/assessment-and-selection/other-assessment-methods/assessment-method-considerations/).
+*	[Other assessment methods](https://www.opm.gov/policy-data-oversight/assessment-and-selection/other-assessment-methods/assessment-method-considerations/){:target="\_blank"}.
 
 <div class="usajobs-recruitment-joa-playbook-details__suggested-text">
   Use this text as the first sentence in this section:
