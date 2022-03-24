@@ -20,7 +20,7 @@ current-fields: ["Agency benefits"]
   alt="Benefits v6.7 example"></amp-img>
 </div>
 
-This section will automatically include the initial paragraph and [Learn more about federal benefits](https://www.usajobs.gov/Help/working-in-government/benefits/) link, followed by information that you provide along with a disclaimer explaining that benefits sometimes differ across agencies.
+This section will automatically include the initial paragraph and [Learn more about federal benefits](https://www.usajobs.gov/Help/working-in-government/benefits/){:target="\_blank"} link, followed by information that you provide along with a disclaimer explaining that benefits sometimes differ across agencies.
 
 
 ### Agency benefits
