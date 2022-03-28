@@ -11,11 +11,11 @@ current-fields: ["Legal and regulatory guidance"]
 This section will automatically appear in the following format:
 
 <div class="usajobs-recruitment-joa-playbook-details__example-img">
-<amp-img src="{{ '/assets/images/job-announcement-playbook/fair-and-transparent-v6.6.png' | relative_url }}"
-  srcset="{{ '/assets/images/job-announcement-playbook/fair-and-transparent-v6.6.png' | relative_url }} 768w,
-  {{ '/assets/images/job-announcement-playbook/fair-and-transparent-v6.6-SM.png' | relative_url }} 100w"
-  width="377"
-  height="357"
+<amp-img src="{{ '/assets/images/job-announcement-playbook/fair-and-transparent-v6.7.png' | relative_url }}"
+  srcset="{{ '/assets/images/job-announcement-playbook/fair-and-transparent-v6.7.png' | relative_url }} 768w,
+  {{ '/assets/images/job-announcement-playbook/fair-and-transparent-v6.7-SM.png' | relative_url }} 100w"
+  width="700"
+  height="250"
   layout="responsive"
   alt="Fair and Transparent v6.6"></amp-img>
 </div>
