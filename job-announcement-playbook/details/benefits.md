@@ -14,7 +14,7 @@ current-fields: ["Agency benefits"]
 <amp-img src="{{ '/assets/images/job-announcement-playbook/benefits-v6.7.png' | relative_url }}"
   srcset="{{ '/assets/images/job-announcement-playbook/benefits-v6.7.png' | relative_url }} 768w,
   {{ '/assets/images/job-announcement-playbook/benefits-v6.7-SM.png' | relative_url }} 100w"
-  width="750"
+  width="950"
   height="354"
   layout="responsive"
   alt="Benefits v6.7 example"></amp-img>
