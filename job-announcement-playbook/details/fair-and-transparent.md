@@ -15,7 +15,7 @@ This section will automatically appear in the following format:
   srcset="{{ '/assets/images/job-announcement-playbook/fair-and-transparent-v6.7.png' | relative_url }} 768w,
   {{ '/assets/images/job-announcement-playbook/fair-and-transparent-v6.7-SM.png' | relative_url }} 100w"
   width="700"
-  height="250"
+  height="225"
   layout="responsive"
   alt="Fair and Transparent v6.6"></amp-img>
 </div>
