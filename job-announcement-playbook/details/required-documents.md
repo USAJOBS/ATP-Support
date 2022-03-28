@@ -11,10 +11,10 @@ current-fields: ["Documents to file", "Fax overwrite warning", "Transcript requi
 This section will end in the following set of information when [Education requirements](../requirements/#education) are defined:
 
 <div class="usajobs-recruitment-joa-playbook-details__example-img">
-<amp-img src="{{ '/assets/images/job-announcement-playbook/required-documents-disclaimer-v6.6.png' | relative_url }}"
-  srcset="{{ '/assets/images/job-announcement-playbook/required-documents-disclaimer-v6.6.png' | relative_url }} 768w,
-  {{ '/assets/images/job-announcement-playbook/required-documents-disclaimer-v6.6-SM.png' | relative_url }} 100w"
-  width="701"
+<amp-img src="{{ '/assets/images/job-announcement-playbook/required-documents-disclaimer-v6.7.png' | relative_url }}"
+  srcset="{{ '/assets/images/job-announcement-playbook/required-documents-disclaimer-v6.7.png' | relative_url }} 768w,
+  {{ '/assets/images/job-announcement-playbook/required-documents-disclaimer-v6.7.png' | relative_url }} 100w"
+  width="900"
   height="258"
   layout="responsive"
   alt="Required Documents disclaimers v6.6 example"></amp-img>
