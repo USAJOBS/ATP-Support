@@ -18,7 +18,7 @@ Begin this section with the following:
 To start your application, click **Apply** and we'll walk you through a five step process where you’ll attach a resume and any required documents.
 </p>
 <p>
-During the application process you can review, edit, delete and update your information. We’ll automatically save your progress as you go, so you won’t lose any changes.
+During the application process you can review, edit, delete, and update your information. We’ll automatically save your progress as you go, so you won’t lose any changes.
 </p>
 </div>
 
@@ -50,22 +50,12 @@ Tells the job seeker how they can submit their application by fax.
 
 ### Positions filled statement
 
-Tells the job seeker that the agency has the flexibility to hire additional people beyond the number of vacancies listed in the Locations section from the pool of applicants to this announcement. 
+Tells the job seeker that the agency has the flexibility to hire additional people beyond the number of vacancies listed in the **Locations** section from the pool of applicants to this announcement. 
 
 <div class="usajobs-recruitment-joa-playbook-details__suggested-text">
 <h5>Suggested text</h5>
 We may fill multiple positions from this announcement. 
 </div>
-
-## Actions
-
-This section includes an **Apply** button that will start the application process. 
-
-The actions section also includes controls for:
-
-* Print
-* Save
-* Share
 
 <div class="usajobs-recruitment-joa-playbook-details__myth">
 #### Myth: Job announcements must be less than 5 pages when printed
@@ -105,7 +95,7 @@ A URL pointing to the questionnaire for this announcement.
 
 ### Agency contact information
 
-Tells the job seeker how they can contact the agency. The **Learn more about this agency** link opens the [agency pop-up window](../overview/#agency-modal---current-fields).
+Tells the job seeker how they can contact the agency. The **Learn more about this agency** link opens the agency pop-up window that tells the job seeker more about hte agency.
 
 <div class="usajobs-recruitment-joa-playbook-details__container">
 <div class="usajobs-recruitment-joa-playbook-details__required-by-usajobs">
@@ -133,9 +123,9 @@ We display the information you provide as follows:
 The following fields are required:
 
 * Agency contact name
-* Phone number - check your voicemail often and respond to applicants as soon as possible.
+* Phone number—check your voicemail often and respond to applicants as soon as possible.
 * Street address
-* Email address - Please check use an active email address and check it often, because job seekers may contact you there.
+* Email address—Please use an active email address and check it often, because job seekers may contact you there.
 
 
 ### Next steps

@@ -4,14 +4,13 @@ layout: joa-details
 category: requirements
 title: Conditions of Employment
 sidenav: conditions-of-employment
-lead: Conditions of employment lists requirements the job seeker must have or agree to before or after accepting the job. Conditions of employment may be named Key requirements in your TAS. 
-This section may contain: ["Bargaining unit position", "Direct deposit", "Driver’s license", "E-verify", "Financial disclosure report", "Financial interest regulation", "Firearm", "Government charge card", "Licensure", "Mobility agreement", "Physical", "PIV process", "Proof of citizenship", "Recruitment incentive", "Background check"]
-
+lead: Conditions of employment lists requirements the job seeker must have or agree to before or after accepting the job.
+current-fields: ["Bargaining unit position", "Direct deposit", "Driver's license", "E-verify", "Financial disclosure report", "Financial interest regulation", "Firearm", "Government charge card", "Licensure", "Mobility agreement",  "Physical", "PIV process", "Proof of citizenship", "REcruitment incentive", "Background check" ]
 ---
 
 This section will:
 
-*	Automatically use a bulleted list format for each “condition”.
+*	Automatically use a bulleted list format for each condition.
 *	Include a lead-in sentence: "If you apply to this job and we hire you, you must meet and agree to the following conditions:"
 
  This field may still be named **Key requirements** in your Talent Acquisition System (TAS), in which case it will:
@@ -36,7 +35,7 @@ This section will:
   
   * Capitalize the first word of each bulleted item.
   * Include punctuation at the end of each bulleted item.
-  * Use the **current fields** as needed. Some fields are not required or always necessary.
+  * Use the **Current fields** as needed. Some fields are not required or always necessary.
   
 </div>
 <div class="usajobs-recruitment-joa-playbook-details__do-not">
@@ -44,7 +43,7 @@ This section will:
   
   * Add your own bullet style or additional HTML—the job announcement will automatically apply the correct bullet style unless it is still listed as **Key requirements**. 
   * Use the previous fields listed below. 
-  * Add a separate Key Requirements section—the Conditions of employment replaces Key requirements.
+  * Add a separate **Key Requirements** section—the **Conditions of employment** replaces it.
   
 </div>
 </div>
@@ -53,7 +52,7 @@ This section will:
 
 Tells the job seeker if the job falls under union representation.
 
-If the job position falls under union representation, we strongly encourage agencies to review and implement the mandated [Executive Order 14025](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/04/26/executive-order-on-worker-organizing-and-empowerment/).  
+If the job position falls under union representation, we strongly encourage agencies to review and implement the mandated [Executive Order 14025](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/04/26/executive-order-on-worker-organizing-and-empowerment/){:target="\_blank"}.  
 
 We've created a page in our Help Center to that gives more information: [What are bargaining units?](https://www.usajobs.gov/Help/faq/job-announcement/bargaining-units/)
 
@@ -70,7 +69,7 @@ We've created a page in our Help Center to that gives more information: [What ar
 
 <div class="usajobs-recruitment-joa-playbook-details__suggested-text">
 <h5>Suggested text</h5>
-This is a <a href="https://www.usajobs.gov/Help/faq/job-announcement/bargaining-units/">bargaining unit position</a>. This position is represented by the (insert Union name), (insert local or chapter number). 
+This is a <a href="https://www.usajobs.gov/Help/faq/job-announcement/bargaining-units/">bargaining unit position</a>. This position is represented by the (insert union name), (insert local or chapter number). 
 
 OR 
 
@@ -81,9 +80,9 @@ This is a non-bargaining unit position.
 <div class="usajobs-recruitment-joa-playbook-details__do">
   <h4><span class="fa fa-check"></span> Do</h4>
   
-  * Include whether the position is a bargaining or non-bargaining unit on your JOAs.
+  * Include whether the position is a bargaining or non-bargaining unit.
   * Include the name and local or chapter number of the union which represents the bargaining unit position (if the position being announced is part of a bargaining unit).
-  * Only include in **Conditions of Employment**. 
+  * Only include in **Conditions of employment**. 
   
 </div>
 <div class="usajobs-recruitment-joa-playbook-details__do-not">
@@ -162,7 +161,7 @@ Have a valid driver’s license.
 <div class="usajobs-recruitment-joa-playbook-details__do-not">
   <h4><span class="fa fa-times"></span> Do Not</h4>
   
-  * Include this text in any other section—it should only appear once and only in **Conditions of Employment**.
+  * Include this text in any other section—it should only appear once and only in **Conditions of employment**.
   
 </div>
 </div>
@@ -191,14 +190,14 @@ Successfully pass the E-Verify employment verification check. To learn more abou
 <div class="usajobs-recruitment-joa-playbook-details__do">
   <h4><span class="fa fa-check"></span> Do</h4>
   
-  * Include this text when a job requires a background investigation, specific security clearance, or meeting certain physical or other pre-employment requirements.
+  * Include this text when a job requires a background investigation, specific security clearance or meeting certain physical or other pre-employment requirements.
   
 </div>
 <div class="usajobs-recruitment-joa-playbook-details__do-not">
   <h4><span class="fa fa-times"></span> Do Not</h4>
   
   * Explain what E-Verify is—instead link to the information page about E-Verify.
-  * Include this text in **Qualifications** or any other section—it should only appear once and only in **Conditions of Employment**.
+  * Include this text in **Qualifications** or any other section—it should only appear once and only in **Conditions of employment**.
   
 </div>
 </div>
@@ -235,14 +234,14 @@ You may need to file a financial disclosure report before starting the job. Cont
 <div class="usajobs-recruitment-joa-playbook-details__do-not">
   <h4><span class="fa fa-times"></span> Do Not</h4>
   
-  * Include this text in **Qualifications** or any other section—it should only appear once and only in **Conditions of Employment**.
+  * Include this text in **Qualifications** or any other section—it should only appear once and only in **Conditions of employment**.
   
 </div>
 </div>
 
 ### Financial interest regulation
 
-Tells the job seeker if the job is subject to an agency’s prohibited financial interest regulation and if so, it may require the applicant to divest specific financial interests.
+Tells the job seeker if the job is subject to an agency’s prohibited financial interest regulation and, if so, it may require the applicant to divest specific financial interests.
 
 <div class="usajobs-recruitment-joa-playbook-details__container">
 <div class="usajobs-recruitment-joa-playbook-details__required-by-usajobs">
@@ -257,7 +256,7 @@ Tells the job seeker if the job is subject to an agency’s prohibited financial
 
 <div class="usajobs-recruitment-joa-playbook-details__suggested-text">
 <h5>Suggested text</h5>
-You may need to divest of certain financial interests, because of [insert department/agency name] prohibited financial interest regulation. Contact the hiring agency for more information. 
+You may need to divest of certain financial interests because of [insert department/agency name] prohibited financial interest regulation. Contact the hiring agency for more information. 
 </div>
 
 <div class="usajobs-recruitment-joa-playbook-details__container">
@@ -270,7 +269,7 @@ You may need to divest of certain financial interests, because of [insert depart
 <div class="usajobs-recruitment-joa-playbook-details__do-not">
   <h4><span class="fa fa-times"></span> Do Not</h4>
   
-  * Include this text in **Qualifications** or any other section — it should only appear once and only in **Conditions of Employment**.
+  * Include this text in **Qualifications** or any other section—it should only appear once and only in **Conditions of employment**.
   
 </div>
 </div>
@@ -305,7 +304,7 @@ You must meet the qualifications and be certified to carry a firearm. You will n
 <div class="usajobs-recruitment-joa-playbook-details__do-not">
   <h4><span class="fa fa-times"></span> Do Not</h4>
   
-  * Include this text in **Qualifications** or any other section — it should only appear once and only in **Conditions of Employment**.
+  * Include this text in **Qualifications** or any other section—it should only appear once and only in **Conditions of employment**.
   
 </div>
 </div>
@@ -340,7 +339,7 @@ You are required to complete training, obtain and maintain a government credit c
 <div class="usajobs-recruitment-joa-playbook-details__do-not">
   <h4><span class="fa fa-times"></span> Do Not</h4>
   
-  * Include this text in **Qualifications** or **Duties** or any other section — it should only appear once and only in **Conditions of Employment**.
+  * Include this text in **Qualifications** or **Duties** or any other section—it should only appear once and only in **Conditions of employment**.
   
 </div>
 </div>
@@ -374,13 +373,13 @@ You must have a full, current and unrestricted license to practice pharmacy in a
   <h4><span class="fa fa-check"></span> Do</h4>
   
   * Include this text if the hiring agency or job requires it.
-  * Be specific about the type of licensure - use language that the applicant will understand.
+  * Be specific about the type of licensure—use language that the applicant will understand.
   
 </div>
 <div class="usajobs-recruitment-joa-playbook-details__do-not">
   <h4><span class="fa fa-times"></span> Do Not</h4>
   
-  * Include this text in **Qualifications** or any other section — it should only appear once and only in **Conditions of Employment**.
+  * Include this text in **Qualifications** or any other section—it should only appear once and only in **Conditions of employment**.
   
 </div>
 </div>
@@ -417,7 +416,7 @@ If selected, this position may require you to be reassigned to different geograp
 <div class="usajobs-recruitment-joa-playbook-details__do-not">
   <h4><span class="fa fa-times"></span> Do Not</h4>
   
-  * Include this text in **Qualifications** or any other section — it should only appear once and only in **Conditions of Employment**.
+  * Include this text in **Qualifications** or any other section—it should only appear once and only in **Conditions of employment**.
   
 </div>
 </div>
@@ -462,7 +461,7 @@ _There may be different texts depending on the type of physical ability required
 <div class="usajobs-recruitment-joa-playbook-details__do-not">
   <h4><span class="fa fa-times"></span> Do Not</h4>
   
-  * Include this text in **Qualifications** or any other section — it should only appear once and only in **Conditions of Employment**.
+  * Include this text in **Qualifications** or any other section—it should only appear once and only in **Conditions of employment**.
   
 </div>
 </div>
@@ -498,7 +497,7 @@ You will go through a personal identity verification process that requires two f
 <div class="usajobs-recruitment-joa-playbook-details__do-not">
   <h4><span class="fa fa-times"></span> Do Not</h4>
   
-  * Include this text in **Qualifications** or any other section — it should only appear once and only in **Conditions of Employment**.
+  * Include this text in **Qualifications** or any other section—it should only appear once and only in **Conditions of employment**.
   
 </div>
 </div>
@@ -534,7 +533,7 @@ You must provide proof of U.S. citizenship.
 <div class="usajobs-recruitment-joa-playbook-details__do-not">
   <h4><span class="fa fa-times"></span> Do Not</h4>
   
-  * Include this text in **Qualifications** — it should only appear once and only in **Conditions of Employment**.
+  * Include this text in **Qualifications**—it should only appear once and only in **Conditions of employment**.
   
 </div>
 </div>
@@ -570,13 +569,13 @@ You may qualify for a recruitment incentive.
 <div class="usajobs-recruitment-joa-playbook-details__do-not">
   <h4><span class="fa fa-times"></span> Do Not</h4>
   
-  * Include this text in **Qualifications** — it should only appear once and only in **Conditions of Employment**.
+  * Include this text in **Qualifications**—it should only appear once and only in **Conditions of employment**.
   
 </div>
 </div>
 
 ### Background check
-Indicates the level of background check necessary for the job.  The value in this field will always link to https://www.usajobs.gov/Help/faq/job-announcement/security-clearances/.
+Indicates the level of background check necessary for the job.  The value in this field will always link to the [USAJOBS Help Center page on security clearances] (https://www.usajobs.gov/Help/faq/job-announcement/security-clearances/){:target="\_blank"}.
 
 <div class="usajobs-recruitment-joa-playbook-details__container">
 <div class="usajobs-recruitment-joa-playbook-details__required-by-usajobs">

@@ -40,17 +40,17 @@ The method of rating may include one or more of the following:
 *	Resume
 *	Answers to the online job questionnaire
 *	Work samples (writing samples, project related samples, design work etc.)
-*	An assessment (a written test, project related assessment, etc) - sometimes this is called a work simulation.
+*	An assessment (a written test, project related assessment, etc.)—sometimes this is called a work simulation.
 *	Interview
 
-Details on [rating procedures can be found in the DEO Handbook](https://www.opm.gov/policy-data-oversight/hiring-information/competitive-hiring/deo_handbook.pdf).
+Details on [rating procedures can be found in the DEO Handbook](https://www.opm.gov/policy-data-oversight/hiring-information/competitive-hiring/deo_handbook.pdf){:target="\_blank"}.
 
 
 <div class="usajobs-recruitment-joa-playbook-details__container">
 <div class="usajobs-recruitment-joa-playbook-details__do">
   <h4><span class="fa fa-check"></span> Do</h4>
   * Always include the suggested text as the lead-in sentence.
-  * Include each type of evaluation criteria you’re using — be specific.
+  * Include each type of evaluation criteria you’re using—be specific.
   * Explain any additional documents the applicant needs to provide.
   * Explain any assessment the applicant will need to complete.
   * Include whether they’ll need to complete an in-person interview.
@@ -58,9 +58,9 @@ Details on [rating procedures can be found in the DEO Handbook](https://www.opm.
 </div>
 <div class="usajobs-recruitment-joa-playbook-details__do-not">
   <h4><span class="fa fa-times"></span> Do Not</h4>
-  * Include additional qualifications that were not already mentioned in the **Qualifications** section. All qualifications NEED to be listed in the **Qualifications** section.
+  * Include additional qualifications. List all in the **Qualifications** section.
   * Duplicate this information in **How to apply**.
-  * Describe any information that can be found elsewhere in the job announcement or linked to a page or document outside of the announcement.
+  * Describe any information that belongs elsewhere in the job announcement or linked outside of the announcement.
 </div>
 </div>
 
@@ -70,19 +70,16 @@ This describes additional assessments the applicant will need to participate in 
 
 This may include:
 
-*	Work-related assessment - give the applicant a sample job task or scenario and ask them how they would complete it.
-*	Written assessment - the applicant provides a writing sample.
-*	[Other assessment methods](https://www.opm.gov/policy-data-oversight/assessment-and-selection/other-assessment-methods/assessment-method-considerations/).
+*	Work-related assessment—give the applicant a sample job task or scenario and ask them how they would complete it.
+*	Written assessment—the applicant provides a writing sample.
+*	[Other assessment methods](https://www.opm.gov/policy-data-oversight/assessment-and-selection/other-assessment-methods/assessment-method-considerations/){:target="\_blank"}.
 
 <div class="usajobs-recruitment-joa-playbook-details__suggested-text">
-  <h5>Suggested text - Use this text as the first sentence in this section:</h5>
-  <p>“You will be evaluated for this job based on: 
-<ul>
-<li>The experience listed in your resume and whether your experience and skills match what we’re looking for.</li>
-  <li>A work-related assessment—we’ll give you a sample job task that you need to complete.</li>
-  <li>An in-person interview."</li>
-  </ul>
-  </p>
+  Use this text as the first sentence in this section:
+  You will be evaluated for this job based on: 
+  * The experience listed in your resume and whether your experience and skills match what we’re looking for.</li>
+  * A work-related assessment—we’ll give you a sample job task that you need to complete.</li>
+  * An in-person interview.
 </div>
 
 
@@ -94,7 +91,7 @@ Each agency defines what the categories of rating are for their applicants. You 
 <h5>Suggested text for category rating</h5>
 *	Best Qualified: An applicant who demonstrates a superior level of all evaluation criteria.
 *	Well-Qualified: An applicant who demonstrates a satisfactory level of the evaluation criteria.
-*	Qualified: An applicant who demonstrates the basic qualifications, with general knowledge, skills, and abilities.
+*	Minimally Qualified: An applicant who demonstrates the basic qualifications, with general knowledge, skills and abilities.
 </div>
 
 <div class="usajobs-recruitment-joa-playbook-details__container">
@@ -104,7 +101,7 @@ Each agency defines what the categories of rating are for their applicants. You 
 </div>
 <div class="usajobs-recruitment-joa-playbook-details__do-not">
   <h4><span class="fa fa-times"></span> Do Not</h4>
-  * Repeat or include additional qualifications — this section is only to describe rating categories.
+  * Repeat or include additional qualifications—this section is only to describe rating categories.
 </div>
 </div>
 
