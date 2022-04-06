@@ -17,8 +17,8 @@ Here are two tips on how to embed videos for display:
 
 ### Example 
 
-* For our job announcement, we want to add [this vide](a href="https://www.youtube.com/watch?v=Gih8-cwTCQU/){:target="\_blank"}. To get the correct URL, click the share icon, and then click the embed option. This shows us the full embed information for that video, but we only need to copy [the embed code](https://www.youtube.com/embed/Gih8-cwTCQU/){:target="\_blank"} and paste that into the video section of our job announcement. 
-* When the job gets posted, potential applicants can watch the video without leaving the job announcement. As you’ll notice, the specific code for our video does not change, so if desired, you can simply use the beginning URL portion of [https://www.youtube.com/embed/](https://www.youtube.com/embed/){:target="\_blank"} and then add the specific code for your video. 
+* For our job announcement, we want to add [this video](a href="https://www.youtube.com/embed/Gih8-cwTCQU/){:target="\_blank"}. To get the correct URL, click the share icon, and then click the embed option. This shows us the full embed information for that video, but we only need to copy the embed code and paste that into the video section of our job announcement. 
+* When the job gets posted, potential applicants can watch the video without leaving the job announcement. As you’ll notice, the specific code for our video does not change, so if desired, you can simply use the beginning URL portion of https://www.youtube.com/embed/ and then add the specific code for your video. 
 
 <div class="usajobs-recruitment-joa-playbook-details__container">
 <div class="usajobs-recruitment-joa-playbook-details__required-by-usajobs">
