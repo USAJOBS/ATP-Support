@@ -5,7 +5,7 @@ category: requirements
 title: Conditions of Employment
 sidenav: conditions-of-employment
 lead: Conditions of employment lists requirements the job seeker must have or agree to before or after accepting the job.
-current-fields: ["Bargaining unit position", "Direct deposit", "Driver's license", "E-verify", "Financial disclosure report", "Financial interest regulation", "Firearm", "Government charge card", "Licensure", "Mobility agreement",  "Physical", "PIV process", "Proof of citizenship", "REcruitment incentive", "Background check" ]
+current-fields: ["Bargaining unit position", "Direct deposit", "Driver’s license", "E-verify", "Financial disclosure report", "Financial interest regulation", "Firearm", "Government charge card", "Licensure", "Mobility agreement",  "Physical fitness requirements", "Personal identify verification (PIV) process", "Proof of citizenship", "Recruitment incentive", "Background check" ]
 ---
 
 This section will:
@@ -575,7 +575,7 @@ You may qualify for a recruitment incentive.
 </div>
 
 ### Background check
-Indicates the level of background check necessary for the job.  The value in this field will always link to the [USAJOBS Help Center page on security clearances] (https://www.usajobs.gov/Help/faq/job-announcement/security-clearances/){:target="\_blank"}.
+Indicates the level of background check necessary for the job. The value in this field will always link to the [USAJOBS Help Center page on security clearances] (https://www.usajobs.gov/Help/faq/job-announcement/security-clearances/){:target="\_blank"}.
 
 <div class="usajobs-recruitment-joa-playbook-details__container">
 <div class="usajobs-recruitment-joa-playbook-details__required-by-usajobs">
