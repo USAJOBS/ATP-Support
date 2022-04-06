@@ -29,7 +29,7 @@ Lists the duties the applicant is expected to perform.
   * Use the position description and job analysis to help write the duties.
   * List each duty as a separate bullet.
   * Describe the day-to-day responsibilities of the job—be specific and include typical projects, resources or technologies that the job seeker will use.
-  * Prioritize the duties — put the most important duties first.
+  * Prioritize the duties—put the most important duties first.
   * Use action verbs to start each bullet, such as “lead” or “manage”. Refer to the [Plainlanguage.gov](http://www.plainlanguage.gov/){:target="\_blank"} list of simple words and phrases.
   * Use language the job seeker knows and be concise—simpler is better!
   * Avoid internal jargon and acronyms—if an acronym is necessary, spell it out the first time it’s used.

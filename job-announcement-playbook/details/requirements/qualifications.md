@@ -39,7 +39,7 @@ This section will automatically use a bulleted list format for each qualificatio
 * Write like you’re speaking to the job seeker.
   * Use language the job seeker knows—simpler is better! Refer to the [Plainlanguage.gov](http://www.plainlanguage.gov/){:target="\_blank"} list of simple words and phrases.
   * Use the active voice—the active voice is concise, direct and makes the content easy to understand. An active voice sentence follows this order: subject + verb + object.
-  * Use pronouns (i.e. address the audience as “you”, “your”) – this helps personalize the experience.
+  * Use pronouns (i.e. address the audience as “you”, “your”)—this helps personalize the experience.
   * Avoid internal jargon and acronyms—if an acronym is necessary, spell it out the first time you use it. 
   * Use "must" instead of "shall" when qualifications are required. For example, "You must have at least one year of experience.".
 
