@@ -29,7 +29,7 @@ current-fields: ["Learn more about this agency link"]
 </div>
 <div class="usajobs-recruitment-joa-playbook-details__do-not">
   <h4><span class="fa fa-times"></span> Do Not</h4>
-  * Use the job summary to discuss the mission statement of the agency. Agencies may now use the [Learn more about this agency link] to convey details about the agency and link to your careers page.
+  * Use the job summary to discuss the mission statement of the agency. Agencies may now use the **Learn more about this agency link** to convey details about the agency and link to your careers page.
   * Use dehumanizing terms like “incumbent” or “candidate”.
   * Repeat other sections of the job announcement in the summary section (who may apply, et. al.). Duplicating information does not emphasize that information but clutters the announcement. Duplicated information confuses and overwhelms job seekers.
   * Center paragraphs or provide HTML formatting. This negatively impacts the readability of the job announcement.
