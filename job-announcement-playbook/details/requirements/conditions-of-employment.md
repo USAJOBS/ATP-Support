@@ -54,7 +54,7 @@ Tells the job seeker if the job falls under union representation.
 
 If the job position falls under union representation, we strongly encourage agencies to review and implement the mandated [Executive Order 14025](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/04/26/executive-order-on-worker-organizing-and-empowerment/){:target="\_blank"}.  
 
-We've created a page in our Help Center to that gives more information: [What are bargaining units?](https://www.usajobs.gov/Help/faq/job-announcement/bargaining-units/)
+We've created a page in our Help Center to that gives more information: [What are bargaining units?](https://www.usajobs.gov/Help/faq/job-announcement/bargaining-units/){:target="\_blank"}
 
 <div class="usajobs-recruitment-joa-playbook-details__container">
 <div class="usajobs-recruitment-joa-playbook-details__required-by-usajobs">
@@ -69,7 +69,7 @@ We've created a page in our Help Center to that gives more information: [What ar
 
 <div class="usajobs-recruitment-joa-playbook-details__suggested-text">
 <h5>Suggested text</h5>
-This is a <a href="https://www.usajobs.gov/Help/faq/job-announcement/bargaining-units/">bargaining unit position</a>. This position is represented by the (insert union name), (insert local or chapter number). 
+This is a [bargaining unit position](https://www.usajobs.gov/Help/faq/job-announcement/bargaining-units/){:target="\_blank"}. This position is represented by the (insert union name), (insert local or chapter number). 
 
 OR 
 
@@ -183,7 +183,7 @@ Tells the job seeker that the hiring agency will use the E-Verify system to chec
 
 <div class="usajobs-recruitment-joa-playbook-details__suggested-text">
 <h5>Suggested text</h5>
-Successfully pass the E-Verify employment verification check. To learn more about E-Verify, including your rights and responsibilities, visit <a href="http://www.dhs.gov/E-Verify/">www.dhs.gov/E-Verify/</a>.
+Successfully pass the E-Verify employment verification check. To learn more about E-Verify, including your rights and responsibilities, visit [www.dhs.gov/E-Verify/](http://www.dhs.gov/E-Verify/){:target="\_blank"}.
 </div>
 
 <div class="usajobs-recruitment-joa-playbook-details__container">
@@ -575,7 +575,7 @@ You may qualify for a recruitment incentive.
 </div>
 
 ### Background check
-Indicates the level of background check necessary for the job. The value in this field will always link to the  [USAJOBS Help Center page on security clearances](https://www.usajobs.gov/Help/faq/job-announcement/security-clearances/){:target="\_blank"}.
+Indicates the level of background check necessary for the job. The value in this field will always link to the [USAJOBS Help Center page on security clearances](https://www.usajobs.gov/Help/faq/job-announcement/security-clearances/){:target="\_blank"}.
 
 
 
