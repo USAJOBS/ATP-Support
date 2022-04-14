@@ -25,8 +25,6 @@ Hiring paths help **staffing specialists**:
   <li>Reduce applicants applying for jobs for which they are ineligible, saving time for both applicants and staffing professionals.</li>
   </ul>
   
-  ## Hiring path key
-  
   This job is open to:
   
   {: .usajobs-recruitment-joa-playbook-details__table}
@@ -138,7 +136,7 @@ This chart describes which Hiring paths to use in specific hiring scenarios. It'
 | Vacancies using a student program for hiring | Students, Recent graduates | None | Use the **Clarification from the agency** section to indicate which student hiring authority you are using | None | 
 | Vacancies within the Senior Executive Service | Senior executive, Open to the public | None | Either the **Senior executive** or **Open to the public** hiring path can be used. There is no requirement to use both.  | None | 
 | Vacancies within Federal employees—excepted service | Open to the public | None | Check with your agency's policy for additional eligibilites. | None |
-| Vacancies using Indian preference | Native Americans, Open to the public | None | With Indian Preference, candidates may receive preference over non-Indian applicants when applying to jobs with the <a href="https://www.ihs.gov/" target="_blank">Indian Health Service</a> and <a href="https://www.bia.gov/" target="_blank">Indian Affairs</a> (including the Bureau of Indian Affairs, the Bureau of Indian Education, and some positions within the office of the assistant secretary—Indian affairs).</p> <p>Preference is given to qualified Indian candidates in accordance with the Indian Reorganization Act of 1934 (Title 25, USC, Section 472). If applicants claim Indian preference, they must submit <a href="https://www.usajobs.gov/Help/working-in-government/unique-hiring-paths/native-americans/#required-documents" target="_blank">Form BIA 4432 Verification of Indian Preference</a> with their application. Those eligible for Indian preference, but not currently employed in federal service may be appointed under the Excepted Service Appointment Authority Schedule A, 213.3112(a)(7). Non-Indian applicants are considered if there are no qualified applicants eligible for Indian Preference.</p> | None |
+| Vacancies using Indian preference | Native Americans, Open to the public | None | With Indian Preference, candidates may receive preference over non-Indian applicants when applying to jobs with the <a href="https://www.ihs.gov/" target="_blank">Indian Health Service</a> and <a href="https://www.bia.gov/" target="_blank">Indian Affairs</a> (including the Bureau of Indian Affairs, the Bureau of Indian Education, and some positions within the office of the assistant secretary—Indian affairs). Preference is given to qualified Indian candidates in accordance with the Indian Reorganization Act of 1934 (Title 25, USC, Section 472). If applicants claim Indian preference, they must submit <a href="https://www.usajobs.gov/Help/working-in-government/unique-hiring-paths/native-americans/#required-documents" target="_blank">Form BIA 4432 Verification of Indian Preference</a> with their application. Those eligible for Indian preference, but not currently employed in federal service may be appointed under the Excepted Service Appointment Authority Schedule A, 213.3112(a)(7). Non-Indian applicants are considered if there are no qualified applicants eligible for Indian Preference. | None |
 
 ## Second announcement
 
