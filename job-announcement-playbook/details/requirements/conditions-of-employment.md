@@ -575,9 +575,8 @@ You may qualify for a recruitment incentive.
 </div>
 
 ### Background check
+
 Indicates the level of background check necessary for the job. The value in this field will always link to the [USAJOBS Help Center page on security clearances](https://www.usajobs.gov/Help/faq/job-announcement/security-clearances/){:target="\_blank"}.
-
-
 
 <div class="usajobs-recruitment-joa-playbook-details__container">
 <div class="usajobs-recruitment-joa-playbook-details__required-by-usajobs">
