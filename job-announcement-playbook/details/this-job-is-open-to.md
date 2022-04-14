@@ -27,7 +27,7 @@ Hiring paths help **staffing specialists**:
   
   This job is open to:
   
-  {: .usajobs-recruitment-joa-playbook-details__table}
+  
 | Hiring path                 | Description |
 | ----------------------------- | --------------------- |
 | The public | If you’re a U.S. citizen, national or owe allegiance to the United States, you can apply to jobs that are open to the public. |
