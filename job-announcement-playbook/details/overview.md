@@ -5,7 +5,7 @@ category: details
 title: Overview
 sidenav: overview
 lead: The overview section is in the right-hand rail and gives an at-a-glance view of the job. This information appears on the search results card and entices a job seeker to open the job announcement.
-current-fields: ["Actions", "Job status", "Announcement closing type", "Open and closing dates", "Application cut-off", "Open continuous", "Salary", "Pay scale and grade", "Location(s)", "Vacancies", "Location within area",  "Telework eligible", "Travel required", "Relocation expenses reimbursed", "Appointment type", "Work schedule", "Service", "Promotional potential", "Job family", "Supervisory status", "Security clearance", "Drug test", "Position sensitivity and risk", "Trust determination process", "Job announcement number", "Control number" ]
+current-fields: ["Actions", "Job status", "Announcement closing type", "Open and closing dates", "Application cut-off", "Open continuous", "Salary", "Pay scale and grade", "Location", "Vacancies", "Location within area",  "Telework eligible", "Travel required", "Relocation expenses reimbursed", "Appointment type", "Work schedule", "Service", "Promotional potential", "Job family", "Supervisory status", "Security clearance", "Drug test", "Position sensitivity and risk", "Trust determination process", "Job announcement number", "Control number" ]
 ---
 ## Actions 
 
@@ -157,7 +157,7 @@ Describes the grade level and pay scale that the job falls under.
 </div>
 </div>
 
-## Location(s) 
+## Location 
 
 Indicates the street address (if provided), city and state of the work location. 
 

@@ -20,7 +20,7 @@ This section will end in the following set of information when [Education requir
   alt="Required Documents disclaimers v6.6 example"></amp-img>
 </div>
 
-The <a href="https://www.ed.gov/">link in this section goes to schools accredited by accrediting institutions recognized by the U.S. Department of Education</a>.. 
+The link in this section goes to a [list schools accredited by accrediting institutions recognized by the U.S. Department of Education](https://www.ed.gov/){:target="\_blank"}. 
 
 ## Documents to file
 
