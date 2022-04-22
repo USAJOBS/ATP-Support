@@ -1,4 +1,4 @@
-ssource 'https://rubygems.org'
+source 'https://rubygems.org'
 
 gem 'nokogiri', '~> 1.13', '>= 1.13.4'
 gem 'github-pages', '~> 226'
