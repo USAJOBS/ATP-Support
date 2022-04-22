@@ -1,7 +1,9 @@
-source "http://rubygems.org"
+source 'https://rubygems.org'
 
+
+gem 'nokogiri', '~> 1.13', '>= 1.13.4'
+gem 'github-pages', '~> 226'
 gem 'rouge'
 gem 'html-proofer'
-gem 'jekyll-sitemap'
-gem 'jekyll-redirect-from'
-
+gem 'bourbon'
+gem 'neat'
