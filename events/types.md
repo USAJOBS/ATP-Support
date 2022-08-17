@@ -1,5 +1,5 @@
 ---
-permalink: events/create
+permalink: events/types
 layout: article
 section: events
 category: events
