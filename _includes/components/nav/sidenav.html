@@ -123,6 +123,26 @@
             What is a list?
           </a>
         </li>
+	 <li>
+          <a {% if page.sidenav == 'campaigns-messaging' %}class="usa-current"{% endif %} href="{{ '/campaigns/messaging' | relative_url }}">
+            What is the messaging feature?
+          </a>
+        </li> 
+	<li>
+          <a {% if page.sidenav == 'campaigns-create-message' %}class="usa-current"{% endif %} href="{{ '/campaigns/create-message' | relative_url }}">
+            How do I create and send a message?
+          </a>
+        </li>
+	<li>
+          <a {% if page.sidenav == 'campaigns-see-messages' %}class="usa-current"{% endif %} href="{{ '/campaigns/see-messages' | relative_url }}">
+            How do I see my messages?
+          </a>
+        </li>       
+	<li>
+          <a {% if page.sidenav == 'campaigns-who-can-I-message' %}class="usa-current"{% endif %} href="{{ '/campaigns/who-can-I-message' | relative_url }}">
+            Who can I message?
+          </a>
+        </li>       
       </ul>
     {% endif %}
     {% if page.section == 'events' %}
@@ -135,16 +155,36 @@
             What are events?
           </a>
         </li>
+	 <li>
+          <a {% if page.sidenav == 'events-types' %}class="usa-current"{% endif %} href="{{ '/events/types' | relative_url }}">
+            What types of events can I create and post on USAJOBS?
+          </a>
+        </li>       
         <li>
           <a {% if page.sidenav == 'events-create' %}class="usa-current"{% endif %} href="{{ '/events/create' | relative_url }}">
-            How to create an event
+            How to create and post an event
           </a>
         </li>
         <li>
           <a {% if page.sidenav == 'events-approves' %}class="usa-current"{% endif %} href="{{ '/events/approves' | relative_url }}">
-            Who approves events and what is the process?
+            How long does it take to approve and post an event?
           </a>
         </li>
+	 <li>
+          <a {% if page.sidenav == 'events-who-can-create' %}class="usa-current"{% endif %} href="{{ '/events/who-can-create' | relative_url }}">
+            Who can create and post events on USAJOBS?
+          </a>
+        </li> 
+	<li>
+          <a {% if page.sidenav == 'events-why-use' %}class="usa-current"{% endif %} href="{{ '/events/why-use' | relative_url }}">
+            Why should I use events?
+          </a>
+        </li>      
+	<li>
+          <a {% if page.sidenav == 'events-social-media' %}class="usa-current"{% endif %} href="{{ '/events/social-media' | relative_url }}">
+            Can my event be posted on USAJOBS social media?
+          </a>
+        </li>      
       </ul>
     {% endif %}
     {% if page.section == 'search-resumes' %}
