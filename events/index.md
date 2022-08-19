@@ -7,9 +7,9 @@ sidenav: events
 title: What are events?
 ---
 
-A recruitment event, such as a job fair, career expo, career fair, or hiring event, is held by employers, schools, or recruiters and offers on-the-spot interviews and information about the employer or job to interested job seekers.
+A recruitment event, such as a job fair, career expo, career fair, or hiring event, is held by employers, schools or recruiters and offers on-the-spot interviews and information about the employer or job to interested job seekers.
 
-You can use the event feature in ATP to advertise job fairs, hiring workshops and other career-related events on USAJOBS. 
+You can use the event feature in ATP to advertise recruitment and other career-related events on USAJOBS. 
 
 ### What kind of events can I create?
 
