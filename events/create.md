@@ -7,8 +7,6 @@ sidenav: events-create
 title: How to create and post an event
 ---
 
-You can use the event feature in ATP to create and post an event on USAJOBS. 
-
 Before you create an event, make sure you get approval for the event from your agencies HR department. The USAJOBS Program Office must also approve the event before it is published. 
 
 ## What do I need to include in an event?
@@ -18,9 +16,12 @@ Your event must include the following information:
 * Time (including time zone) 
 * Location (if in person) 
 * Meeting link (if virtual) 
+  
   * The meeting link must go to an event registration page or a virtual meeting invitation. You can link to Microsoft Teams, Zoom, Skype, etc. 
   * Do not use the meeting link to go to your USAJOBS job announcement.  
+
 * Event description
+  
   * Describe what the participants can expect during the event and how participants can prepare for the event (e.g., documents to bring, time allotted for event activities, etc.).  
 
 ### How do I create an event?
@@ -42,6 +43,7 @@ Your event must include the following information:
 15. Click **Save & continue** and include a **Series** or select **Hiring paths** if you want to target your event to a specific audience.
 16. Click **Save & continue** to preview your event—check for spelling and make sure any links work.
 17. Click **Submit**—a USAJOBS administrator will review your event.
+
 
 ### Can I edit my event after it has already been approved?
 
