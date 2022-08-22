@@ -13,7 +13,7 @@ You can send a message to:
 * All candidates in a list within your campaign.
 * Individual candidates within your campaign.
 
-Learn how to create and send a message.
+<a href="create-message">Learn how to create and send a message</a>.
 
 ## Is there a limit to how many messages I can send?
 No, there is no limit to the number of messages you can send.  We recommend you only message candidates as needed, to avoid appearing as spam.
