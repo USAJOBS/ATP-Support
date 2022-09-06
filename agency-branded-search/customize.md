@@ -12,3 +12,7 @@ You can include a banner that will appear at the top of your agency-branded sear
 ## What size should the banner be? 
 
 The banner must be a .jpg, .png, .gif, or .webp with a maximum image height is 250px or 125px if made in Illustrator. There is no recommended width, however standard resolution is 1366px. 
+
+## Can I imbed a video into the agency-branded search page? 
+
+Imbedding videos is currently not available, but we may consider this for a future enhancement.  
