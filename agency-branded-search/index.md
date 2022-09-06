@@ -11,3 +11,6 @@ An agency-branded search page is a customizable job search page that lists only 
 
 With an agency-branded search page, you can tailor the USAJOBS search feature by selecting and predefining the search filters that matter most to your agency's hiring needs.
 
+## Can my agency have more than one agency-branded search page? 
+
+Yes. Agencies can have many agency-branded search pages with their own unique URL. We recommend you only create an agency-branded search page if it will regularly have jobs appear on the page.
