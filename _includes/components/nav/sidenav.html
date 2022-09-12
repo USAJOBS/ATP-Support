@@ -29,7 +29,7 @@
             Which web browsers work best with ATP?
           </a>
         </li>
-        
+       
       </ul>
     {% endif %}
     {% if page.section == 'account' %}
@@ -57,7 +57,6 @@
 	            How to update the email associated with your account
 	          </a>
 	        </li>
-
         <li>
           <a {% if page.sidenav == 'account-what-is-the-aup' %}class="usa-current"{% endif %} href="{{ '/account/what-is-the-aup' | relative_url }}">
             What is the acceptable use policy (AUP)?
@@ -85,8 +84,72 @@
             What are the different roles in ATP?
           </a>
         </li>
-      
       </ul>
+	{% endif %}
+	    {% if page.section == 'agency-branded-search' %}
+	      <h3 class="usajobs-openopps-help-center-article-sidenav__title">
+	Agency branded search
+	      </h3>
+	      <ul class="usa-sidenav-list">
+	        <li>
+	          <a {% if page.sidenav == 'agency-branded-search' %}class="usa-current"{% endif %} href="{{ '/agency-branded-search' | relative_url }}">
+	            What is an agency-branded search page?
+	          </a>
+	        </li>
+	        <li>
+	          <a {% if page.sidenav == 'agency-branded-search-cost' %}class="usa-current"{% endif %} href="{{ '/agency-branded-search/cost' | relative_url }}">
+	            Is there an additional cost to create an agency-branded search page?
+	          </a>
+	        </li>
+	        <li>
+	          <a {% if page.sidenav == 'agency-branded-search-cpdf-code' %}class="usa-current"{% endif %} href="{{ '/agency-branded-search/cpdf-code' | relative_url }}">
+	            What is a CPDF code?
+	          </a>
+	        </li>
+	        <li>
+	          <a {% if page.sidenav == 'agency-branded-search-create' %}class="usa-current"{% endif %} href="{{ '/agency-branded-search/create' | relative_url }}">
+	            How to create an agency-branded search page
+	          </a>
+	        </li>
+	        <li>
+	          <a {% if page.sidenav == 'agency-branded-search-customize' %}class="usa-current"{% endif %} href="{{ '/agency-branded-search/customize' | relative_url }}">
+	            How can I customize my agency’s branded search page?
+	          </a>
+	        </li>
+	        <li>
+	          <a {% if page.sidenav == 'agency-branded-search-data' %}class="usa-current"{% endif %} href="{{ '/agency-branded-search/data' | relative_url }}">
+	            Is there data available on the number of visitors or similar traffic to the agency-branded search page?
+	          </a>
+	        </li>
+		 <li>
+	          <a {% if page.sidenav == 'agency-branded-search-delete-url' %}class="usa-current"{% endif %} href="{{ '/agency-branded-search/delete-url' | relative_url }}">
+	            Can I delete or remove the agency-branded search URL?
+	          </a>
+	        </li> 
+		<li>
+	          <a {% if page.sidenav == 'agency-branded-search-filters' %}class="usa-current"{% endif %} href="{{ '/agency-branded-search/filters' | relative_url }}">
+	            How do filters work?
+	          </a>
+	        </li>
+		<li>
+	          <a {% if page.sidenav == 'agency-branded-search-how-to-find' %}class="usa-current"{% endif %} href="{{ '/agency-branded-search/how-to-find' | relative_url }}">
+	            How do job seekers find agency-branded search pages?
+	          </a>
+	        </li>       
+		<li>
+	          <a {% if page.sidenav == 'agency-branded-search-update-old-template' %}class="usa-current"{% endif %} href="{{ '/agency-branded-search/update-old-template' | relative_url }}">
+	            What if my agency has an agency-branded search page using the old template?
+	          </a>
+		<li>
+	          <a {% if page.sidenav == 'agency-branded-search-who-can-create' %}class="usa-current"{% endif %} href="{{ '/agency-branded-search/who-can-create' | relative_url }}">
+	            Who can create or edit agency-branded search pages?
+	          </a>
+		<li>
+	          <a {% if page.sidenav == 'agency-branded-search-why-create' %}class="usa-current"{% endif %} href="{{ '/agency-branded-search/why-create' | relative_url }}">
+	            Why create an agency branded search page?
+	          </a>
+	        </li>
+	</ul>
     {% endif %}
     {% if page.section == 'campaigns' %}
       <h3 class="usajobs-openopps-help-center-article-sidenav__title">
