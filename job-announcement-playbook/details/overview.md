@@ -172,6 +172,23 @@ Indicates the street address (if provided), city and state of the work location.
 </div>
 </div>
 
+### Remote jobs
+
+Indicates if the applicant is not expected to report to an official agency worksite regularly. Instead, the applicant will work their home or other alternative worksite in or outside of the commuting area of an agency’s official worksite.  
+
+Remote jobs will have a location of Anywhere in the U.S. (remote job). 
+
+<div class="usajobs-recruitment-joa-playbook-details__container">
+<div class="usajobs-recruitment-joa-playbook-details__required-by-usajobs">
+  <h4>Required by USAJOBS</h4>
+  <p>Yes, if applicable.</p>
+</div>
+<div class="usajobs-recruitment-joa-playbook-details__required-by-policy">
+  <h4>Required by policy</h4>
+  <p>Yes, if applicable.</p>
+</div>
+</div>
+
 ### Vacancies 
 
 Indicates the number of vacancies at that location or the total number of vacancies across all locations. 
