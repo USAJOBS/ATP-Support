@@ -5,7 +5,7 @@ category: details
 title: Header
 sidenav: header
 lead: The header is at the top of the page and includes the job title, as well as the department and agency posting the job.
-current-fields: ["Job title", " Agency name ", " Department name", " Agency sub-element name" ]
+current-fields: ["Job title", "Department name", "Agency name", "Agency sub-element name" ]
 ---
 
 ## Job title
@@ -44,9 +44,9 @@ The job title is the first thing a job seeker will see in the search results. Ma
 
 <div class="usajobs-recruitment-joa-playbook-details__container">
 <div class="usajobs-recruitment-joa-playbook-details__do">
-  <h4>Office of Personnel Management (OPM) Policy</h4>
+  <h4>Office of Personnel Management (OPM) policy</h4>
   <p>
-    Organizational and functional titles do not replace official position titles, they complement them. Agencies may establish organizational and functional titles for internal administration, program management, or similar purposes.
+    Organizational and functional titles do not replace official position titles, they complement them. Agencies may establish organizational and functional titles for internal administration, program management or similar purposes.
   </p>
   <p>
     Examples of organizational titles are branch chief or division chief. Examples of functional titles are chief of network management and director of policy development.
@@ -58,7 +58,7 @@ The job title is the first thing a job seeker will see in the search results. Ma
     If job seekers don’t understand the job title, they are less likely to read the job announcement. For example, job titles that use grade levels or series numbers are confusing and can be misleading.
   </p>
   <p>
-    Job announcements should include a job title that best describes the position, attracts candidates, and makes the job easier to find. For example, titling a job “Java Developer” instead of “APPSW” makes it easier for job seekers to understand.
+    Job announcements should include a job title that best describes the position, attracts candidates and makes the job easier to find. For example, titling a job java developer instead of APPSW makes it easier for job seekers to understand.
   </p>
 </div>
 </div>
@@ -85,7 +85,7 @@ The department name is purely informational. Many of those new to government do 
 
 The name of the agency that is posting the job announcement.
 
-Clicking [Learn more about this agency](../how-to-apply#agency-contact-information){:target="\_blank"} shows the job seeker additional information including the agency details text and the agency careers page URL, as well as the agency contact information for this announcement.
+Clicking [Learn more about this agency](../how-to-apply#agency-contact-information) shows the job seeker additional information including the agency details text and the agency careers page URL, as well as the agency contact information for this announcement.
 
 <div class="usajobs-recruitment-joa-playbook-details__container">
 <div class="usajobs-recruitment-joa-playbook-details__required-by-usajobs">

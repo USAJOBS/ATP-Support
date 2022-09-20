@@ -174,7 +174,7 @@ Indicates the street address (if provided), city and state of the work location.
 
 ### Remote jobs
 
-Indicates if the applicant is not expected to report to an official agency worksite regularly. Instead, the applicant will work their home or other alternative worksite in or outside of the commuting area of an agency’s official worksite.  
+Indicates if the applicant is not expected to report to an official agency worksite regularly. Instead, the applicant will work from their home or other alternative worksite in or outside of the commuting area of an agency’s official worksite.  
 
 Remote jobs will have a location of Anywhere in the U.S. (remote job). 
 
