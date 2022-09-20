@@ -5,7 +5,7 @@ category: details
 title: Header
 sidenav: header
 lead: The header is at the top of the page and includes the job title, as well as the department and agency posting the job.
-current-fields: ["Job title", " Agency name ", " Department name", " Agency sub-element name" ]
+current-fields: ["Job title", "Department name", "Agency name", "Agency sub-element name" ]
 ---
 
 ## Job title
