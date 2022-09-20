@@ -85,7 +85,7 @@ The department name is purely informational. Many of those new to government do 
 
 The name of the agency that is posting the job announcement.
 
-Clicking [Learn more about this agency](../how-to-apply#agency-contact-information){:target="\_blank"} shows the job seeker additional information including the agency details text and the agency careers page URL, as well as the agency contact information for this announcement.
+Clicking [Learn more about this agency](../how-to-apply#agency-contact-information) shows the job seeker additional information including the agency details text and the agency careers page URL, as well as the agency contact information for this announcement.
 
 <div class="usajobs-recruitment-joa-playbook-details__container">
 <div class="usajobs-recruitment-joa-playbook-details__required-by-usajobs">
