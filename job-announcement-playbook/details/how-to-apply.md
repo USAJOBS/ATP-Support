@@ -52,9 +52,15 @@ Tells the job seeker how they can submit their application by fax.
 
 Tells the job seeker that the agency has the flexibility to hire additional people beyond the number of vacancies listed in the **Locations** section from the pool of applicants to this announcement. 
 
+#### Competitive Service Act (CSA)  
+
+The CSA allows an agency to share a competitive certificate issued under delegated examining procedures with other agencies to hire for a permanent or term position that is in the same occupational series, grade level (or equivalent), full performance level and duty location during the 240-day period beginning on the date that the originating agency issued the certificate of eligibles; not the date when the originating agency issued the certificate to the receiving agency.  
+
+Job announcements used for this purpose must include the following language to take advantage of the CSA guidelines. 
+
 <div class="usajobs-recruitment-joa-playbook-details__suggested-text">
 <h5>Suggested text</h5>
-We may fill multiple positions from this announcement. 
+After we select a candidate, we may share the remaining list of qualified candidates with other federal agencies. You can opt-in if you want us to share your name, application material and assessment results for similar jobs with other agencies. There is no guarantee of further consideration, and you can continue to explore and apply to other job announcements. 
 </div>
 
 <div class="usajobs-recruitment-joa-playbook-details__myth">
