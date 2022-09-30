@@ -59,7 +59,7 @@ The CSA allows an agency to share a competitive certificate issued under delegat
 Job announcements used for this purpose must include the following language to take advantage of the CSA guidelines. 
 
 <div class="usajobs-recruitment-joa-playbook-details__suggested-text">
-<h5>Suggested text</h5>
+<h5>Required text</h5>
 After we select a candidate, we may share the remaining list of qualified candidates with other federal agencies. You can opt-in if you want us to share your name, application material and assessment results for similar jobs with other agencies. There is no guarantee of further consideration, and you can continue to explore and apply to other job announcements. 
 </div>
 
