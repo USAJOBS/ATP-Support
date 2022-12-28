@@ -1,9 +1,9 @@
 ---
 permalink: agency-branded-search/create
 layout: article
-section: agency-branded-search
-category: agency-branded-search
-sidenav: agency-branded-search-create
+section: branded-search
+category: branded-search
+sidenav: branded-search-create
 title: How to create a branded search page
 ---
 
