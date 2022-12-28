@@ -1,9 +1,9 @@
 ---
 permalink: agency-branded-search/
 layout: article
-section: agency-branded-search
-category: agency-branded-search
-sidenav: agency-branded-search
+section: branded-search
+category: branded-search
+sidenav: branded-search
 title: What is a branded search page?
 ---
 
