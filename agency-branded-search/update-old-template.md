@@ -1,9 +1,9 @@
 ---
 permalink: agency-branded-search/update-old-template
 layout: article
-section: agency-branded-search
-category: agency-branded-search
-sidenav: agency-branded-search-update-old-template
+section: branded-search
+category: branded-search
+sidenav: branded-search-update-old-template
 title: What if my agency has a branded search page using the old template?
 ---
 
