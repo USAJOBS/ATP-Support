@@ -1,9 +1,9 @@
 ---
 permalink: agency-branded-search/why-create
 layout: article
-section: agency-branded-search
-category: agency-branded-search
-sidenav: agency-branded-search-why-create
+section: branded-search
+category: branded-search
+sidenav: branded-search-why-create
 title: Why create a branded search page?
 ---
 
