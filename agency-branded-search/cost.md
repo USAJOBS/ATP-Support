@@ -1,9 +1,9 @@
 ---
 permalink: agency-branded-search/cost
 layout: article
-section: agency-branded-search
-category: agency-branded-search
-sidenav: agency-branded-search-cost
+section: branded-search
+category: branded-search
+sidenav: branded-search-cost
 title: Is there an additional cost to create a branded search page?
 ---
 
