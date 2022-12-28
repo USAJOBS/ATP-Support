@@ -1,9 +1,9 @@
 ---
 permalink: agency-branded-search/how-to-find
 layout: article
-section: agency-branded-search
-category: agency-branded-search
-sidenav: agency-branded-search-how-to-find
+section: branded-search
+category: branded-search
+sidenav: branded-search-how-to-find
 title: How do job seekers find branded search pages?
 ---
 
