@@ -1,9 +1,9 @@
 ---
 permalink: agency-branded-search/cpdf-code
 layout: article
-section: agency-branded-search
-category: agency-branded-search
-sidenav: agency-branded-search-cpdf-code
+section: branded-search
+category: branded-search
+sidenav: branded-search-cpdf-code
 title: What is a CPDF code?
 ---
 
