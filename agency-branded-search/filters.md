@@ -1,9 +1,9 @@
 ---
 permalink: agency-branded-search/filters
 layout: article
-section: agency-branded-search
-category: agency-branded-search
-sidenav: agency-branded-search-filters
+section: branded-search
+category: branded-search
+sidenav: branded-search-filters
 title: How do filters work?
 ---
 You can add filters to your branded search pages to let job seekers narrow the job results on the page. 
