@@ -1,9 +1,9 @@
 ---
 permalink: agency-branded-search/customize
 layout: article
-section: agency-branded-search
-category: agency-branded-search
-sidenav: agency-branded-search-customize
+section: branded-search
+category: branded-search
+sidenav: branded-search-customize
 title: How can I customize my branded search page?
 ---
 
