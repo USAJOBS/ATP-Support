@@ -7,16 +7,38 @@ sidenav: what-is-new
 title: What's new with ATP
 ---
 
+## Changes made February 3, 2023
+### Sitewide
+
+* Updated the footers for all system generated emails to be consistent.
+
+### Campaigns
+
+* Replaced the ellipsis icon in the heading with a **Campaign actions** button and drop down with links to the different actions a user can take within a campaign. 
+
+### Events
+
+* Updated the event creators’ email to include a link to contact the event creator.
+* Added functionality to automatically archive events in draft status beyond 30 days.
+
+### Agency Branded Search
+
+* Changed title from **Agency-branded Search** to **Branded Search**.
+
+### Search resume
+
+* Updated the resume search filters to include preferred work schedules and appointment types.
+
+
 ## Changes made November 29, 2021
-### Sitewide enhancements
-#### Manage users
+### Manage users
 
 * Added an alert that displays when a user tries to do a bulk action (taking the same action on multiple users – for example unlocking more than one user) without selecting anything.
 * Updated **Manage users** to continue showing the search bar when no search results are found. This will let a user continue their search from the same page.
 * Added an alert when a user unlocks a user’s account telling them an email has been sent.
 * Added an ellipsis at the end of long emails so they don’t overflow into the agency name within the candidate card.
 
-#### Search resume
+### Search resume
 
 * Updated the location **Search** to include two checkboxes: **Current** and **Desired**. The **Current** location search is based on a candidates’ current location. The **Desired** location search is based on a candidate’s desired work location.
   * The default will be **Current** location. 
@@ -28,7 +50,7 @@ title: What's new with ATP
   * The system will search by the zip code the candidate has in their USAJOBS profile.
   * If a user searches by a location that doesn't match to a longitude and latitude, the radius slider option will not display, and the system will search for an exact match based on the location name.
 
-#### Campaign
+### Campaigns
 
 * Updated the date format to MM/DD/YY. This new format will display for the created date and the last updated date.
 
@@ -39,7 +61,7 @@ title: What's new with ATP
 * Added the new statuses to the excel spreadsheet.
 * Updated the existing agency dropdowns to include agency acronyms. The user must include ( ) around the acronym. Example: (OPM) not OPM.
 
-#### Events
+### Events
 
 * Added an agency dropdown selector to the **Host Organization** field.
 
@@ -57,9 +79,8 @@ title: What's new with ATP
 
 
 ## Changes made October 1, 2021
-### Sitewide enhancements
 
-#### Manage users 
+### Manage users 
 
 * Added filters so an agency administrator can search by **user status**: Active, Account locked, Invited, Invited-expired, Access removed.
   * The filters will work as an “Or” and will update search results as each filter is selected.
@@ -69,7 +90,7 @@ title: What's new with ATP
 * Removed the status from the excel spreadsheet when a user exports to excel.
 * Added validation to make sure the email in a user’s profile is a valid government email. The validation will also check when a user updates their email. 
 
-#### Other updates
+### Other updates
 
 * Updated the new user flow—revised the heading **Change your password** to **Create your password**.
 
@@ -172,8 +193,7 @@ title: What's new with ATP
 * Added field validation to the **Invite new user** form for maximum character limit and missing required information.
 
 ## Changes made June 11, 2021
-### Sitewide enhancements
-#### Campaigns
+### Campaigns
 
 * Added a tooltip to the new **Team members** tab. When you click the **Team members** tab or the **Got it** button in the tooltip, the tooltip will disappear.
 * Top aligned the content in the candidate card to make it more visually appealing. 
@@ -186,7 +206,7 @@ title: What's new with ATP
 * Updated the title on the **Messaging** tab to say, “Activate this campaign to message candidates.”
 * Updated the button label to **Activate campaign**—on click the campaign will become active and you will go to the **Active** campaign listing. 
 
-#### Export file
+### Export file
 
 * Changed the field from “Role” to “ATP role” and added three new roles:
 
@@ -197,8 +217,7 @@ title: What's new with ATP
 If the user has selected any of these reasons, the field will show True, otherwise the field will show False.
 
 ## Changes made May 28, 2021
-### Sitewide enhancements
-#### Campaigns
+### Campaigns
 
 * Removed the **(+)** to add team members to a campaign and added the **Team Member** tab. Within this tab, the user can see all team members who are part of a campaign and add new team members.
 * Added a character count to the **Campaign title** field.
@@ -217,17 +236,18 @@ If the user has selected any of these reasons, the field will show True, otherwi
 * Updated the user flow for **Add to campaign**—the user will be sent to the candidate’s profile page on the candidate tab.
 * Removed the **Back to campaign** link when a user is in a candidate’s profile.
 * Locked the tabs in **Active** and **Inactive campaigns** when a user has multiple lists that require a horizontal scroll bar. This keeps the tabs visible throughout the user experience.
-#### Events
+
+### Events
 
 * Updated field validation in the **Associated job announcement(s)** field to check for a valid JOA control number.
 * Updated field validation for the **Event name** to check it is between 10 and 70 characters.
 
-#### Search resumes
+### Search resumes
 
 * Added yellow highlights to keywords in a PDF version of a resume.
 * Sectioned resumes into 3 equal parts and weighted those parts for a more accurate search result.
 
-#### My Account and authentication
+### My Account and authentication
 
 * Added a new optional field **I want to use ATP because I’m a** with the following responses: Recruiter, HR Specialist, Hiring Manger. This will help us better understand our users and will help us make improvements to the site. This will also appear on the revised **Complete your account information page**.
 * Renamed the Required details page to **Complete your account information**.
@@ -235,15 +255,14 @@ If the user has selected any of these reasons, the field will show True, otherwi
 
 
 ## Changes made May 14, 2021
-### Sitewide enhancements
-#### Events
+### Events
 
 * Increased font size to 16px for the **Event description**.
 * Revised the validation text to be consistent and clear on the **Event description** and **Event logistics** page. 
 * Added text wrapping, so long descriptions and overflow text do not display beyond the given space.
 * Updated the look and feel of the event modals to meet USDWS standards.
 
-#### Campaigns
+### Campaigns
 
 * Updated the agency table and implemented new access restrictions for agencies.
   * Department Administrators will now see all agencies under the department. Example: DoD will now see all children and grandchildren relationships (AF- 11th wing). Air Force will now see all elements under them.
@@ -256,7 +275,7 @@ If the user has selected any of these reasons, the field will show True, otherwi
 * Added text wrapping for long campaign names.
 * Added validation text in the **Add job announcement** modal.
 
-#### Search
+### Search
 
 * Updated the display to only show 10,000 search results. Anything over 10,000 results will display as 10,000+ (1 of 10,000+ results).
 * Fixed multiple 508 issues.
@@ -368,7 +387,7 @@ If the user has selected any of these reasons, the field will show True, otherwi
 ### Changes to the user experience and user interface
 
 * Updated the way **Events** display.
-* Replaced job seeker with acndidate.
+* Replaced job seeker with candidate.
 * Updated required and optional instructions for form fields.
 * Updated the padding around the mass save banner
 * Updated the wording on the **Search results** page.
