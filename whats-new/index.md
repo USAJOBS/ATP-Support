@@ -7,6 +7,15 @@ sidenav: what-is-new
 title: What's new with ATP
 ---
 
+## Changes made February 17, 2023
+### Sitewide
+
+* Added a link to the JOA playbook on the signed-in landing page.
+
+### Events
+
+* Updated the event card to make the event title a link to the live event details page on USAJOBS.gov.
+
 ## Changes made February 3, 2023
 ### Sitewide
 
