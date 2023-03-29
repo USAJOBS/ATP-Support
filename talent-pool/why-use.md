@@ -11,4 +11,4 @@ Using talent pools streamlines the federal hiring process by facilitating the us
 
  
 
-If you want to hire a candidate from the talent pool, you must complete the hire using your talent acquisition system. Learn more about using a talent pool. 
+If you want to hire a candidate from the talent pool, you must complete the hire using your talent acquisition system. [Learn more about using a talent pool](how-can-agency-use). 
