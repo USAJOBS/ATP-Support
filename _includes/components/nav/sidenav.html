@@ -287,5 +287,53 @@
         </li>
       </ul>
     {% endif %}
+	{% if page.section == 'talent-pool' %}
+	      <h3 class="usajobs-openopps-help-center-article-sidenav__title">
+	Talent pool
+	      </h3>
+	      <ul class="usa-sidenav-list">
+	        <li>
+	          <a {% if page.sidenav == 'talent-pool' %}class="usa-current"{% endif %} href="{{ '/talent-pool' | relative_url }}">
+	            What is a talent pool?
+	          </a>
+	        </li>
+	        <li>
+	          <a {% if page.sidenav == 'talent-pool-why-use' %}class="usa-current"{% endif %} href="{{ '/talent-pool/why-use' | relative_url }}">
+	            Why should I use a talent pool?
+	          </a>
+	        </li>
+	        <li>
+	          <a {% if page.sidenav == 'talent-pool-who-can-use' %}class="usa-current"{% endif %} href="{{ '/talent-pool/who-can-use' | relative_url }}">
+	            Who can use talent pools?
+	          </a>
+	        </li>
+	        <li>
+	          <a {% if page.sidenav == 'talent-pool-how-can-agency-use' %}class="usa-current"{% endif %} href="{{ '/talent-pool/how-can-agency-use' | relative_url }}">
+	            How can my agency use talent pools?
+	          </a>
+	        </li>
+	        <li>
+	          <a {% if page.sidenav == 'talent-pool-add-role' %}class="usa-current"{% endif %} href="{{ '/talent-pool/add-role' | relative_url }}">
+	            How can I become a talent pool manager or shared certificate coordinator?
+	          </a>
+	        </li>
+	        <li>
+	          <a {% if page.sidenav == 'talent-pool-hiring-rules-guidelines' %}class="usa-current"{% endif %} href="{{ '/talent-pool/hiring-rules-guidelines' | relative_url }}">
+	            Are there specific hiring rules and guidelines for using a talent pool?
+	          </a>
+	        </li>
+		 <li>
+	          <a {% if page.sidenav == 'talent-pool-job-announcement-type' %}class="usa-current"{% endif %} href="{{ '/talent-pool/job-announcement-type' | relative_url }}">
+	            Can I create a talent pool for any job announcement?
+	          </a>
+	        </li> 
+		<li>
+	          <a {% if page.sidenav == 'talent-pool-expire' %}class="usa-current"{% endif %} href="{{ '/talent-pool/expire' | relative_url }}">
+	            Do talent pools expire?
+	          </a>
+	        </li>	
+	</ul>
+    {% endif %}
+
     </div>
     
