@@ -13,10 +13,6 @@ title: What's new with ATP
 * Released the new **talent pool** feature to help agencies share and find talent using lists of qualified candidates who are already on approved Competitive Service Act certificates of eligibles.
 * Created multiple user roles specifically for talent pools.
 
-### Events
-
-* Updated the **Create an event** form to add validation text to the event approval date fields. The validation text will stop expired events from being approved and posted to USAJOBS.
-
 ## Changes made February 17, 2023
 ### Sitewide
 
