@@ -7,6 +7,43 @@ sidenav: what-is-new
 title: What's new with ATP
 ---
 
+## Changes made May 12, 2023
+### Sitewide 
+
+* Redesigned the main navigation in the header.
+  * The top right corner navigation contains links to **Help**, **My Account** and **Sign In**.
+  * A new primary navigation bar across the top has links to the main ATP features including **Branded Search**, **Search Resumes**, **Talent Pools**, **Campaigns**, **Events** and **Administration**.
+
+### Events 
+
+* Updated the **Events** description on the landing page to include both **USAJOBS** and **Career site** events.
+* Updated the **Create event** form to include validation for the **Event URL** field.
+* Revised instructional text on **Event preview and submit** page.
+
+### Campaigns 
+
+* Added a standard greeting to all new messages. 
+
+### Talent pools 
+
+* Added a link to download a report for talent pools.
+* Added a new page for the agency user to view **Available pools** as read-only.
+* Revised the instructional text for when there are no pools available for the agency user view.
+* Added a **Failed to respond** radio button to the **Manage candidates** page.
+* Revised the hover text for the **Share candidates** button to include the failed to respond option.
+
+## Changes made April 28, 2023
+### Sitewide 
+
+* Added **Talent pools** to the main navigation bar.
+* Changed the background color on pages.
+
+### Events 
+
+* Added a progress bar to the **Create career site event** process.
+* Added buttons to remove and edit career site events.
+* Created confirmation emails that will go the event site coordinator when they submit an event and when their event is approved.
+
 ## Changes made March 31, 2023
 ### Sitewide
 
