@@ -7,6 +7,21 @@ sidenav: what-is-new
 title: What's new with ATP
 ---
 
+## Changes made June 9, 2023
+### Events  
+
+* Updated the event type categories in ATP and USAJOBS.
+
+## Changes made May 26, 2023
+### Sitewide 
+
+* Updated ATP Login.gov instructional text to clarify you can use any of the three sign in options.
+
+### Events 
+
+* Updated the email an event creator receives after submitting an event to specify the turn around time is three business days instead of 72 hours. 
+* Added the ability to create career site events in ATP and display them on the career sites.
+
 ## Changes made May 12, 2023
 ### Sitewide 
 
