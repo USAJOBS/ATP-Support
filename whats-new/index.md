@@ -7,6 +7,11 @@ sidenav: what-is-new
 title: What's new with ATP
 ---
 
+## Changes made June 23, 2023
+### Talent pools
+
+* Updated the instructional text on the **Candidates** page to include the option to mark a candidate as **Failed to respond**.
+
 ## Changes made June 9, 2023
 ### Events  
 
