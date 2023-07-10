@@ -7,7 +7,7 @@ sidenav: talent-pool-hiring-rules-guidelines
 title: Are there specific hiring rules and guidelines for using a talent pool?
 ---
 
-Yes. To create a talent pool or hire from a talent pool, you must meet and follow specific shared certificate hiring guidelines. [Read these FAQs about hiring off a shared certificate](https://chcoc.gov/sites/default/files/Competitive%20Service%20Act%20-%20Shared%20Certificates%20Q%26As_508.pdf){:target="_blank"}. 
+Yes. To create a talent pool or hire from a talent pool, you must meet and follow specific shared certificate hiring guidelines. [Read these FAQs about hiring off a shared certificate](https://chcoc.gov/sites/default/files/Competitive%20Service%20Act%20-%20Shared%20Certificates%20Q%26As.pdf){:target="_blank"}. 
 
 Additionally, each talent acquisition system (TAS) has their own guidelines on how to complete a hire using a shared certificate.  
 
