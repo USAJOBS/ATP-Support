@@ -7,6 +7,11 @@ sidenav: what-is-new
 title: What's new with ATP
 ---
 
+## Changes made July 7, 2023
+### Talent pools
+
+* Revised the instructional text for the shared certificate coordinator view of the **Available talent pools** tab.
+
 ## Changes made June 23, 2023
 ### Talent pools
 
