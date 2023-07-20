@@ -19,4 +19,4 @@ Each talent pool includes the following details:
 
 Each talent pool has a list of candidates that are qualified and approved for hiring based on the above details. You can use the talent pool if your agency is hiring for a position that has the same series, grade, promotion potential and location.  
 
-If you want to hire a candidate listed on a talent pool, you must complete the hire using your talent acquisition system. [Read these FAQS about hiring from a shared certificate](https://chcoc.gov/sites/default/files/Competitive%20Service%20Act%20-%20Shared%20Certificates%20Q%26As_508.pdf){:target="_blank"}. 
+If you want to hire a candidate listed on a talent pool, you must complete the hire using your talent acquisition system. [Read these FAQS about hiring from a shared certificate](https://chcoc.gov/sites/default/files/Competitive%20Service%20Act%20-%20Shared%20Certificates%20Q%26As.pdf){:target="_blank"}. 
