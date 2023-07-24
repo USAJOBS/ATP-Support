@@ -7,6 +7,25 @@ sidenav: what-is-new
 title: What's new with ATP
 ---
 
+## Changes made July 21, 2023
+### Branded search
+
+* Removed the borders around the top two sections of content to standardize the design.
+* Updated the instructional text in two areas.
+
+### Events
+
+* Updated the **Career site events** links to static text on published events.
+
+### Messaging
+
+* Added a new confirmation email for users who submit an event.
+
+### Talent pools
+
+* Updated the **Talent pool dasbhoard** link in the breadcrumb navigation.
+* Removed archived talent pools from the available pools view.
+
 ## Changes made July 7, 2023
 ### Talent pools
 
