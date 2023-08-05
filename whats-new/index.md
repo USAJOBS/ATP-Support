@@ -7,6 +7,15 @@ sidenav: what-is-new
 title: What's new with ATP
 ---
 
+## Changes made August 4, 2023
+### Campaigns
+
+* Updated the **Campaign actions** button to display it’s drop-down when a user clicks the arrow.
+
+### Resume search
+
+* Added the ability to search resumes by zip code.
+
 ## Changes made July 21, 2023
 ### Branded search
 
