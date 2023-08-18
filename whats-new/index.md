@@ -7,6 +7,30 @@ sidenav: what-is-new
 title: What's new with ATP
 ---
 
+## Changes made August 18, 2023
+### Sitewide
+
+* Added the ability to **invite multiple users** at once to ATP.
+
+### Campaigns
+
+* Added a new feature to **Remove unavailable candidates** from a campaign.
+* Added the ability to disable sending messages to **Unavailable candidates** in a campaign.
+
+### Events
+
+* Updated the **Create event** form to include a field for a Branded search URL. Events can now display links to a branded search page.
+* Added the ability to **create a career site event**.
+
+### Branded search
+
+* Fixed an error so we can display a branded search page with more than one agency.
+
+### Talent pools
+
+* Updated the **Share candidates** information message banner explaining how to share candidates.
+
+
 ## Changes made August 4, 2023
 ### Campaigns
 
