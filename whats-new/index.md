@@ -7,6 +7,11 @@ sidenav: what-is-new
 title: What's new with ATP
 ---
 
+## Changes made September 1, 2023
+### Sitewide
+
+* Added ATP specific training events to the homepage.
+
 ## Changes made August 18, 2023
 ### Sitewide
 
