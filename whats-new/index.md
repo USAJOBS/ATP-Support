@@ -7,6 +7,28 @@ sidenav: what-is-new
 title: What's new with ATP
 ---
 
+## Changes made September 29, 2023
+### Talent search
+
+* Changed the **My copied talent pools** tab to **Copied CSA pools** tab.
+* Redesigned the table for CGA talent pool requests to be a sortable table.
+
+### Branded search
+
+* Revised the navigation and breadcrumbs.
+
+## Changes made September 15, 2023
+### Talent search
+
+* Launched **Cross-Government action** (CGA) talent pools.
+* Updated the blank state view of talent pools.
+* Added validation text for the **Certificate issue date** and **Expiration date**.
+* Updated the **Share candidates** button on the **Candidates** page.
+
+### Training events
+
+* Added validation text for the event title field and fixed grammatical errors.
+
 ## Changes made September 1, 2023
 ### Sitewide
 
