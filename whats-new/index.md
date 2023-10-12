@@ -7,6 +7,22 @@ sidenav: what-is-new
 title: What's new with ATP
 ---
 
+## Changes made October 13, 2023
+### Sitewide
+
+* Fixed an error where Agency Administrators did not see the correct roles.
+
+### Campaigns
+
+* Updated the **Messaging** feature so users can now send emails using a group email address. 
+
+### Talent pools
+
+* Revised the content of the **approve and deny** modal when requesting access to a CGA talent pool.
+* Removed the display of hiring paths from the candidate card.
+* Added validation to the **Certificate issue and expiration date** fields on the **Create talent pool** page.
+* Updated the listed order of talent pools.
+
 ## Changes made September 29, 2023
 ### Talent search
 
