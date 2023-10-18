@@ -7,8 +7,7 @@ sidenav: branded-search-create
 title: How to create a branded search page
 ---
 
-To create a branded search page you must have an active ATP account. If you need an account, email [recruiter-help@usajobs.gov](mailto:recruiter-help@usajobs.gov).
-
+To create a branded search page you must have an active ATP account with the Branded Search Manager role. If you need an account, email [recruiter-help@usajobs.gov](mailto:recruiter-help@usajobs.gov).
 
 ## 1. Send a request to become a **Branded Search Manager**
 
@@ -34,3 +33,13 @@ To create a branded search page you must have an active ATP account. If you need
 * Add your banner.
 * Choose the filters you would like to appear on your page. 
 * Click **Publish**.
+
+### Who can create or edit a branded search page?
+Only users with the branded search manager role can create or edit a branded search page. The USAJOBS program office is responsible for granting this access. We recommend this role is reserved for individuals who support hiring and recruitment initiatives within their agency and are not already designated as an agency administrator within ATP.
+
+### What size banner should I use?
+The banner must be a .jpg, .png, .gif, or .webp with a maximum image height is 250px or 125px if made in Illustrator. There is no recommended width, however standard resolution is 1366px. 
+
+### Can I imbed a video into the branded search page? 
+Imbedding videos is currently not available, but we may consider this for a future enhancement.  
+
