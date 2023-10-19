@@ -131,7 +131,11 @@
 	            What if my agency has a branded search page using the old template?
 	          </a>
 		</li>
-		
+		      <li>
+	          <a {% if page.sidenav == 'branded-search-portals' %}class="usa-current"{% endif %} href="{{ '/agency-branded-search/portals' | relative_url }}">
+	            List of USAJOBS job search portals
+	          </a>
+		</li>	
 		
 	</ul>
     {% endif %}
