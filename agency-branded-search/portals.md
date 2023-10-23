@@ -9,21 +9,19 @@ title: List of USAJOBS job search portals
 
 Below is a list of existing USAJOBS branded search pages, also known as portals. We partner with federal agencies to create job search portals, to highlight open jobs specific to an occupation, an agency’s unique hiring need or a government-wide hiring initiative. 
 
-## AI Portal  
-
+## Artificial intelligence (AI) portal  
 Link: https://ai.usajobs.gov/
 
-You can find the link to the AI portal on the Urgent hiring needs page under Other.
+You can find the link to the AI portal on the [Urgent hiring needs](https://www.usajobs.gov/?c=opportunities) page under Other. 
 
 ### Purpose 
-
-The AI Portal serves as a place for job seekers to view and apply to AI and AI-enabling job opportunities.
+This portal displays AI and AI-enabling job opportunities.
 
 ### How to post a job on this portal 
+Select the **AI custom mission critical occupation** (MCO) tag. 
 
-Use the AI custom mission critical occupation (MCO) tag. 
+Download the AI portal informational flyer.
 
-View the portal flyer (insert link to flyer)
 
 ## Bipartisan Infrastructure Law   
 Link: https://bil.usajobs.gov/Search/Results?mco=10&p=1
