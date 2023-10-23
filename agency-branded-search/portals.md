@@ -20,7 +20,7 @@ This portal displays AI and AI-enabling job opportunities.
 ### How to post a job on this portal 
 Select the **AI custom mission critical occupation** (MCO) tag. 
 
-Download the AI portal informational flyer.
+[Download the AI portal informational flyer](/assets/USAJOBS_AI_recruitment_flyer.pdf){:target="_blank"}.
 
 
 ## Bipartisan Infrastructure Law   
