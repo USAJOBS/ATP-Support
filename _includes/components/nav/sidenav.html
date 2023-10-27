@@ -102,21 +102,16 @@
 	          </a>
 	        </li>
 	        <li>
-	          <a {% if page.sidenav == 'branded-search-cpdf-code' %}class="usa-current"{% endif %} href="{{ '/agency-branded-search/cpdf-code' | relative_url }}">
-	            What is a CPDF code?
-	          </a>
-	        </li>
-	        <li>
 	          <a {% if page.sidenav == 'branded-search-create' %}class="usa-current"{% endif %} href="{{ '/agency-branded-search/create' | relative_url }}">
 	            How to create a branded search page
 	          </a>
 	        </li>
-	        <li>
-	          <a {% if page.sidenav == 'branded-search-customize' %}class="usa-current"{% endif %} href="{{ '/agency-branded-search/customize' | relative_url }}">
-	            How can I customize my agency’s branded search page?
+		     <li>
+	          <a {% if page.sidenav == 'branded-search-mco-tags' %}class="usa-current"{% endif %} href="{{ '/agency-branded-search/mco-tags' | relative_url }}">
+	            How to create and select mission critical occupation tags
 	          </a>
-	        </li>
-	        <li>
+	        </li> 
+	       	        <li>
 	          <a {% if page.sidenav == 'branded-search-data' %}class="usa-current"{% endif %} href="{{ '/agency-branded-search/data' | relative_url }}">
 	            Do you track the number of visitors or similar traffic to the branded search page?
 	          </a>
@@ -140,15 +135,13 @@
 	          <a {% if page.sidenav == 'branded-search-update-old-template' %}class="usa-current"{% endif %} href="{{ '/agency-branded-search/update-old-template' | relative_url }}">
 	            What if my agency has a branded search page using the old template?
 	          </a>
-		<li>
-	          <a {% if page.sidenav == 'branded-search-who-can-create' %}class="usa-current"{% endif %} href="{{ '/agency-branded-search/who-can-create' | relative_url }}">
-	            Who can create or edit branded search pages?
+		</li>
+		      <li>
+	          <a {% if page.sidenav == 'branded-search-portals' %}class="usa-current"{% endif %} href="{{ '/agency-branded-search/portals' | relative_url }}">
+	            List of USAJOBS job search portals
 	          </a>
-		<li>
-	          <a {% if page.sidenav == 'branded-search-why-create' %}class="usa-current"{% endif %} href="{{ '/agency-branded-search/why-create' | relative_url }}">
-	            Why create a branded search page?
-	          </a>
-	        </li>
+		</li>	
+		
 	</ul>
     {% endif %}
     {% if page.section == 'campaigns' %}
