@@ -10,7 +10,7 @@ We use mission-critical occupation (MCO) tags to filter jobs for USAJOBS agency-
 
 ## MCO tags for agency-branded search pages
 
-If your agency does not have a unique CPDF code to create a branded search page, you can ask your agency’s Talent Acquisition System (TAS) to create an MCO tag. Once the tag is created, agency staffing specialists can add it to job postings they would like to appear on the branded search page. 
+If your agency does not have a unique CPDF code to create a branded search page, you can ask your agency’s Talent Acquisition System (TAS) to create an MCO tag. Once the tag is created, agency staffing specialists can add it to job postings they would like to appear on the branded search page.
 
 When you create a branded search page, add the custom MCO tag to the Custom MCO tag filter section. The branded search page will automatically display jobs with that unique MCO tag.
 
@@ -22,6 +22,15 @@ USAJOBS creates portals to support government-wide hiring initiatives, such as T
 
 ## How to add MCO tags to your Talent Acquisition System (TAS)
 
-[Review this guide to learn how to add custom MCO tags for Monster Government Solutions](/assets/How-to-select-mco-tags-monster.pdf).
+<div class="usajobs-openopps-help-center-article__callout2">
+  <a class="usajobs-openopps-help-center-article__callout-link" href="{{ site.baseurl }}/assets/How-to-select-mco-tags-monster.pdf" target= "blank">
+  Review this guide to learn how to add custom MCO tags for Monster Government Solutions
+  </a>
+</div>
 
-[Review this guide to learn how to add custom MCO tags for USA Staffing](/assets/How-to-select-mco-tags-usas.pdf).
+<div class="usajobs-openopps-help-center-article__callout2">
+  <a class="usajobs-openopps-help-center-article__callout-link" href="{{ site.baseurl }}/assets/How-to-select-mco-tags-usas.pdf" target= "blank">
+Review this guide to learn how to add custom MCO tags for USA Staffing
+  </a>
+</div>
+
