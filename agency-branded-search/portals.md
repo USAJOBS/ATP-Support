@@ -71,9 +71,7 @@ Select the **TechToGov custom mission critical occupation (MCO)** tag.
 
 ## National Security
 
-[Students and recent graduates hiring path](https://www.usajobs.gov/Help/working-in-government/unique-hiring-paths/students/)
-
-[Federal STEM Jobs](https://stem.usajobs.gov/Search/Results?s=relevance&sd=asc&mco=07&p=1)
+[National Security and Foreign Policy jobs](https://natsec.usajobs.gov/Search/Results?cmco=NatSec&s=relevance&sd=asc&p=1)
 
 You can find the link to the National Security portal on the [Urgent hiring needs](https://www.usajobs.gov/?c=opportunities) page under Other.
 
