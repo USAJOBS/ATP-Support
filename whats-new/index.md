@@ -7,6 +7,20 @@ sidenav: what-is-new
 title: What's new with ATP
 ---
 
+## Changes made October 27th, 2023
+### Sitewide
+
+* Changed button text on ATP Events from "Sign up" to "See more details.”
+* Removed underlines from landing page link text.
+* Added icons to **Help**, **Sign in**, **Sign out**, and **My Account** links.
+
+### Talent pools
+
+* Added Cross-government Action (CGA) talent pools to expand available talent pools.
+* Added alternating color rows to talent pool tables for ease of reading.
+* Added validation text to hiring certificate issue date.
+* Added instructional text to shared certificate coordinator view of **Copied CSA** pools.
+
 ## Changes made October 13, 2023
 ### Sitewide
 
