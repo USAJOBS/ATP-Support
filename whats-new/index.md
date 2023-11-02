@@ -99,7 +99,7 @@ title: What's new with ATP
 
 ### Talent pools
 
-* Updated the **Talent pool dasbhoard** link in the breadcrumb navigation.
+* Updated the **Talent pool dashboard** link in the breadcrumb navigation.
 * Removed archived talent pools from the available pools view.
 
 ## Changes made July 7, 2023
