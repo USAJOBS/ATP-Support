@@ -7,7 +7,7 @@ sidenav: what-is-new
 title: What's new with ATP
 ---
 
-## Changes made November 10th, 2023
+## Changes made November 13th, 2023
 ### Sitewide
 
 * **Additional email for messaging** will now display as static text after the user's email is confirmed.
