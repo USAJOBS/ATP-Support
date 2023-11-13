@@ -7,6 +7,24 @@ sidenav: what-is-new
 title: What's new with ATP
 ---
 
+## Changes made November 13th, 2023
+### Sitewide
+
+* **Additional email for messaging** will now display as static text after the user's email is confirmed.
+
+### Campaigns
+
+* Updated navigation to display full list of search results after adding a candidate to a campaign.
+
+### Resume Search
+
+* Updated candidate cards to expand list of hiring paths via a "Show more" link when candidate has 10 or more hiring paths chosen.
+
+### Bug Fixes
+
+* Fixed an issue preventing ATP Events from posting to landing page.
+* Fixed an issue preventing the display of edit options when creating talent pools.
+
 ## Changes made October 27th, 2023
 ### Sitewide
 
