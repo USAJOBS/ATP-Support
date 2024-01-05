@@ -7,6 +7,59 @@ sidenav: what-is-new
 title: What's new with ATP
 ---
 
+## Changes made January 5, 2024
+### Sitewide
+
+* Removed listserv information from right rail of **landing page**.
+
+### Events
+
+* Redesigned both USAJOBS and Career site **event creation pages**.
+
+### Campaigns
+
+* Updated functionality of “Saved” tag to prevent tag persisting after campaign has been archived.
+
+## Changes made December 22, 2023
+### Sitewide
+
+* Added **ATP training events**.
+* Added ability to save ATP training events to a personal calendar.
+
+### Campaigns
+
+* Corrected error displaying duplicative hiring paths on candidate cards.
+
+### Campaigns
+
+* Fixed bug preventing Shared Certificate Coordinators from being able to download reports.
+
+## Changes made December 9, 2023
+### Talent pools
+
+* Fixed an error preventing the **Talent pool dashboard** from displaying properly.
+
+### Branded search
+
+* Revised instructional text and added a frequently asked questions (FAQ) section.
+
+### My account
+
+* Added validation and instructional text to the **phone number field**.
+* Added validation text for **optional Additional messaging email**.
+
+## Changes made November 27, 2023
+### Talent pools
+
+* Fixed an error that prevented the display of **approved CGA talent pools**.
+* Added the ability to export report under **Agencies-at-a glance page**.
+* Changed default **CGA Talent pool** location text from “Varies” to “Negotiable.”
+
+### Resume search
+
+* Added ability to search by WG pay band.         
+* Updated order of hiring paths on candidate cards.
+
 ## Changes made November 13th, 2023
 ### Sitewide
 
