@@ -7,6 +7,58 @@ sidenav: what-is-new
 title: What's new with ATP
 ---
 
+## Changes made February 16, 2024
+### Sitewide
+
+* Fixed incorrect hover text for "My Account."
+
+### Talent pools
+
+* Talent pool managers and shared certificate coordinators can now link to the agency user view.
+* Created new page to display edit talent pool functionality.
+* Users can now edit the PDF URL for a published talent pool.
+* Updated location of link to "Agency user view" from "Copied CSA pools" tab on talent pool dashboard.
+
+### Campaigns
+
+* Fixed error preventing hover text for "Unavailable" from displaying.
+
+### Talent pools
+
+* Added ability to create talent pools with Remote or Negotiable locations.
+
+## Changes made February 2, 2024
+### Sitewide
+
+* Updated language on sign-on page from "PIV/CAC card" to "CAC/PIV card."
+* Updated icons
+
+### Administration
+
+* Administrators can now manually remove a user's Agency Talent Portal (ATP) invite.
+* Fixed an error that prevented users from viewing ATP roles when managing users.
+
+### Events
+
+* Added confirmation visual when a draft is saved.
+
+### Talent pools
+
+* Added ability to create talent pools with Remote or Negotiable locations.
+* Users may now edit talent pool location, adding Multiple, Remote, or Negotiable locations.
+* Updated system emails to include Multiple, Remote, or Negotiable locations for a talent pool.
+* Updated talent pool details and dashboard to display multiple locations for a talent pool.
+
+## Changes made January 19, 2024
+### Talent pools
+
+* Added "Location" to **Available CGA pools** tab.
+* Fixed error preventing users from deselecting the star on candidate cards
+
+### Events
+
+* Removed "Is this a publicly available event" language from event creation.
+
 ## Changes made January 5, 2024
 ### Sitewide
 
