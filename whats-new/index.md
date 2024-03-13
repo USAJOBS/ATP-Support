@@ -7,6 +7,34 @@ sidenav: what-is-new
 title: What's new with ATP
 ---
 
+## Changes made March 1, 2024
+### Sitewide
+
+* Fixed bug causing error when using USAStaffing sign-in method.
+* Added embedded one-pagers which provide helpful information the Agency Talent Portal (ATP), branded search and ATP events.
+
+### Branded search
+
+* Added "Internal to agency" filter to branded search page type.
+
+### Campaigns
+
+* Updated display on candidate cards to include pay scale and highest grade.
+* Updated "Unavailable" tag.
+* Updated the format of the "Last update" field.
+
+### Events
+
+* Users can now approve an event up to 11:59 PM ET the day of the event.
+
+* ### Resume search
+
+* Updated search functionality to include "Current" and "Desired" when searching by state.
+
+* ### Talent pools
+
+* Removed "Viewing XX-XX of XX users" from talent pools dashboard display.
+
 ## Changes made February 16, 2024
 ### Sitewide
 
