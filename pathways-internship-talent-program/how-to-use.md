@@ -22,4 +22,4 @@ The Pathways Program Officer (PPO) can also invite interns that your agency cann
 
 Your agency’s PPO should track these deadlines and communicate with interns in this talent program to make sure they understand all program due dates and requirements.
 
-For more help converting interns via this talent program, please email pathways@opm.gov.
+For more help converting interns via this talent program, please email [pathways@opm.gov](mailto:pathways@opm.ogv).
