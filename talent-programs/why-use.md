@@ -1,9 +1,9 @@
 ---
-permalink: talent-programs/why-use
+permalink: talent-programs/
 layout: article
 section: talent-programs
 category: talent-programs
-sidenav: talent-programs-why-use
+sidenav: talent-programs
 title: How can talent programs help my agency?
 ---
 
