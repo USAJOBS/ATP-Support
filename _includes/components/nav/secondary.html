@@ -41,8 +41,6 @@
 	        Branded search
 	      </a>
 	    </li>
-
-
       <li
         class="usajobs-openopps-help-center-nav-secondary__container campaigns {% if page.section == 'campaigns' %}is-active{% endif %}"
       >
@@ -82,8 +80,16 @@
       >
         Talent pools
       </a>
+      <li
+      class="usajobs-openopps-help-center-nav-secondary__container talent-programs {% if page.section == 'talent-programs' %}is-active{% endif %}"
+    >
+      <a
+        class="usajobs-openopps-help-center-nav-secondary__item"
+        href="{{ '/talent-programs/' | relative_url }}"
+      >
+        Talent programs
+        </a>
     </li>
-      
       <li
         class="usajobs-openopps-help-center-nav-secondary__container what-is-new {% if page.section == 'what-is-new' %}is-active{% endif %}"
       >
