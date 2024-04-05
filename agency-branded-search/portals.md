@@ -9,7 +9,7 @@ title: List of USAJOBS job search portals
 
 Below is a list of existing USAJOBS branded search pages, also known as portals. We partner with federal agencies to create job search portals, to highlight open jobs specific to an occupation, an agency’s unique hiring need or a government-wide hiring initiative.
 
-Job seekers can find this list of portals on the USAJOBS home page by following the ["View more career fields"](https://www.usajobs.gov/explorecareerpaths/) link provided on the page.
+Job seekers can find the link to these portals on the USAJOBS home page under [View more career fields](https://www.usajobs.gov/explorecareerpaths/).
 
 ## Artificial intelligence (AI)
 
