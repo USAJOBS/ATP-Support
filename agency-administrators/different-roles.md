@@ -4,11 +4,11 @@ layout: article
 section: agency-administrators
 category: agency-administrators
 sidenav: agency-administrators-different-roles
-title: What are the different roles in Agency Talent Portal?
+title: What roles are available in the Agency Talent Portal?
 ---
 
 
-There are several different roles in ATP with different responsibilities and permissions.
+When you create an Agency Talent Portal (ATP) account, you will be assigned one or more roles. Each role has unique responsibilities and permissions, outlined below.
 
 ### Agency administrator
 
@@ -28,16 +28,6 @@ The agency general user can:
 * Search resumes.
 * Create events for their agency.
 * Create campaigns and messaging.
-
-### Help desk user
-
-The help desk user is responsible for responding to Help Desk requests. This role is responsible for managing the following for Agency Talent Portal (ATP) users:
-
-* Email addresses
-* Agency information
-* User names
-* Resume mining
-* Career site filters
 
 ### Event coordinator user
 
