@@ -47,8 +47,6 @@ The event coordinator user can only create events for their agency. This user do
 
 The branded search manager manages their agency’s branded search page.
 
-This role can only be assigned by system administrators on the USAJOBS team.
-
 ### Talent pool manager
 
 The talent pool manager can create and publish Competitive Service Act (CSA) talent pools.
@@ -77,7 +75,7 @@ The talent pool creator role is only granted to members of the Staff Acquisition
 
 This role can only be assigned by system administrators on the USAJOBS team.
 
-###Career site event coordinator
+### Career site event coordinator
 
 The career site event coordinator is responsible for updating agency events on their agency’s intelligence careers site.
 This role can only be assigned by the system administrators on the USAJOBS team.
