@@ -49,13 +49,13 @@ The shared certificate coordinator acts as the liaison between their agency and 
 
 For CSA talent pools, this role is responsible for:
 
-*Contacting all candidates to verify their interest in the shared certificate coordinator’s agency
-*Sharing the talent pool with their agency
-*Marking candidates as **selected** or **declined**
+* Contacting all candidates to verify their interest in the shared certificate coordinator’s agency
+* Sharing the talent pool with their agency
+* Marking candidates as **selected** or **declined**
 
 For CGA talent pools, this role is responsible for:
 
-*Requesting access and completing the action overview form received after an access request
+* Requesting access and completing the action overview form received after an access request
 
 This role can only be assigned by system administrators on the USAJOBS team.
 
