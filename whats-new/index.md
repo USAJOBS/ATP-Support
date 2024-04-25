@@ -7,6 +7,83 @@ sidenav: what-is-new
 title: What's new with ATP
 ---
 
+## Changes made April 26, 2024
+
+### Sitewide
+
+* Updated UTC time zone displays across the Agency Talent Portal (ATP).
+
+* Created agency administrator dashboard to display branded search pages and updates to talent pools copied, shared and created within the agency.
+
+* Corrected issue preventing display of additional pages of available talent pools.
+
+### Talent pools
+
+* Created automated email reminder for shared certificate coordinators to share Talent Pools with their agency and mark candidates as selected.
+
+* **Share candidates** button will now be enabled after the agency respond-by date to ensure candidates have time to update their responses.
+
+### Resume search
+
+* Added saved search feature to enable users to receive updated lists of candidates that match their search parameters.
+
+* Updated slide range in search bar parameters to align with candidates last updated USAJOBS profiles.
+
+
+## Changes made April 12, 2024
+
+### Sitewide
+
+* Updated UTC time zone displays across ATP.
+
+* Updated icons across the Agency Talent Portal (ATP) from Font Awesome to USWDS.
+
+* Updated content on CAC registration page to reflect CAC/PIV card.
+
+* Fixed error causing 508 accessibility issue.
+
+### Talent pools
+
+* Talent pool display will now automatically update status for candidates who fail to respond.
+
+* **Share candidates** button will now be enabled only after all candidate responses are captured.
+ 
+## Changes made March 29, 2024
+
+### Talent pools
+
+* Shared Certificate Coordinators (SCC) may now send talent pool candidates an email soliciting interest in a position. Responses will automatically display within ATP.
+
+### Campaigns
+
+* Added a new **Notes** section to collect and display information exchanged between HR staff and candidates.
+* Updated view of candidates within a campaign to display as a **list** or **grid** view.
+
+
+## Changes made March 25, 2024
+
+### Talent programs
+
+* Released new Talent Programs feature to allow agency users to browse Pathways interns eligible for conversion to federal positions.  More Talent Programs will be added to this list periodically.
+
+
+## Changes made March 15, 2024
+
+### Sitewide
+* Agency administrators can now unlock users at child agencies.
+* Fixed error preventing agency administrators from accessing profiles at agencies within their hierarchy.
+
+### Talent pools
+* Updated agency response time for HHS from 5 days to 3 days.
+
+### Branded search
+* Updated alignment of filters on Branded Search pages.
+* Moved save campaign functionality to above resume search filter.
+
+### Events
+
+* Event creators may now approve events up to the final day of an event.
+
 ## Changes made March 1, 2024
 ### Sitewide
 
@@ -27,11 +104,11 @@ title: What's new with ATP
 
 * Users can now approve an event up to 11:59 PM ET the day of the event.
 
-* ### Resume search
+### Resume search
 
 * Updated search functionality to include "Current" and "Desired" when searching by state.
 
-* ### Talent pools
+### Talent pools
 
 * Removed "Viewing XX-XX of XX users" from talent pools dashboard display.
 
