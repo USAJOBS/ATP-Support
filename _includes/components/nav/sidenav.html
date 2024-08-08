@@ -374,6 +374,31 @@
                         </a>
                       </li>
                         {% endif %}
-
+{% if page.section == 'pathways-recent-graduate-talent-program' %}
+                              <h3 class="usajobs-openopps-help-center-article-sidenav__title">
+                        Pathways Recent Graudate Talent Program
+                              </h3>
+                              <ul class="usa-sidenav-list">
+                                <li>
+                                  <a {% if page.sidenav == 'pathways-recent-graduate-talent-program' %}class="usa-current"{% endif %} href="{{ '/pathways-recent-graduate-talent-program' | relative_url }}">
+                                    What is the Pathways Recent Graudate Talent Program?
+                                  </a>
+                                </li>
+                                <li>
+                                  <a {% if page.sidenav == 'pathways-recent-graduate-talent-program-how-to-use' %}class="usa-current"{% endif %} href="{{ '/pathways-recent-graduate-talent-program/how-to-use' | relative_url }}">
+                                    How can my agency use this talent program?
+                                  </a>
+                                </li>
+                                <li>
+                                  <a {% if page.sidenav == 'pathways-recent-graduate-talent-program-who-are-candidates' %}class="usa-current"{% endif %} href="{{ '/pathways-recent-graduate-talent-program/who-are-candidates' | relative_url }}">
+                                  Who are the candidates in this talent program?
+                                  </a>
+                                </li>
+                                <li>
+                                  <a {% if page.sidenav == 'pathways-recent-graduate-talent-program-who-can-manage' %}class="usa-current"{% endif %} href="{{ '/pathways-recent-graduate-talent-program/who-can-manage' | relative_url }}">
+                                    Who can manage interns in this talent program?
+                                  </a>
+                                </li>
+                                  {% endif %}
 
     </div>

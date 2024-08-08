@@ -11,3 +11,5 @@ The following talent programs are currently available:
 <ul>
 <li>
 <a href="https://usajobs.github.io/ATP-Support/pathways-internship-talent-program/"> Pathways Internship Talent Program <a/>
+<li>
+<a href="https://usajobs.github.io/ATP-Support/pathways-recent-graduate-talent-program/"> Pathways Recent Graduate Talent Program <a/>
